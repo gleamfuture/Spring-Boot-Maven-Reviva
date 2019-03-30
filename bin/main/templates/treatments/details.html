@@ -1,0 +1,317 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8">
+    <title th:text="${pageTitle} + '| Reviva Laser Skin Clinic'"></title>
+    <meta name="author" content="Alan Ngai">
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+    <link th:href="@{'https://fonts.googleapis.com/css?family=Raleway:400,600,700'}" rel="stylesheet"/>
+    <link th:href="@{'https://fonts.googleapis.com/css?family=Playfair+Display'}" rel="stylesheet"/>
+    <link th:href="@{'https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i'}" rel="stylesheet"/>
+
+    <!--stylesheet-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" th:href="@{'css/styles.css'}"/>
+    <link rel="stylesheet" th:href="@{'css/single.component.css'}"/>
+    <link rel="stylesheet" th:href="@{'css/navbar.component.css'}"/>
+    <link rel="stylesheet" th:href="@{'css/menu.component.css'}"/>
+    <link rel="stylesheet" th:href="@{'css/footer.component.css'}"/>
+
+    <style>
+        .routes li.active a {
+            background-color: transparent;
+            border-bottom: 1px solid black;
+        }
+    </style>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async th:src="@{'https://www.googletagmanager.com/gtag/js?id=UA-1349687-1'}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-1349687-1');
+    </script>
+</head>
+<body>
+<!--<div th:replace="fragments/header :: header"/>-->
+<input type="hidden" id="language" th:value="${lang}">
+<div class="navbar navbar-default">
+    <div class="container wide-cont">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" onclick="navIn()" aria-expanded="false">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a th:href="@{'/' + ${lang}}"><img src="assets/img/reviva-logo.png" class="img-responsive"><span class="logo-text hidden-xs">Reviva <br>Laser <br class="hidden-sm">Skin <br>Clinic</span>
+            </a>
+        </div>
+        <ul class="nav nav-lang-drop navbar-nav navbar-right rig visible-sm visible-xs adjusted">
+            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" th:text="${langDisplay}"><span class="chev">&#9662;</span></a>
+                <ul class="dropdown-menu languages">
+                    <li><a th:href="@{'/' + ${lang}}">English</a></li>
+                    <li><a th:href="@{'/' + ${lang}}">中文</a></li>
+                </ul>
+            </li>
+            <!-- <li class="search" (click)="modalSearch()"><img src="assets/img/search.png" alt=""></li> -->
+        </ul>
+
+        <div class="navbar-collapse" id="myNavbar">
+            <ul class="nav nav-menu-pop navbar-nav navbar-left routes">
+                <li><a th:href="@{'/' + ${lang}}" th:text="${header.t1}" onclick="exitMenu()"></a></li>
+                <li><a th:href="@{'/' + ${lang} + '/our-clinic'}" th:text="${header.t2}" onclick="exitMenu()"></a></li>
+                <li><a th:href="@{'/' + ${lang} + '/treatments'}" th:text="${header.t3}" onclick="exitMenu()"></a></li>
+                <li><a href="https://blog.revivamd.com" th:text="${header.blog}" onclick="exitMenu()"></a></li>
+                <li><a th:href="@{'/' + ${lang} + '/contact'}" th:text="${header.t4}" onclick="exitMenu()"></a></li>
+            </ul>
+            <img th:src="@{'assets/img/close.png'}" class="menu-exit" alt="" onclick="exitMenu()">
+
+            <ul class="nav nav-lang-drop navbar-nav navbar-right rig hidden-sm hidden-xs">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" th:text="${langDisplay}"><span class="chev">&#9662;</span></a>
+                    <ul class="dropdown-menu languages">
+                        <li><a th:href="@{'/en'}">English</a></li>
+                        <li><a th:href="@{'/ch'}">中文</a></li>
+                    </ul>
+                </li>
+                <!-- <li class="search" (click)="modalSearch()"><img src="assets/img/search.png" alt=""></li> -->
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <p class="bread"><a th:href="@{'/' + ${lang} + '/treatments'}" th:text="${sin_treat}"></a><span class="divider">/</span><a th:href="@{'/' + ${lang} + '/concerns/' + ${cLink}}" th:text="${name}"></a><span class="divider">/</span><span class="name" th:text="${treatment.name}"></span></p>
+                <h1 th:text="${treatment.name}"></h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<input type="hidden" id="counter" th:value="${counter}"/>
+<input type="hidden" id="leng" th:value="${leng}"/>
+
+<div class="single-body">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                <h2><span th:text="${sin_what}"></span> <span class="capitalize" th:text="${treatment.name}"></span>?</h2><br><br>
+                <p class="two-column content" th:utext="${treatment.what}"></p><br><br><br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-5 col-sm-9">
+                <h2 class="capitalize" th:text="${sin_both}"></h2><br>
+                <p class="inside content" th:utext="${treatment.before}"></p>
+            </div>
+            <div class="col-md-7 col-sm-12 col-xs-12">
+                <div class="slider" id="mini">
+                    <div class="slide" th:each="last: ${treatment.slideimg}">
+                        <div class="row">
+                            <div class="col-sm-6 col-xs-6">
+                                <img th:src="@{${last.before}}" class="img-responsive bef" alt="">
+                                <p th:text="${sin_before}"></p>
+                            </div>
+                            <div class="col-sm-6 col-xs-6">
+                                <img th:src="@{${last.after}}" class="img-responsive bef" alt="">
+                                <p th:text="${sin_after}"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="circles visible-xs">
+                        <div th:each="test, itrStat: ${treatment.slideimg}" th:class="${itrStat.first ? 'aktiv' : ''}">
+                            <svg height="14" width="14"><circle cx="7" cy="7" r="6" stroke="white" stroke-width="1" /></svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="arrows hidden-xs">
+                    <div class="counter">
+                        <p><span id="cnt" th:text="${counter}"></span><br>/<br><span id="lng" th:text="${leng}"></span></p>
+                    </div>
+                    <div class="left-arrow" onclick="moveLeft()">
+                        <img src="assets/img/arrow-left.png" alt="">
+                    </div>
+                    <div class="right-arrow" onclick="moveRight()">
+                        <img src="assets/img/arrow-right.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12 ben">
+                <div class="benefit-box">
+                    <h2 th:text="${sin_ben}"></h2><br>
+                    <div class="content">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <p th:text="${treatment.benefitText}"></p><br>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6" th:each="item: ${treatment.benefits}">
+                                <table class="table">
+                                    <tbody>
+                                    <tr>
+                                        <td><img src="assets/img/check.png" alt=""></td>
+                                        <td th:text="${item}"></td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="questions">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <hr>
+                <div class="q-box" th:each="fa, itrStat: ${treatment.qa}">
+                    <div class="circle-box" th:onclick="'javascript:openQ(' + ${itrStat.index} + ')'">
+                        <img src="assets/img/plus.png" th:class="${'test' + itrStat.index}" alt="">
+                        <img src="assets/img/minus.png" th:class="${'test' + itrStat.index}" style="display: none;" alt="">
+                    </div>
+                    <div class="text-box">
+                        <h2 th:text="${fa.question + '?'}"></h2><br>
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p th:id="${'showme' + itrStat.index}" style="display: none;" th:utext="${fa.answer}"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="other">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 th:text="${sin_other}"></h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-6 push-d" th:each="treat, itrStat: ${treatments}" th:if="${itrStat.index < 3}">
+                <div class="ind">
+                    <hr>
+                    <h3 th:text="${treat.name}"></h3>
+                    <p class="content" th:utext="${treat.shortDescription}"></p>
+                    <a th:href="@{'/' + ${lang} + '/treatments/' + ${treat.link}}" class="big-link" onclick="routeChange()" th:text="${sin_link}"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="more">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 th:text="${sin_make}"></h2>
+                <a th:href="@{'/' + ${lang} + '/contact'}" class="big-link" th:text="${sin_contact}"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div th:replace="fragments/menu :: menu"/>
+<div th:replace="fragments/footer :: footer"/>
+</body>
+
+<script th:src="@{'https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js'}"></script>
+<script th:src="@{'https://cdnjs.cloudflare.com/ajax/libs/core-js/2.4.1/shim.min.js'}"></script>
+<script th:src="@{'https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js'}"></script>
+
+<script>
+    $('html, body').scrollTop(0);
+
+    counter = $('#counter').val();
+    leng = $('#leng').val();
+    setInterval(function() {
+        if (counter < leng) {
+            counter++;
+            $('.slide').fadeOut(1000);
+            $('.circles>div').removeClass('aktiv');
+            $('.slide:nth-child(' + this.counter + ')').fadeIn(1000);
+            $('.circles>div:nth-child('+this.counter+')').addClass('aktiv');
+        } else if (counter == leng) {
+            counter = 1;
+            $('.slide').fadeOut(1000);
+            $('.circles>div').removeClass('aktiv');
+            $('.slide:nth-child(' + 1 + ')').fadeIn(1000);
+            $('.circles>div:nth-child('+1+')').addClass('aktiv');
+        }
+        $('#cnt').text(counter);
+    }, 10000);
+
+    if ($('#language').val() == 'ch') {
+        $('.routes li a, .rig li a').css("font-size","15px");
+        $('.ribbon a').css("font-size","15px");
+    };
+
+    routePage = function (path) {
+        $('.menu-body').toggleClass('activated');
+        $('body').toggleClass('togglebody');
+    };
+
+    crazy = function () {
+        $('.menu-body').toggleClass('activated');
+        $('body').toggleClass('togglebody');
+    };
+
+    moveLeft = function () {
+        if (counter == 1) {
+            counter = leng;
+            $('.slide').fadeOut(1000);
+            $('.slide:nth-child(' + counter + ')').fadeIn(1000);
+
+        } else {
+            counter--;
+            $('.slide').fadeOut(1000);
+            $('.slide:nth-child(' + counter + ')').fadeIn(1000);
+        }
+        $('#cnt').text(counter);
+    };
+
+    moveRight = function () {
+        if (counter < leng) {
+            counter++;
+            $('.slide').fadeOut(1000);
+            $('.slide:nth-child(' + counter + ')').fadeIn(1000);
+        } else {
+            counter = 1;
+            $('.slide').fadeOut(1000);
+            $('.slide:nth-child(' + 1 + ')').fadeIn(1000);
+        }
+        $('#cnt').text(counter);
+    };
+
+    routeChange = function () {
+        location.reload();
+        $('html, body').scrollTop(0);
+    };
+
+    openQ = function (num) {
+        $('.test'+num).toggle();
+        $('#showme'+num).fadeToggle(500);
+    };
+
+</script>
+
+</html>

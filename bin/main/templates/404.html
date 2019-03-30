@@ -2,7 +2,7 @@
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="utf-8">
-    <title>404 | Page Not Found</title>
+    <title>404 Page Not Found!</title>
     <meta name="author" content="Alan Ngai">
     <base href="/">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,9 +16,8 @@
     <!--stylesheet-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"/>
     <link rel="stylesheet" th:href="@{'css/styles.css'}"/>
-    <link rel="stylesheet" th:href="@{'css/treatments.component.css'}"/>
+    <link rel="stylesheet" th:href="@{'css/404.css'}"/>
     <link rel="stylesheet" th:href="@{'css/navbar.component.css'}"/>
-    <link rel="stylesheet" th:href="@{'css/menu.component.css'}"/>
     <link rel="stylesheet" th:href="@{'css/footer.component.css'}"/>
 
     <style>
@@ -66,7 +65,7 @@
             <ul class="nav nav-menu-pop navbar-nav navbar-left routes">
                 <li><a th:href="@{'/' + ${lang}}" th:text="${header.t1}" onclick="exitMenu()"></a></li>
                 <li><a th:href="@{'/' + ${lang} + '/our-clinic'}" th:text="${header.t2}" onclick="exitMenu()"></a></li>
-                <li class="active"><a th:href="@{'/' + ${lang} + '/treatments'}" th:text="${header.t3}" onclick="exitMenu()"></a></li>
+                <li><a th:href="@{'/' + ${lang} + '/treatments'}" th:text="${header.t3}" onclick="exitMenu()"></a></li>
                 <li><a href="https://blog.revivamd.com" th:text="${header.blog}" onclick="exitMenu()"></a></li>
                 <li><a th:href="@{'/' + ${lang} + '/contact'}" th:text="${header.t4}" onclick="exitMenu()"></a></li>
             </ul>
@@ -87,7 +86,24 @@
 </div>
 
 <div class="main-box">
-    <span th:text="${lang}"></span>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="error-template">
+                    <h1>
+                        Oops!</h1>
+                    <h2>
+                        404 Not Found</h2>
+                    <div class="error-details">
+                        Sorry, an error has occured, Requested page not found!
+                    </div>
+                    <div class="error-actions">
+                        <a th:href="@{'/en/contact'}" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-envelope"></span> Contact Support </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div th:replace="fragments/footer :: footer"/>

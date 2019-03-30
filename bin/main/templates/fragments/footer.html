@@ -9,7 +9,7 @@
         <pre><h4 th:text="${footer.s1}"></h4></pre>
         <div class="rel">
           <input type="email" class="form-control" th:placeholder="${footer.enterEmail}">
-          <button class="sub-btn" (click)="message()"><img src="assets/img/footer-arrow.png" class="footer-arrow" alt=""></button>
+          <button class="sub-btn" onclick="message()"><img src="assets/img/footer-arrow.png" class="footer-arrow" alt=""></button>
         </div>
         <img src="assets/img/footer-flower.png" class="flower hidden-sm hidden-xs" alt="">
         <p class="other-links hidden-sm hidden-xs">
@@ -75,6 +75,11 @@
       </div>
     </div>
   </div>
+  <script>
+    message = function () {
+      window.location.href = "mailto:staff@revivamd.com?subject=Please Subscribe me to Reviva!&body=I would like to be subscribed.";
+    }
+  </script>
 </footer>
 
 </html>
