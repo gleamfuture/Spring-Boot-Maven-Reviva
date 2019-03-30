@@ -1,0 +1,2733 @@
+{
+  "home": {
+    "slides": [
+      {"text": "Here to \nreveal your \nnatural beauty ", "img": "assets/img/slider-img.png"},
+      {"text": "Current \nPromotion", "img": "assets/img/PICO-WEB1.png"},
+      {"text": "Laser Tattoos \n Removal", "img": "assets/img/Tattoo-Removal.png"},
+      {"text": "Micro-needling \n Radio Frequency", "img":"assets/img/scarlet-WEB.jpg"}
+    ],
+    "title1": "our clinic",
+    "text1": "We offer various aesthetic treatments, including pigmentation removal, dermal fillers, Botox®, acne treatments and scarlet rf laser treatments, and . We only provide what suits your skin type, lifestyle, and aesthetic needs. You can always expect the best customer service and treatments backed by clinical expertise.  We are located in Richmond, part of Metro Vancouver in the Lower Mainland of British Columbia, Canada.",
+    "linktext": "LEARN ABOUT OUR CLINIC",
+    "for": "for",
+    "rest1": "Fine Lines & \nWrinkles",
+    "link2": "learn more",
+    "rest2": "pigmentation",
+    "rest3": "lifting & \ntightening",
+    "title2": "others",
+    "big": "view more treatments"
+  },
+  "clinic": {
+    "our": "our",
+    "facility": "facility",
+    "dr": "Dr.",
+    "henry": "henry Ngai",
+    "title": "our clinic",
+    "slides": [
+      {"title": "Come to \n Visit Reviva", "img": "assets/img/slide-3.png", "text": "At Reviva, our mission is to provide the highest level of professional care to our clients by using the safest and latest skin care treatment technologies. We strive to meet your needs while delivering fast, visible results."},
+      {"title": "Come to \n Visit Reviva", "img": "assets/img/slide-1.png", "text": "At Reviva, our mission is to provide the highest level of professional care to our clients by using the safest and latest skin care treatment technologies. We strive to meet your needs while delivering fast, visible results."},
+      {"title": "Come to \n Visit Reviva", "img": "assets/img/slide-2.png", "text": "At Reviva, our mission is to provide the highest level of professional care to our clients by using the safest and latest skin care treatment technologies. We strive to meet your needs while delivering fast, visible results."},
+      {"title": "Come to \n Visit Reviva", "img": "assets/img/slide-4.jpg", "text": "At Reviva, our mission is to provide the highest level of professional care to our clients by using the safest and latest skin care treatment technologies. We strive to meet your needs while delivering fast, visible results."},
+      {"title": "Come to \n Visit Reviva", "img": "assets/img/slide-5.png", "text": "At Reviva, our mission is to provide the highest level of professional care to our clients by using the safest and latest skin care treatment technologies. We strive to meet your needs while delivering fast, visible results."},
+      {"title": "Come to \n Visit Reviva", "img": "assets/img/slide-6.png", "text": "At Reviva, our mission is to provide the highest level of professional care to our clients by using the safest and latest skin care treatment technologies. We strive to meet your needs while delivering fast, visible results."},
+      {"title": "Come to \n Visit Reviva", "img": "assets/img/slide-8.png", "text": "At Reviva, our mission is to provide the highest level of professional care to our clients by using the safest and latest skin care treatment technologies. We strive to meet your needs while delivering fast, visible results."},
+      {"title": "Come to \n Visit Reviva", "img": "assets/img/slide-9.png", "text": "At Reviva, our mission is to provide the highest level of professional care to our clients by using the safest and latest skin care treatment technologies. We strive to meet your needs while delivering fast, visible results."}],
+
+    "text1": "Reviva Laser Skin Clinic has been serving the Greater Vancouver since 2001. Our 2,000-square-foot clinic is located in the heart of Richmond, BC. With over twenty advanced equipments along with the experience and knowledge of Dr. Henry Ngai, our clinic provides personalized and effective treatments for variety of skin conditions. <br/><br/> We offer various aesthetic treatments, including pigmentation removal, dermal fillers, Botox®, and acne treatments.<br/><br/> We consider what suits your skin type, lifestyle, and aesthetic needs. You can always expect the best customer service and treatments backed by clinical expertise.",
+    "p1": "Dr. Henry Ngai began practicing medicine in 1991, as an active medical staff at Richmond Hospital in Greater Vancouver, BC. He established Reviva Skin Laser Clinic in 2001, pioneering the use of Intense Pulsed Light (IPL) in a cosmetic practice.",
+    "p2": "Reviva now has over 20 equiptments to treat different skin problems. Dr. Ngai specializes in facial rejuvenation using lasers, Botox®, and dermal fillers. Dr. Ngai is also an expert in removing skin pigments (e.g. laser tattoo removal). He constantly evaluates new technology to bring the best available to the clinic",
+    "listTitle": "Doctor’s professional qualifications & membership",
+    "list": ["MD, University of British Columbia•", "Graduate Diploma of Dermatology, National University of Singapore", "American Society for Laser Medicine and Surgery", "Canadian Medical Association", "College of Physicians and Surgeons of BC", "College of Family Physicians of Canada", "American College of Phlebology"],
+    "find": "Find More About Our Treatments",
+    "link": "Find Our Treatments"
+  },
+  "treat": {
+    "slides": [
+      {"title": "Treatments", "top": "Aqua Lifting", "text": "Aqua Lifting™ is an anti-aging treatment for the face, neck, and hands. In this quick procedure, a filler composed of medical grade hyaluronic acid is injected into the skin to smoothen and hydrate skin, giving you a younger appearance.", "img": "assets/img/treatment1.png"},
+      {"title": "Treatments", "top": "Acne Scar Treatment", "text": "Acne Scar treatments include Excision, Subcision, Micro-needling Radio Frequency, Fractioanl Laser, and Platelet Rich Plasma Therapy etc. These treatments can be combined to treat different type of scars.", "img": "assets/img/treatment1.png"},
+      {"title": "Treatments", "top": "NEW MACHINE", "text": "This month we are excited to introduce you our new machine!", "img": "assets/img/PICO-WEB1.png"}
+    ],
+    "conc": "concerns",
+    "ques": "Questions",
+    "contact": "Contact Our Clinic",
+    "link": "Contact Us"
+  },
+  "contact": {
+    "title": "contact",
+    "book": "Book an appointment or learn more about our services by phone at",
+    "phone": "604-233-0878",
+    "book2": "or fill out",
+    "orEmail": "or e-mail us at ",
+    "form": "the form",
+    "book3": "below. ",
+    "inquiry": "Inquiry Form",
+    "respond": "We will respond in 48 hours., consectetur adipiscing elit. Nullam fermentum libero vel nisi consectetur tempor. Donec iaculis cursus mauris, at vulputate nisl egestas eu.",
+    "pla1": "first name",
+    "pla2": "last name",
+    "pla3": "e-mail address",
+    "pla4": "phone number",
+    "enter": "PLEASE ENTER YOUR QUESTION(S) HERE",
+    "submit": "submit",
+    "name": "Reviva Laser Skin Clinic",
+    "h1": "CONTACT INFO",
+    "h2": "150B - 8220 Lansdowne Road, Richmond, BC",
+    "h3": "GET DIRECTIONS",
+    "h4": "604-233-0878",
+    "h5": "staff@revivamd.com",
+    "h6": "HOURS",
+    "h7": "MON & WED",
+    "h8": "TUES, THURS & FRI:",
+    "h9": "SAT & SUN:",
+    "t1": "9am – 5pm",
+    "t2": "9am – 6pm",
+    "t3": "closed"
+  },
+  "conc": {
+    "treat": "Treatments",
+    "link": "Learn more",
+    "quest": "Questions",
+    "contact": "Contact Our Clinic",
+    "find": "Contact Us"
+  },
+  "concerns": [{
+      "name": "injectables",
+      "cLink": "injectables",
+      "imgUrl": "assets/img/iStock-153058558.jpeg",
+      "description": "",
+      "treatments": [
+        {
+          "canonical": "aqua-lifting",
+          "link": "aqua-lifting",
+          "name": "Aqua Lifting™",
+          "shortDescription": "Aqua Lifting™ is an anti-aging treatment for the face, neck, and hands. In this quick procedure, a filler composed of medical grade hyaluronic acid is injected into the skin to smoothen and hydrate skin, giving you a younger appearance.",
+          "what": "Aqua Lifting™ is an anti-aging treatment for the face, neck, and hands. In this quick procedure, a filler composed of medical grade hyaluronic acid is injected into the skin to smoothen and hydrate skin, giving you a younger appearance. This treatment promises filled out wrinkles and more glowing skin for several months to a year.<br/><br/>Active Ingredient: Hyaluronic Acid<br/>The appeal of youthful skin can be partially attributed to a sugar our bodies produce called hyaluronic acid (HA). Hyaluronic acid, also known as hyaluronan, binds and retains water molecules making it one of the main ingredients for moisturized, smooth and elastic skin.  As we age, our bodies gradually decrease the production of HA which inevitably leads to various visible signs of aging - increased dryness, thinning and emerging wrinkles. When injected, these signs of aging can be reversed!",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/before.png",
+            "after": "assets/img/after.png"
+          },
+          {
+            "before": "assets/img/before.png",
+            "after": "assets/img/after.png"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["Brightened and lightened skin", "Reduces fine lines", "Reduces pore sizes", "Restores skin elasticity", "Stimulates collagen rejuvenation", "Repairs aging skin cells "],
+          "qa": [{
+              "question": "Q: What are the side effects of this treatment",
+              "answer": "The most common side effects are mild redness, bruising, and swelling for about 2-5 days."
+            },
+            {
+              "question": "Q: How soon can I expect to see results",
+              "answer": "Immediately after healing time! Pairing this treatment with a good skincare routine can ensure quicker healing and optimal results."
+            },
+            {
+              "question": "Q: How long do results last",
+              "answer": "After one session, results of younger-looking skin will last up to four to five months. With additional treatments, results can last up to a year."
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "belkyra",
+          "link": "belkyra",
+          "name": "Belkyra™",
+          "shortDescription": "Belkyra™ is the one and only non-surgical treatment in Canada to slim and redefine a fatty/double chin. It is an injectable whose active ingredient is deoxycholic acid, a naturally occurring substance in the body that breaks down and absorbs fat.",
+          "what": "Belkyra™ is the one and only non-surgical treatment in Canada to slim and redefine a fatty/double chin. It is an injectable whose active ingredient is deoxycholic acid, a naturally occurring substance in the body that breaks down and absorbs fat. When injected under the chin, Belkyra™ targets and destroys the fat cell membranes, aiding in fat release and elimination fat. <br/><br/>Active Ingredient: Deoxycholic Acid<br/>In our bodies, deoxycholic acid is one of two bile acids. Its natural role is to emulsify and make fats in the intestine more soluble. When injected through the skin, it works in the same way by killing off the unwanted fat in the targeted area.",
+          "before": "",
+          "slideimg": [
+            {
+              "before": "assets/img/treatment/belkyra/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/belkyra/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/belkyra/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/belkyra/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/belkyra/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/belkyra/Untitled-3-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Quick (Only a 15-20 minute procedure)", "Non-surgical", "No maintenance treatment required once goals are achieved", "A more contoured and defined chin profile"],
+          "qa": [{
+              "question": "Q: What are the side effects of this treatment",
+              "answer": "While patients are able to and encouraged to return to their normal activities, temporary soreness and mild bruising are common following treatment. We recommend soft food during this time period to avoid straining."
+            },
+            {
+              "question": "Q: How many treatments do I need to notice results",
+              "answer": "There is gradual improvement after each treatment. Most patients see a notable difference after two to four treatments. Up to 6 treatments may be administered depending on the situation."
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "dermal-filler",
+          "link": "dermal-filler",
+          "name": "Dermal Filler",
+          "shortDescription": "Dermal-fillers are are gel fillers injected deep into the skin to fill lines and enhance facial contouring.<br/><br/>",
+          "what": "Dermal-fillers are gel fillers injected deep into the skin to fill lines and enhance facial contouring. We use only natural, hyaluronic-based dermal fillers including Juvéderm and Restylane. Because hyaluronic acid already occurs in the body, results are very natural-looking. The fillers are not derived from animals which means that there is a minimal risk of allergic reaction and zero transfer of disease. <br/><br/>Active Ingredient: Hyaluronic Acid<br/>The appeal of youthful skin can be partially attributed to a sugar our bodies produce called hyaluronic acid (HA). Hyaluronic acid, also known as hyaluronan, binds and retains water molecules making it one of the main ingredients for moisturized, smooth and elastic skin.  As we age, our bodies gradually decrease the production of HA which inevitably leads to various visible signs of aging - increased dryness, thinning and emerging wrinkles. When injected, these signs of aging can be reversed!",
+          "before": "",
+          "slideimg": [
+            {
+              "before": "assets/img/treatment/dermal-filler/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/dermal-filler/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/dermal-filler/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/dermal-filler/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/dermal-filler/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/dermal-filler/Untitled-3-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/dermal-filler/Untitled-5-01.jpg",
+              "after": "assets/img/treatment/dermal-filler/Untitled-5-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/dermal-filler/Untitled-6-01.jpg",
+              "after": "assets/img/treatment/dermal-filler/Untitled-6-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/dermal-filler/Untitled-7-01.jpg",
+              "after": "assets/img/treatment/dermal-filler/Untitled-7-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/dermal-filler/Untitled-8-01.jpg",
+              "after": "assets/img/treatment/dermal-filler/Untitled-8-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Acne", "Shallow scars", "Aging due to sun damage", "Melasma", "Pigmentation", "Dull complexion", "Unsatisfactory skin texture", "Large pores"],
+          "qa": [
+            {
+              "question": "Q: What are the side effects of this treatment",
+              "answer": "Commonly, there is redness of skin lasting a few hours after the treatment. In our experience, patients go back to work immediately. Mild peeling may also occur for up to three weeks after the treatment."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Results can be seen in one to two weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of treatments depends on the initial skin condition. Optimal results usually require multiple treatments."
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "mesotox",
+          "link": "mesotox",
+          "name": "Mesotox",
+          "shortDescription": "Mesotox is a diluted Botox® injection for improving the health and the appearance of skin. It controls acne by decreasing oil production. It can also diminish fine lines with natural-looking results.",
+          "what": "Mesotox is a diluted Botox® injection for improving the health and the appearance of skin. It controls acne by decreasing oil production. It can also diminish fine lines with natural-looking results.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Reduces pore size", "Reduces oil production", "Improves acne condition", "Diminishes fine lines", "Improves skin quality by making skin look more refined and radiant"],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of the treatment",
+            "answer": "At most, redness for a few hours."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Approximately two weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "On average, 3 sessions are needed for optimal results. Further treatments may be needed for maintenance."
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "neuromodulator",
+          "link": "neuromodulator",
+          "name": "Neuromodulator",
+          "shortDescription": "A neuromodulator is a substance that alters nerve impulse transmission. It is commonly used in cosmetics, in the form of Botox® and Dysport®, to temporarily treat moderate to severe lines and wrinkles.",
+          "what": "A neuromodulator is a substance that alters nerve impulse transmission. It is commonly used in cosmetics, in the form of Botox® and Dysport®, to temporarily treat moderate to severe lines and wrinkles. During the aging process, collagen breaks down causing lines and wrinkles to form. However, these lines can start appearing earlier as a result of muscle activity. To smooth out the skin, botulinum toxin is injected directly into selected muscles to block the transmission of nerve impulses causing temporary paralysis in the injection site. This reduces activity of selected facial muscles and subsequently improves wrinkles.<br/><br/>This non-surgical treatment must be performed by an approved healthcare professional.",
+          "before": "",
+          "slideimg": [
+            {
+              "before": "assets/img/treatment/neuromodulator/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/neuromodulator/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/neuromodulator/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/neuromodulator/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/neuromodulator/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/neuromodulator/Untitled-3-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Quick treatment",
+            "Quick, yet lasting results", 
+            "Natural results - Untreated facial muscles work normally and naturally. This allows patients to freely show facial expressions, such as smiling", 
+            "Relax the muscle on the jawline and calf for slimming effects",
+            "Temporarily relaxes the muscle that cause fine lines and wrinkles in the following area: brows, forehead, eye region, mouth area, neck, jowls"
+          ],
+          "qa": [
+            {
+              "question": "Q: What happens after the treatment",
+              "answer": "No recovery time is needed, and within days you will see an improvement that may last up to 4 months. The most common side effects are headache and injection site pain though these do not happen to many patients."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Some patients see results in as little as 24 hours. However, in most anti-aging cases, results are seen in 3-5 days and for facial or calf contouring, results are seen in 2-4 weeks."
+            },
+            {
+              "question": "Q: How do I maintain results",
+              "answer": "Most patients need to repeat the treatment after 12 weeks. It is not recommended to receive injections more often than every 90 days. Since each individual is different and has different expectations, it is up to the doctor to determine the frequency of treatments. Smoking and exposing skin to the sun’s UV rays should be avoided as these habits reduce the amount of new collagen produced and damage existing collagen."
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "platelet-rich-plasma-therapy",
+          "link": "platelet-rich-plasma-therapy-s",
+          "name": "Platelet Rich Plasma (PRP) Therapy",
+          "shortDescription": "Platelet Rich Plasma (PRP) Therapy is the process of using patient’s own plasma towards healing and regeneration. <br/><br/>",
+          "what": "Platelet Rich Plasma (PRP) Therapy is the process of using patient’s own plasma towards healing and regeneration. We perform this treatment for cosmetic purposes to bring vitality and smoothness to the skin. <br/><br/>PRP contains many proteins called growth factors. It prompts tissues regeneration and new blood vessels creation, improving the health and texture of skin. <br/><br/>During this procedure, blood is drawn from the patient and placed in a centrifuge to isolate the platelets. The plasma is extracted and applied topically to your skin, it can also be injected by the doctor into areas of need such as acne scars.",
+          "before": "",
+          "slideimg": [
+            {
+              "before": "assets/img/treatment/platelet-rich/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/platelet-rich/Untitled-1-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Stimulates collagen", 
+            "Hydrates skin", 
+            "Reduces lines and wrinkles",
+            "Reduces pore sizes",
+            "Improves acne scars",
+            "Stimulates hair growth"
+          ],
+          "qa": [
+            {
+              "question": "Q: What happens after the treatment",
+              "answer": "As the skin is using its own growth factors in the process, patients notice their skin to be brighter and more supple. Patients can also expect to have smoother, fuller, and more hydrated skin."
+            },
+            {
+              "question": "Q: What are some common side effects",
+              "answer": "Swelling and slight bruising are common side effects. However, some patients do not experience any side effects at all."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Results come after approximately 6-8 weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "A full round of treatment usually consists of 2-3 sessions with 1 month intervals."
+              
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "sculptra",
+          "link": "sculptra",
+          "name": "Sculptra®",
+          "shortDescription": "Sculptra® is an advanced dermal filler used to restore youthfulness and fullness to the face. It is advanced because unlike some other fillers.<br/><br/>",
+          "what": "Sculptra® is an advanced dermal filler used to restore youthfulness and fullness to the face. It is advanced because unlike some other fillers, it is capable of stimulating collagen production in the skin to replace what was lost through aging. Sculptra® is best for filling out hollowing, lines, and wrinkles in these areas: Nasolabial folds (smile lines)<ul><li>Marionette lines (lines framing the mouth)</li><li>Temples</li><li>Cheeks</li><li>Scars</li><li>Jawline</li><li>Chin</li></ul>",
+          "before": "",
+          "slideimg": [
+            {
+              "before": "assets/img/treatment/sculptra/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/sculptra/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/sculptra/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/sculptra/Untitled-2-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Stimulates collagen production", 
+            "Reduces lines and wrinkles",
+            "Is biocompatible as it is eventually and safely metabolized by the body",
+            "Natural appearance",
+            "Long-lasting results - up to 2 years after a full round of treatment"
+          ],
+          "qa": [
+            {
+              "question": "Q: How safe is this injection",
+              "answer": "Very safe. Because there are no human or animal components in Sculptra®. No allergy testing is required. It is a FDA-approved substance and has been used worldwide since 1999. For many years prior, the acid it is made of, poly-L-lactic, had been used for dissolving stitches."
+            },
+            {
+              "question": "Q: What are the side effects",
+              "answer": "Side effects are temporary and not debilitating. They include injection site pain, redness, bruising, tenderness, itching and lumps, bleeding or swelling. Some people appreciate the momentary swelling because it brings an immediate fullness to the face."
+            },
+            {
+              "question": "Q: What can I expect after the treatment",
+              "answer": "Sometimes, there is swelling that will disappear after a few days. As your skin pumps out collagen on its own, you will begin to see gradual improvement of natural plumping and firming."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "This injection works immediately and is designed to improve the appearance of skin very gradually. Because of this, wrinkles and lines diminish at a subtle rate and full effects of the treatment are more noticeable after a couple months."
+            },
+            {
+              "question": "Q: How many treatments do I need",
+              "answer": "A full round of treatment consists of 2-4 sessions with 4-6 week intervals between each."
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "skinboosters",
+          "link": "skinboosters",
+          "name": "Skinboosters™",
+          "shortDescription": "Restylane® Skinboosters™ treatments gently yet effectively hydrate and luminize skin from the inside out. Swedish made, it is one of the world’s safest aesthetic treatments and uses non-animal and high quality raw materials and components.",
+          "what": "Restylane® Skinboosters™ treatments gently yet effectively hydrate and luminize skin from the inside out. Swedish made, it is one of the world’s safest aesthetic treatments and uses non-animal and high quality raw materials and components. It is produced with NASHA™ technology, which stabilizes the hyaluronic acid for durability and biocompatibility with the tissues. The end results are long-lasting and skin is left radiant, hydrated, smooth and elastic. Restylane Skinbooster can also be used in the Aqualift™ treatment for superior hydrating results.<br/><br/>Hyaluronic Acid is the active ingredient in the Restylane Skinbooster. The appeal of youthful skin can be partially attributed to a sugar our bodies produce called hyaluronic acid (HA). Hyaluronic acid, also known as hyaluronan, binds and retains water molecules making it one of the main ingredients for moisturized, smooth and elastic skin.  As we age, our bodies gradually decrease the production of HA which inevitably leads to various visible signs of aging - increased dryness, thinning and emerging wrinkles. When injected, these signs of aging can be reversed.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/Skin-booster/Skinbooster 2 -01 (1).jpg",
+              "after": "assets/img/treatment/Skin-booster/Skinbooster 2 -02 (1).jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Glowing, radiant, hydrated skin", 
+            "Can be used in Aqualift™ or as a dermal filler ", 
+            "Increases elasticity of skin by direct injection ",
+            "Improves appearance of under eye bags, “aegyo sal” in the undereye area ",
+            "Treats the neck, décolletage and hands",
+            "Treats acne scars",
+            "Long-lasting results"
+          ],
+          "qa": [
+            {
+              "question": "Q: What can I expect during the treatment",
+              "answer": "Each treatment involves multiple hydrating microinjections of hyaluronic acid (HA)."
+            },
+            {
+              "question": "Q: What are the side effects",
+              "answer": "Most patients notice mild redness, bruising, and swelling that subsides in 3-5 days."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "After healing, within 7 - 10 days."
+            },
+            {
+              "question": "Q: How long will the results last",
+              "answer": "The results will last up to six months."
+            }
+          ],
+          "category": 1
+        }
+      ]
+    },
+    {
+      "name": "rejuvenation",
+      "cLink": "rejuvenation",
+      "imgUrl": "assets/img/rejuvenation.png",
+      "description": "",
+      "treatments": 
+      [
+        {
+          "canonical": "aqua-lifting",
+          "link": "aqua-lifting-2",
+          "name": "Aqua Lifting™",
+          "shortDescription": "Aqua Lifting™ is an anti-aging treatment for the face, neck, and hands. In this quick procedure, a filler composed of medical grade hyaluronic acid is injected into the skin to smoothen and hydrate skin, giving you a younger appearance.",
+          "what": "Aqua Lifting™ is an anti-aging treatment for the face, neck, and hands. In this quick procedure, a filler composed of medical grade hyaluronic acid is injected into the skin to smoothen and hydrate skin, giving you a younger appearance. This treatment promises filled out wrinkles and more glowing skin for several months to a year.<br/><br/>Active Ingredient: Hyaluronic Acid<br/>The appeal of youthful skin can be partially attributed to a sugar our bodies produce called hyaluronic acid (HA). Hyaluronic acid, also known as hyaluronan, binds and retains water molecules making it one of the main ingredients for moisturized, smooth and elastic skin.  As we age, our bodies gradually decrease the production of HA which inevitably leads to various visible signs of aging - increased dryness, thinning and emerging wrinkles. When injected, these signs of aging can be reversed!",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Brightened and lightened skin", "Reduces fine lines", "Reduces pore sizes", "Restores skin elasticity", "Stimulates collagen rejuvenation", "Repairs aging skin cells "],
+          "qa": [{
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "The most common side effects are mild redness, bruising, and swelling for about 2-5 days."
+            },
+            {
+              "question": "Q: How soon can I expect to see results",
+              "answer": "Immediately after healing time! Pairing this treatment with a good skincare routine can ensure quicker healing and optimal results."
+            },
+            {
+              "question": "Q: How long do results last",
+              "answer": "After one session, results of younger-looking skin will last up to four to five months. With additional treatments, results can last up to a year."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "chemical-peel",
+          "link": "chemical-peel",
+          "name": "Chemical Peel™",
+          "shortDescription": "Chemical peel, a means of exfoliation, can improve skin texture, scarring, melasma, and large pores.<br/><br/><br/>",
+          "what": "Chemical peel, a means of exfoliation, can improve skin texture, scarring, melasma, and large pores. Exfoliation is the removal of the outermost layer of skin. It speeds up the process of regenerating healthy and rejuvenated skin. This treatment is done by applying an acid to the problem area. The type of acid and it's strength which is depended on the skin condition. Chemical peels can be used on the face and many parts of the body. <br/><br/> We provide superficial and medium-depth chemical peels. Deep peels are replaced by lasers and other modern technologies. <br/><br/> We offer numerous chemical peels for different skin concerns:<ul><li>Trichloroacetic (TCA) peel (100% trichloroacetic acid)</li><li>Lactic peel (30% lactic acid)</li><li>Glycolic peel (20% glycolic acid)</li><li>Melanostop peel (6% phytic acid, 10% resorcinol, 20% azelaic acid)</li><li>Jessner peel (8% citric acid, 14% salicylic acid, 14% lactic acid)</li></ul>",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "Chemical Peel can target the following issues:",
+          "benefits": ["Acne", "Shallow scars", "Aging due to sun damage", "Melasma", "Pigmentation", "Dull complexion", "Unsatisfactory skin texture", "Large pores"],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "Redness of skin lasting a few hours after the treatment is normal. Patients do go back to work immediately. Mild peeling may also occur for up to three weeks after the treatment."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Results can be seen in one to two weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of treatments depends on the skin. Optimal results require multiple treatments."
+            }
+          ],
+          "category": 4
+        },
+        {
+          "canonical": "dual-yellow-laser",
+          "link": "dual-yellow-laser",
+          "name": "Dual Yellow Laser",
+          "shortDescription": "The Dual Yellow Laser is a gentle yet highly effective laser used for skin rejuvenation. It can improve the appearance of many dermatological issues.<br/><br/>",
+          "what": "The Dual Yellow Laser is a gentle yet highly effective laser used for skin rejuvenation. It can improve the appearance of many dermatological issues including large pores, acne, unwanted pigmentation (moles, age spots, brown/red spots, melasma), spider veins, and rosacea.<br/><br>This laser projects rapid, tiny pulses of two wavelengths instead of just one strong beams. The two wavelengths allows precise treatment of lesions, such as moles and age spots, with minimal risk of skin discolouration. The Dual Yellow Laser can also serve as a full-face photofacial for larger-scale problems like sun damage and acne.",
+          "before": "",
+          "slideimg": [
+            {
+              "before": "assets/img/treatment/dual-yellow-laser/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/dual-yellow-laser/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/dual-yellow-laser/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/dual-yellow-laser/Untitled-2-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Acne", "Shallow scars", "Aging due to sun damage", "Melasma", "Pigmentation", "Dull complexion", "Unsatisfactory skin texture", "Large pores"],
+          "qa": [
+            {
+            "question": "Q: What is the recovery process like",
+            "answer": "There is no downtime other than temporary mild redness, lasting at the most two days."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Patient will see gradual improvement after each session."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of sessions required depends on the severity of the condition. Usually, anywhere from 2-7 treatments are required for desired results."
+            }
+          ],
+          "category": 2
+        },
+        {
+          "canonical": "mesotox",
+          "link": "mesotox-2",
+          "name": "Mesotox",
+          "shortDescription": "Mesotox is a diluted Botox® injection for improving the health and the appearance of skin. It controls acne by decreasing oil production. It can also diminish fine lines with natural-looking results.",
+          "what": "Mesotox is a diluted Botox® injection for improving the health and the appearance of skin. It controls acne by decreasing oil production. It can also diminish fine lines with natural-looking results.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Reduces pore size", "Reduces oil production", "Improves acne condition", "Diminishes fine lines", "Improves skin quality by making skin look more refined and radiant"],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of the treatment",
+            "answer": "At most, redness for a few hours."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Approximately two weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "On average, 3 sessions are needed for optimal results. Further treatments may be needed for maintenance."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "microdermabrasion",
+          "name": "Microdermabrasion",
+          "shortDescription": "Microdermabrasion is a clinical means of exfoliating the skin to improve poor texture, scarring, hyperpigmentation, fine lines, and puffiness.",
+          "what": "Microdermabrasion is a clinical means of exfoliating the skin to improve poor texture, scarring, hyperpigmentation, fine lines, and puffiness. We offer particle, diamond tip, and vibration microdermabrasion.<br/><br/>Particle microdermabrasion exfoliates skin by spraying particles of medical-grade baking soda crystals in a controlled steam. It also comes with a vacuum to clear up dead skin cells and crystals. Each step of the process is designed to optimize the skin’s health and appearance by increasing blood flow and collagen production.<br/><br/>The diamond tip has a crystal-free option which makes it impossible to leave behind tiny particles. This allow for precise treatment in small places and crevices such as areas close to the eyes, nose, and mouth. The tip also utilizes vacuum pressure which increases blood circulation in the underlying dermis. Here, the growth of new skin cells and the production of collagen/ elastin fibre are initiated to tone and firm the skin. Another effect of increased blood circulation is reduced puffiness around the eyes as excess fluids and toxins are drained from the face. <br/><br/>Vibraderm, getting its name from its function to vibrate, is the most efficient treatment for a full body exfoliation. This machine comes with a textured stainless-steel paddle that gently vibrates at high speeds as it moves across the skin to exfoliate. <br/><br/>Glowing and luminous skin can be achieved after uncovering the dead layers of the epidermis through these microdermabrasion treatments.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Improves skin texture and tone",
+            "Treats hyperpigmentation",
+            "Treats minor acne scarring",
+            "Repairs minor sun damage",
+            "Rejuvenates your skin",
+            "Serves as a pretreatment to other laser or cosmetic procedures",
+            "No excessive redness or downtime",
+            "Painless"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects of this treatment",
+              "answer": "Patients usually do not have any side effects. At most, there is slight redness that disappears within a few hours after treatment."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Immediately after the first treatment, the skin will already feel smoother and appear brighter. Final results of a treatment will be seen after 1 week."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of treatments varies upon condition being treated and the way the patient personally takes care of his/her skin on a daily basis. Minimally, 1-2 microdermabrasion facial treatments are recommended per month to clean and revitalize the skin."
+            }
+          ],
+          "category": 4
+        },
+        {
+          "canonical": "natural-photodynamic-therapy",
+          "link": "natural-photodynamic-therapy-s",
+          "name": "Natural Photodynamic Therapy",
+          "shortDescription": "Photodynamic Therapy (PDT) is a treatment for killing acne activity. It is suitable for cases of mild to severe acne and acne scarring.",
+          "what": "Photodynamic Therapy (PDT) is a treatment for killing acne activity. It is suitable for cases of mild to severe acne and acne scarring. During the treatment process, a photosensitizing agent called 5-aminolevulinic acid (ALA) is applied to the skin and becomes activated when put under a specific wavelength of light. Once activated, the ALA is absorbed by acne cells making acne more receptive to bacteria-killing light. Since ALA is hydrophilic, it requires a longer penetration period, thus requiring 1.5 days of avoiding sun exposure. <br/><br/>We offer a natural alternative by replacing the ALA solution with a solution composed of vitamins and amino acids. This natural solution penetrates faster with high efficacy while causing no harsh side effects. By using the natural photosensitizer, the activation and duration of post-treatment sun avoidance are both shortened.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/photodynamic-therapy/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/photodynamic-therapy/Untitled-1-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Minimal to no side effect",
+            "Painless or mild discomfort",
+            "Safe and natural",
+            "Improves pore size and texture of skin",
+            "Decreases sebum excretion",
+            "Improves appearance of acne scars"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects of the treatment",
+              "answer": "It is possible for some patient to experience redness for few hours. Mild peeling may follow treatment in 2-3 days."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "It may take up to several treatments to see satisfactory improvement."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "A patient will need 3-6 treatments depending on the severity of the condition."
+            }
+          ],
+          "category": 3
+        },
+        {
+          "canonical": "platelet-rich-plasma-therapy",
+          "link": "platelet-rich-plasma-therapy",
+          "name": "Platelet Rich Plasma Therapy",
+          "shortDescription": "Platelet Rich Plasma (PRP) Therapy is the process of using patient’s own plasma towards healing and regeneration.<br/><br/><br/>",
+          "what": "Platelet Rich Plasma (PRP) Therapy is the process of using patient’s own plasma towards healing and regeneration. We perform this treatment for cosmetic purposes to bring vitality and smoothness to the skin. <br/><br/>PRP contains many proteins called growth factors. It prompts tissues regeneration and new blood vessels creation, improving the health and texture of skin. <br/><br/>During this procedure, blood is drawn from the patient and placed in a centrifuge to isolate the platelets. The plasma is extracted and applied topically to your skin, it can also be injected by the doctor into areas of need such as acne scars.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/platelet-rich/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/platelet-rich/Untitled-1-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Stimulates collagen",
+            "Hydrates skin",
+            "Reduces lines and wrinkles",
+            "Reduces pore sizes",
+            "Improves acne scars",
+            "Stimulates hair growth"
+          ],
+          "qa": [
+            {
+              "question": "Q: What can I expect after the treatment",
+              "answer": "As the skin is using its own growth factors in the process, patients notice their skin to be brighter and more supple. Patients can also expect to have smoother, fuller, and more hydrated skin."
+            },
+            {
+              "question": "Q: What are some common side effects",
+              "answer": "Swelling and slight bruising are common side effects. However, some patients do not experience any side effects at all."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Results come after approximately 6-8 weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "A full round of treatment usually consists of 2-3 sessions with 1 month intervals."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "skinboosters",
+          "link": "skinboosters-2",
+          "name": "Skinboosters™",
+          "shortDescription": "Restylane® Skinboosters™ treatments gently yet effectively hydrate and luminize skin from the inside out. Swedish made, it is one of the world’s safest aesthetic treatments and uses non-animal and high quality raw materials and components.",
+          "what": "Restylane® Skinboosters™ treatments gently yet effectively hydrate and luminize skin from the inside out. Swedish made, it is one of the world’s safest aesthetic treatments and uses non-animal and high quality raw materials and components. It is produced with NASHA™ technology, which stabilizes the hyaluronic acid for durability and biocompatibility with the tissues. The end results are long-lasting and skin is left radiant, hydrated, smooth and elastic. Restylane Skinbooster can also be used in the Aqualift™ treatment for superior hydrating results.<br/><br/>Hyaluronic Acid is the active ingredient in the Restylane Skinbooster. The appeal of youthful skin can be partially attributed to a sugar our bodies produce called hyaluronic acid (HA). Hyaluronic acid, also known as hyaluronan, binds and retains water molecules making it one of the main ingredients for moisturized, smooth and elastic skin.  As we age, our bodies gradually decrease the production of HA which inevitably leads to various visible signs of aging - increased dryness, thinning and emerging wrinkles. When injected, these signs of aging can be reversed.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/Skin-booster/Skinbooster 2 -01 (1).jpg",
+            "after": "assets/img/treatment/Skin-booster/Skinbooster 2 -02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Glowing, radiant, hydrated skin", 
+            "Can be used in Aqualift™ or as a dermal filler ", 
+            "Increases elasticity of skin by direct injection ",
+            "Improves appearance of under eye bags, “aegyo sal” in the undereye area ",
+            "Treats the neck, décolletage and hands",
+            "Treats acne scars",
+            "Long-lasting results"
+          ],
+          "qa": [
+            {
+            "question": "Q: What can I expect during the treatment",
+            "answer": "Each treatment involves multiple hydrating microinjections of hyaluronic acid (HA)."
+            },
+            {
+              "question": "Q: What are the side effects",
+              "answer": "Most patients notice mild redness, bruising, and swelling that subsides in 3-5 days."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "After healing, within 7 - 10 days."
+            },
+            {
+              "question": "Q: How long will the results last",
+              "answer": "The results will last up to six months."
+            }
+          ],
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "finelines & wrinkles",
+      "cLink": "finelines-wrinkles",
+      "imgUrl": "assets/img/finelines_wrinkles.png",
+      "description": "",
+      "treatments": 
+      [
+        {
+          "canonical": "aqua-lifting",
+          "link": "aqua-lifting-f",
+          "name": "Aqua Lifting™",
+          "shortDescription": "Aqua Lifting™ is an anti-aging treatment for the face, neck, and hands. In this quick procedure, a filler composed of medical grade hyaluronic acid is injected into the skin to smoothen and hydrate skin, giving you a younger appearance.",
+          "what": "Aqua Lifting™ is an anti-aging treatment for the face, neck, and hands. In this quick procedure, a filler composed of medical grade hyaluronic acid is injected into the skin to smoothen and hydrate skin, giving you a younger appearance. This treatment promises filled out wrinkles and more glowing skin for several months to a year.<br/><br/>Active Ingredient: Hyaluronic Acid<br/>The appeal of youthful skin can be partially attributed to a sugar our bodies produce called hyaluronic acid (HA). Hyaluronic acid, also known as hyaluronan, binds and retains water molecules making it one of the main ingredients for moisturized, smooth and elastic skin.  As we age, our bodies gradually decrease the production of HA which inevitably leads to various visible signs of aging - increased dryness, thinning and emerging wrinkles. When injected, these signs of aging can be reversed!",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Brightened and lightened skin", "Reduces fine lines", "Reduces pore sizes", "Restores skin elasticity", "Stimulates collagen rejuvenation", "Repairs aging skin cells "],
+          "qa": [{
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "The most common side effects are mild redness, bruising, and swelling for about 2-5 days."
+            },
+            {
+              "question": "Q: How soon can I expect to see results",
+              "answer": "Immediately after healing time! Pairing this treatment with a good skincare routine can ensure quicker healing and optimal results."
+            },
+            {
+              "question": "Q: How long do results last",
+              "answer": "After one session, results of younger-looking skin will last up to four to five months. With additional treatments, results can last up to a year."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "dermal-filler",
+          "link": "dermal-filler-3",
+          "name": "Dermal Filler",
+          "shortDescription": "Dermal-fillers are gel fillers injected deep into the skin to fill lines and enhance facial contouring.<br/><br/><br/>",
+          "what": "Dermal-fillers are gel fillers injected deep into the skin to fill lines and enhance facial contouring. We use only natural, hyaluronic-based dermal fillers including Juvéderm and Restylane. Because hyaluronic acid already occurs in the body, results are very natural-looking. The fillers are not derived from animals which means that there is a minimal risk of allergic reaction and zero transfer of disease. <br/><br/>Active Ingredient: Hyaluronic Acid<br/>The appeal of youthful skin can be partially attributed to a sugar our bodies produce called hyaluronic acid (HA). Hyaluronic acid, also known as hyaluronan, binds and retains water molecules making it one of the main ingredients for moisturized, smooth and elastic skin.  As we age, our bodies gradually decrease the production of HA which inevitably leads to various visible signs of aging - increased dryness, thinning and emerging wrinkles. When injected, these signs of aging can be reversed!",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/dermal-filler/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-3-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-5-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-5-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-6-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-6-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-7-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-7-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-8-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-8-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["Acne", "Shallow scars", "Aging due to sun damage", "Melasma", "Pigmentation", "Dull complexion", "Unsatisfactory skin texture", "Large pores"],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "Commonly, there is redness of skin lasting a few hours after the treatment. In our experience, patients go back to work immediately. Mild peeling may also occur for up to three weeks after the treatment."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Results can be seen in one to two weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of treatments depends on the initial skin condition. Optimal results usually require multiple treatments."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "fractional-laser",
+          "link": "fractional-laser-a",
+          "name": "Fractional Laser Therapy",
+          "shortDescription": "Fractional laser therapy is used for skin resurfacing. It treats acne scarring, stretch marks, melasma, wrinkles, rough skin, and large pores.<br/>",
+          "what": "Fractional laser therapy is used for skin resurfacing. It treats acne scarring, stretch marks, melasma, wrinkles, rough skin, and large pores. As the name suggests, this laser treats small fractions of skin (microthermal zones/MTZ) while leaving surrounding skin unaffected. This results in quicker recovery with minimal side effects.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/fractional-laser/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/fractional-laser/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/fractional-laser/Fractional-01 (1).jpg",
+              "after": "assets/img/treatment/fractional-laser/Fractional-02 (1).jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Acne scars", 
+            "Stretch marks", 
+            "Uneven pigmentation (such as melasma)",
+            "Lines, wrinkles, sagging skin",
+            "Rough or uneven skin",
+            "Large pores"
+          ],
+          "qa": [
+            {
+              "question": "Q: What is the recovery process like",
+              "answer": "The most common side effect is redness. Half of the redness is usually gone by the time the patient leaves the clinic. The remaining redness recedes after an hour. Complete healing time is 3-6 days. Most patients resume their normal activities the day after."
+              },
+              {
+                "question": "Q: When will I see results",
+                "answer": "Results are noticeable after a week while gradual improvements will continue over weeks."
+              },
+              {
+                "question": "Q: How many treatments will I need",
+                "answer": "The number of treatments depends on the skin condition. In most cases, We recommends 2-5 treatments, each separated by 4-8 weeks."
+              }
+          ],
+          "category": 2
+        },
+        {
+          "canonical": "neuromodulator",
+          "link": "neuromodulator-3",
+          "name": "Neuromodulator",
+          "shortDescription": "A neuromodulator is a substance that alters nerve impulse transmission. It is commonly used in cosmetics, in the form of Botox® and Dysport®, to temporarily treat moderate to severe lines and wrinkles.",
+          "what": "A neuromodulator is a substance that alters nerve impulse transmission. It is commonly used in cosmetics, in the form of Botox® and Dysport®, to temporarily treat moderate to severe lines and wrinkles. During the aging process, collagen breaks down causing lines and wrinkles to form. However, these lines can start appearing earlier as a result of muscle activity. To smooth out the skin, botulinum toxin is injected directly into selected muscles to block the transmission of nerve impulses causing temporary paralysis in the injection site. This reduces activity of selected facial muscles and subsequently improves wrinkles.<br/><br/>This non-surgical treatment must be performed by an approved healthcare professional.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/neuromodulator/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-3-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Quick treatment",
+            "Quick, yet lasting results", 
+            "Natural results - Untreated facial muscles work normally and naturally. This allows patients to freely show facial expressions, such as smiling", 
+            "Relax the muscle on the jawline and calf for slimming effects",
+            "Temporarily relaxes the muscle that cause fine lines and wrinkles in the following area: brows, forehead, eye region, mouth area, neck, jowls"
+          ],
+          "qa": [
+            {
+            "question": "Q: What happens after the treatment",
+            "answer": "No recovery time is needed, and within days you will see an improvement that may last up to 4 months. The most common side effects are headache and injection site pain though these do not happen to many patients."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Some patients see results in as little as 24 hours. However, in most anti-aging cases, results are seen in 3-5 days and for facial or calf contouring, results are seen in 2-4 weeks."
+            },
+            {
+              "question": "Q: How do I maintain results",
+              "answer": "Most patients need to repeat the treatment after 12 weeks. It is not recommended to receive injections more often than every 90 days. Since each individual is different and has different expectations, it is up to the doctor to determine the frequency of treatments. Smoking and exposing skin to the sun’s UV rays should be avoided as these habits reduce the amount of new collagen produced and damage existing collagen."
+            }
+          ],
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "acne",
+      "cLink": "acne",
+      "imgUrl": "assets/img/acne.png",
+      "description": "We treat acne at the source, preventing scars and further breakouts, leaving your skin clear, bright, and blemish-free. At Reviva Laser Skin Clinic, all treatments begin with whisper laser extraction, which targets comedones (bumps on skin that include pimples).",
+      "treatments": [
+        {
+          "canonical": "chemical-peel",
+          "link": "chemical-peel-4",
+          "name": "Chemical Peel™",
+          "shortDescription": "Chemical peel, a means of exfoliation, can improve skin texture, scarring, melasma, and large pores. <br/><br/><br/>",
+          "what": "Chemical peel, a means of exfoliation, can improve skin texture, scarring, melasma, and large pores. Exfoliation is the removal of the outermost layer of skin. It speeds up the process of regenerating healthy and rejuvenated skin. This treatment is done by applying an acid to the problem area. The type of acid and it's strength which is depended on the skin condition. Chemical peels can be used on the face and many parts of the body. <br/><br/> We provide superficial and medium-depth chemical peels. Deep peels are replaced by lasers and other modern technologies. <br/><br/> We offer numerous chemical peels for different skin concerns:<ul><li>Trichloroacetic (TCA) peel (100% trichloroacetic acid)</li><li>Lactic peel (30% lactic acid)</li><li>Glycolic peel (20% glycolic acid)</li><li>Melanostop peel (6% phytic acid, 10% resorcinol, 20% azelaic acid)</li><li>Jessner peel (8% citric acid, 14% salicylic acid, 14% lactic acid)</li></ul>",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "Chemical Peel can target the following issues:",
+          "benefits": ["Acne", "Shallow scars", "Aging due to sun damage", "Melasma", "Pigmentation", "Dull complexion", "Unsatisfactory skin texture", "Large pores"],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "Redness of skin lasting a few hours after the treatment is normal. Patients do go back to work immediately. Mild peeling may also occur for up to three weeks after the treatment."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Results can be seen in one to two weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of treatments depends on the skin. Optimal results require multiple treatments."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "dual-yellow-laser",
+          "link": "dual-yellow-laser-a",
+          "name": "Dual Yellow Laser",
+          "shortDescription": "The Dual Yellow Laser is a gentle yet highly effective laser used for skin rejuvenation. It can improve the appearance of many dermatological issues. <br/><br/>",
+          "what": "The Dual Yellow Laser is a gentle yet highly effective laser used for skin rejuvenation. It can improve the appearance of many dermatological issues including large pores, acne, unwanted pigmentation (moles, age spots, brown/red spots, melasma), spider veins, and rosacea.<br/><br>This laser projects rapid, tiny pulses of two wavelengths instead of just one strong beams. The two wavelengths allows precise treatment of lesions, such as moles and age spots, with minimal risk of skin discolouration. The Dual Yellow Laser can also serve as a full-face photofacial for larger-scale problems like sun damage and acne.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["Acne", "Shallow scars", "Aging due to sun damage", "Melasma", "Pigmentation", "Dull complexion", "Unsatisfactory skin texture", "Large pores"],
+          "qa": [
+            {
+              "question": "Q: What is the recovery process like",
+              "answer": "There is no downtime other than temporary mild redness, lasting at the most two days."
+              },
+              {
+                "question": "Q: When will I see results",
+                "answer": "Patient will see gradual improvement after each session."
+              },
+              {
+                "question": "Q: How many treatments will I need",
+                "answer": "The number of sessions required depends on the severity of the condition. Usually, anywhere from 2-7 treatments are required for desired results."
+              }
+          ],
+          "category": 0
+        },
+        {
+          "link": "erbium-yag-laser-extraction",
+          "name": "Erbium Yag Laser Extraction",
+          "shortDescription": "The Erbium Yag is a laser to achieve smoother skin through resurfacing. The Erbium Yag Laser is also an excellent treatment of choice for acne extraction. <br/><br/><br/>",
+          "what": "The Erbium Yag is a solid-state laser to achieve smoother skin through resurfacing. It can gently treat sensitive and delicate area such as the neck, round the eye, the mouth, and the backs of the hands. <br/><br/>The Erbium Yag Laser is also an excellent treatment of choice for acne extraction. This technique is much more efficient and considerably less painful than using a needle to deroot acne cysts or comedones. The laser drills a tiny opening for the pimple to be hygienically extracted. Unlike popping a pimple, there is little to no scarring because the depth of drilling is specifically measured. This procedure is highly effective for mopping up comedones and pustular acne.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/Extraction/Extraction1-01(1).jpeg",
+            "after": "assets/img/treatment/Extraction/Extraction1-02(1).jpeg"
+          },
+          {
+            "before": "assets/img/treatment/Extraction/Extraction2-01(1).jpeg",
+            "after": "assets/img/treatment/Extraction/Extraction2-02(1).jpeg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["Improves acne and acne scars", "Smooths out lines, wrinkles, and unevenly textured skin", "Shrinks large pores", "Minimal discomfort and downtime"],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of the treatment",
+            "answer": "Patients typically experience redness and mild stinging for a few hours. A cold compress may be used to relieve the discomfort. In each extraction area, a tiny hole will be present for several days until the skin heals over."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "The skin will finish peeling within 3-7 days. For acne extraction, you will see immediate results and redness will subside the next day."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Visible improvement is possible with 1 treatment. For acne extraction, patients opt for this treatment when they have acne outbreak."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "intense-pulse-light",
+          "link": "intense-pulse-light-1",
+          "name": "Intense Pulse Light (IPL)",
+          "shortDescription": "IPL is a popular photo rejuvenation treatment for pigmentation, acne, acne scars and flushing. This laser is highly effective for removing unwanted pigmentation and for evening out skin tone. It is also great for treating fine lines by stimulating collagen production.<br/>",
+          "what": "IPL is a popular photo rejuvenation treatment for pigmentation, acne, acne scars and flushing. This laser is highly effective for removing unwanted pigmentation and for evening out skin tone. It is also great for treating fine lines and tightening skin texture by stimulating collagen production. It gives your skin a more refreshed and glowing appearance.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Pigmented lesion treatment", 
+            "Pore size reduction", 
+            "Acne scar removal",
+            "Acne control",
+            "Photo facials",
+            "Rosacea and flushing reduction",
+            "Vascular lesion treatment"
+          ],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "There is often slight scabbing or crusting which falls off in about 5-10 days."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "After scabbing falls off."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Results are usually noticeable after 1 treatment. Further treatment can be scheduled for residual problem as needed."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "mesotox",
+          "link": "mesotox-4",
+          "name": "Mesotox",
+          "shortDescription": "Mesotox is a diluted Botox® injection for improving the health and the appearance of skin. It controls acne by decreasing oil production. It can also diminish fine lines with natural-looking results.",
+          "what": "Mesotox is a diluted Botox® injection for improving the health and the appearance of skin. It controls acne by decreasing oil production. It can also diminish fine lines with natural-looking results.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Reduces pore size", "Reduces oil production", "Improves acne condition", "Diminishes fine lines", "Improves skin quality by making skin look more refined and radiant"],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of the treatment",
+            "answer": "At most, redness for a few hours."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Approximately two weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "On average, 3 sessions are needed for optimal results. Further treatments may be needed for maintenance."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "natural-photodynamic-therapy",
+          "link": "natural-photodynamic-therapy",
+          "name": "Natural Photodynamic Therapy",
+          "shortDescription": "Photodynamic Therapy (PDT) is a treatment for killing acne activity. It is suitable for cases of mild to severe acne and acne scarring.",
+          "what": "Photodynamic Therapy (PDT) is a treatment for killing acne activity. It is suitable for cases of mild to severe acne and acne scarring. During the treatment process, a photosensitizing agent called 5-aminolevulinic acid (ALA) is applied to the skin and becomes activated when put under a specific wavelength of light. Once activated, the ALA is absorbed by acne cells making acne more receptive to bacteria-killing light. Since ALA is hydrophilic, it requires a longer penetration period, thus requiring 1.5 days of avoiding sun exposure. <br/><br/>We offer a natural alternative by replacing the ALA solution with a solution composed of vitamins and amino acids. This natural solution penetrates faster with high efficacy while causing no harsh side effects. By using the natural photosensitizer, the activation and duration of post-treatment sun avoidance are both shortened.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/photodynamic-therapy/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/photodynamic-therapy/Untitled-1-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Minimal to no side effect",
+            "Painless or mild discomfort",
+            "Safe and natural",
+            "Improves pore size and texture of skin",
+            "Decreases sebum excretion",
+            "Improves appearance of acne scars"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects of the treatment",
+              "answer": "It is possible for some patient to experience redness for few hours. Mild peeling may follow treatment in 2-3 days."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "It may take up to several treatments to see satisfactory improvement."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "A patient will need 3-6 treatments depending on the severity of the condition."
+            }
+          ],
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "acne scars",
+      "cLink": "acne-scars",
+      "imgUrl": "assets/img/acne_scars.png",
+      "description": "Acne scarring is a major sequelae of acne.  Most acne scar is preventable provided acne is aggressively treated to start with. Unfortunately most patients and even their parents or loved ones believe that acne is a benign disease.  To them, acne is a just a phase of life and it is natural or inevitable.  Although acne might only appear during a certain part of life, its scar lasts forever.  Another misconception is only serious acne leads to scarring.  While it might be true in many cases,   we now know that even mild acne can potentially leave noticeable scars.",
+      "treatments": 
+      [
+        {
+          "canonical": "duet-radio-frequency",
+          "link": "duet-radio-frequency",
+          "name": "Duet Radio Frequency",
+          "shortDescription": "Duet RF is a non-invasive solution for skin rejuvenation. Duet RF is an advanced focused radio frequency technology which operates in 2 modes. <br/>",
+          "what": "Duet RF is a non-invasive solution for skin rejuvenation. Duet RF is an advanced focused radio frequency technology which operates in 2 modes. The Fractional RF mode is suitable for skin resurfacing while the Thermal RF mode is for deep dermal tissue tightening and remodeling. The two modes can be used either combined or individually to provide the patient with optimal results.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/Duet-RF/Duet RF 2-01.jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF 2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 1-01 (1).jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 1-02 (1).jpg"
+          },
+          {
+            "before": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 2-01 (1).jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 2-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": 
+          [
+            "Tightening & Lifting",
+            "Wrinkles & Fine Lines",
+            "Acne",
+            "Acne Scars",
+            "Pore Size",
+            "Skin Texture",
+            "Skin Tone",
+            "Face Contouring"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects",
+              "answer": "Generally, Temporary mild redness and swelling is accompanied by good result."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Patients will see gradual improvement after 6-12 weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "For lifting and tightening, one treatment is usually enough to boost collagen production for a year. Maintenance treatments can be repeated annually. For acne scar, at least 3 treatments are required."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "fractional-laser",
+          "link": "fractional-laser",
+          "name": "Fractional Laser Therapy",
+          "shortDescription": "Fractional laser therapy is used for skin resurfacing. It treats acne scarring, stretch marks, melasma, wrinkles, rough skin, and large pores. <br/><br/>",
+          "what": "Fractional laser therapy is used for skin resurfacing. It treats acne scarring, stretch marks, melasma, wrinkles, rough skin, and large pores. As the name suggests, this laser treats small fractions of skin (microthermal zones/MTZ) while leaving surrounding skin unaffected. This results in quicker recovery with minimal side effects.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/fractional-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/fractional-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/fractional-laser/Fractional-01 (1).jpg",
+            "after": "assets/img/treatment/fractional-laser/Fractional-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Acne scars", 
+            "Stretch marks", 
+            "Uneven pigmentation (such as melasma)",
+            "Lines, wrinkles, sagging skin",
+            "Rough or uneven skin",
+            "Large pores"
+          ],
+          "qa": [
+            {
+            "question": "Q: What is the recovery process like",
+            "answer": "The most common side effect is redness. Half of the redness is usually gone by the time the patient leaves the clinic. The remaining redness recedes after an hour. Complete healing time is 3-6 days. Most patients resume their normal activities the day after."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Results are noticeable after a week while gradual improvements will continue over weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of treatments depends on the skin condition. In most cases, We recommends 2-5 treatments, each separated by 4-8 weeks."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "intense-pulse-light",
+          "link": "intense-pulse-light",
+          "name": "Intense Pulse Light (IPL)",
+          "shortDescription": "IPL is a popular photo rejuvenation treatment for pigmentation, acne, acne scars and flushing. This laser is highly effective for removing unwanted pigmentation and for evening out skin tone. It is also great for treating fine lines by stimulating collagen production.<br/>",
+          "what": "IPL is a popular photo rejuvenation treatment for pigmentation, acne, acne scars and flushing. This laser is highly effective for removing unwanted pigmentation and for evening out skin tone. It is also great for treating fine lines and tightening skin texture by stimulating collagen production. It gives your skin a more refreshed and glowing appearance.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Pigmented lesion treatment", 
+            "Pore size reduction", 
+            "Acne scar removal",
+            "Acne control",
+            "Photo facials",
+            "Rosacea and flushing reduction",
+            "Vascular lesion treatment"
+          ],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "There is often slight scabbing or crusting which falls off in about 5-10 days."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "After scabbing falls off."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Results are usually noticeable after 1 treatment. Further treatment can be scheduled for residual problem as needed."
+            }
+          ],
+          "category": 3
+        },
+        {
+          "canonical": "micro-needling-radio-frequency",
+          "link": "micro-needling-radio-frequency",
+          "name": "Micro-needling Radio Frequency",
+          "shortDescription": "Micro-needling Radio Frequency is a micro-needling treatment designed to treat acne scars, large pores, sagging skin, and stretch marks.<br/><br/><br/>",
+          "what": "<p>In Micro-needling Radio Frequency (MRF), each needle acts as an electrode to emit radiofrequency. This process generates heat prompting collagen production and skin tightening. It is designed to treat acne scars, large pores, sagging skin, and stretch marks.</p><h3>Scarlet RF</h3>Scarlet RF is different from other similar devices in that the needles are non-insulated.  The initial concern for non-insulated needles is the risk of superficial skin burn.  However, the design of Scarlet is so intelligent that not only superficial burn does not happen, the non-insulated needles are in fact advantageous to produce positive change to the entire skin layer.  The difference “inductance” of the different area of the skin allows the technology to be safely applied on skin. Our experience at Reviva has confirmed the tremendous safety of this particular device.</p><h3>So what is the result you can expect from Scarlet RF?</h3><p>At Reviva, where we have performed many hundred of Scarlet RF treatments, we have seen a diminishment in pore size, scar improvement, and skin brightening.  However,  the most pleasant effect we see is skin tightening  and sharpening of the lower half of the face so the face looks more oval in shape.  We have seen equal and at times even better result with Scarlet RF in skin tightening than focus ultrasound as well as no-needle RF devices. The needles ensure the energy is reliably deliver to the skin at the desired level.</p><h3>Scarlet RF and the new Scarlet-S</h3><p>Scarlet RF (and the new Scarlet-S) is a great tool we have at Reviva to combat the effect of skin aging, acne scar as well as general skin conditioning.   This is one of the devices we have full confidence to recommend to our patients because of the safety, efficacy and cost effectiveness.</p>",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/Intracel/Intracel 1-01 (1).jpg",
+            "after": "assets/img/treatment/Intracel/Intracel 1-02 (1).jpg"
+          },
+          {
+            "before": "assets/img/treatment/Intracel/Intracel 2-01 (1).jpg",
+            "after": "assets/img/treatment/Intracel/Intracel 2-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Reduces pore size", 
+            "Improves acne scars", 
+            "Tightens skin by lifting drooping and sagging skin",
+            "Improve stretch marks"
+          ],
+          "qa": [
+            {
+              "question": "Q: What can I expect after the treatment",
+              "answer": "This treatment is safe and has minimal downtime, making it popular amongst patients of all skin types. Some patients experience mild redness or temporary swelling."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Improvement to skin texture is visible within days, while tightening happens more gradually over 2 to 6 months."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "On average, 3 treatments are needed for the full effects of MRF. "
+            }
+          ],
+          "category": 3
+        },
+        {
+          "canonical": "platelet-rich-plasma-therapy",
+          "link": "platelet-rich-plasma-therapy-5",
+          "name": "Platelet Rich Plasma Therapy",
+          "shortDescription": "Platelet Rich Plasma (PRP) Therapy is the process of using patient’s own plasma towards healing and regeneration. <br/><br/>",
+          "what": "Platelet Rich Plasma (PRP) Therapy is the process of using patient’s own plasma towards healing and regeneration. We perform this treatment for cosmetic purposes to bring vitality and smoothness to the skin. <br/><br/>PRP contains many proteins called growth factors. It prompts tissues regeneration and new blood vessels creation, improving the health and texture of skin. <br/><br/>During this procedure, blood is drawn from the patient and placed in a centrifuge to isolate the platelets. The plasma is extracted and applied topically to your skin, it can also be injected by the doctor into areas of need such as acne scars.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/platelet-rich/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/platelet-rich/Untitled-1-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Stimulates collagen",
+            "Hydrates skin",
+            "Reduces lines and wrinkles",
+            "Reduces pore sizes",
+            "Improves acne scars",
+            "Stimulates hair growth"
+          ],
+          "qa": [
+            {
+              "question": "Q: What can I expect after the treatment",
+              "answer": "As the skin is using its own growth factors in the process, patients notice their skin to be brighter and more supple. Patients can also expect to have smoother, fuller, and more hydrated skin."
+            },
+            {
+              "question": "Q: What are some common side effects",
+              "answer": "Swelling and slight bruising are common side effects. However, some patients do not experience any side effects at all."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Results come after approximately 6-8 weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "A full round of treatment usually consists of 2-3 sessions with 1 month intervals."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "subcision",
+          "name": "Subcision",
+          "shortDescription": "Subcision is a minor surgical procedure to treat depressed acne scars, including rolling, boxcar, and icepick scars. <br/><br/>",
+          "what": "Subcision is a minor surgical procedure to treat depressed acne scars. The hypodermic needles or cannulas are used to physically separate the dermis from the subcutaneous tissue. This releases and even out the scar tissue. At the same time collagen remodeling is initiated. Eventually the scar is filled out resulting in a smaller and shallower scar.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/subcision/Subcision-01 (1).jpg",
+              "after": "assets/img/treatment/subcision/Subcision-02 (1).jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Improves appearance of depressed scars (rolling scar and boxcar scar)"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects",
+              "answer": "There may be bruising in the treatment area which subsides about 7-10 days after the treatment."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "You should see smaller or shallower scars by 1 month after the treatment."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of treatments needed depends on the severity of the acne scars. While there is noticeable improvement after each treatment, two or more sessions are usually required."
+            }
+          ],
+          "category": 4
+        },
+        {
+          "link": "tca-peel",
+          "name": "TCA Peel",
+          "shortDescription": "The trichloroacetic acid peel (TCA) is a medium strength chemical peel for resurfacing the skin through the process of protein denaturation.<br/><br/>",
+          "what": "The trichloroacetic acid peel (TCA) is a medium strength chemical peel for resurfacing the skin through the process of protein denaturation. This treatment helps improve the appearance of fine lines, acne scarring, uneven skin tone, and skin discoloration.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/TCA/TCA-01 (1).jpg",
+              "after": "assets/img/treatment/TCA/TCA-02 (1).jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Brightens and evens out skin tone",
+            "Cleans congested pores",
+            "Improves appearance of fine lines",
+            "Reduces hyperpigmented acne scars",
+            "Quick treatment" 
+          ],
+          "qa": [
+            {
+              "question": "Q: What can I expect during the treatment",
+              "answer": "Stinging or burning sensation during application."
+            },
+            {
+              "question": "Q: What are the side effects",
+              "answer": "Redness and mild swelling may occur and gradually subside the week following the treatment. "
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "You will start seeing results after 1-2 weeks. Keeping the skin moisturized helps to speed rejuvenation."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The TCA peel can be done as needed, but it is not recommended to do it more frequently than every 4 weeks."
+            }
+          ],
+          "category": 4
+        },
+        {
+          "link": "tca-cross",
+          "name": "TCA Cross",
+          "shortDescription": "Trichloroacetic Acid Chemical Reconstruction of Skin Scars (TCA CROSS) is an effective and safe way to improve the appearance of depressed (ice-pick, rolling or boxcar) acne scars through localized chemical peels. ",
+          "what": "Trichloroacetic Acid Chemical Reconstruction of Skin Scars (TCA CROSS) is an effective and safe way to improve the appearance of depressed (ice-pick, rolling or boxcar) acne scars through localized chemical peels. To start this procedure, a small amount of high-concentration TCA is placed on the depressed area of the scar. The solution causes inflammation which prompts collagen production and results in a shallower scar or disappearance of the scar.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/TCA/TCA-01 (1).jpg",
+            "after": "assets/img/treatment/TCA/TCA-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Improves appearance of depressed acne scars."
+          ],
+          "qa": [
+            {
+              "question": "Q: What can I expect during the treatment",
+              "answer": "Localized redness, peeling, and scabbing may occur."
+            },
+            {
+              "question": "Q: What is the aftercare",
+              "answer": "Gentle cleansing, moisturizing, and UV protection are especially important the week after treatment. Makeup may be applied the following day."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": " The first noticeable results come in 4 weeks. The best results are expected about 12 weeks after completion of the series of treatment."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "This depends on the severity of the acne scars. Patients usually need at least 3 sessions."
+            }
+          ],
+          "category": 4
+        }
+      ]
+    },
+    {
+      "name": "pigmentation",
+      "cLink": "pigmentation",
+      "imgUrl": "assets/img/pigmentation.png",
+      "description": "",
+      "treatments": 
+      [
+        {
+          "canonical": "aqua-lifting",
+          "link": "aqua-lifting-6",
+          "name": "Aqua Lifting™",
+          "shortDescription": "Aqua Lifting™ is an anti-aging treatment for the face, neck, and hands. In this quick procedure, a filler composed of medical grade hyaluronic acid is injected into the skin to smoothen and hydrate skin, giving you a younger appearance.",
+          "what": "Aqua Lifting™ is an anti-aging treatment for the face, neck, and hands. In this quick procedure, a filler composed of medical grade hyaluronic acid is injected into the skin to smoothen and hydrate skin, giving you a younger appearance. This treatment promises filled out wrinkles and more glowing skin for several months to a year.<br/><br/>Active Ingredient: Hyaluronic Acid<br/>The appeal of youthful skin can be partially attributed to a sugar our bodies produce called hyaluronic acid (HA). Hyaluronic acid, also known as hyaluronan, binds and retains water molecules making it one of the main ingredients for moisturized, smooth and elastic skin.  As we age, our bodies gradually decrease the production of HA which inevitably leads to various visible signs of aging - increased dryness, thinning and emerging wrinkles. When injected, these signs of aging can be reversed!",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Brightened and lightened skin", "Reduces fine lines", "Reduces pore sizes", "Restores skin elasticity", "Stimulates collagen rejuvenation", "Repairs aging skin cells "],
+          "qa": [{
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "The most common side effects are mild redness, bruising, and swelling for about 2-5 days."
+            },
+            {
+              "question": "Q: How soon can I expect to see results",
+              "answer": "Immediately after healing time! Pairing this treatment with a good skincare routine can ensure quicker healing and optimal results."
+            },
+            {
+              "question": "Q: How long do results last",
+              "answer": "After one session, results of younger-looking skin will last up to four to five months. With additional treatments, results can last up to a year."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "chemical-peel",
+          "link": "chemical-peel-6",
+          "name": "Chemical Peel™",
+          "shortDescription": "Chemical peel, a means of exfoliation, can improve skin texture, scarring, melasma, and large pores. <br/><br/><br/>",
+          "what": "Chemical peel, a means of exfoliation, can improve skin texture, scarring, melasma, and large pores. Exfoliation is the removal of the outermost layer of skin. It speeds up the process of regenerating healthy and rejuvenated skin. This treatment is done by applying an acid to the problem area. The type of acid and it's strength which is depended on the skin condition. Chemical peels can be used on the face and many parts of the body. <br/><br/> We provide superficial and medium-depth chemical peels. Deep peels are replaced by lasers and other modern technologies. <br/><br/> We offer numerous chemical peels for different skin concerns:<ul><li>Trichloroacetic (TCA) peel (100% trichloroacetic acid)</li><li>Lactic peel (30% lactic acid)</li><li>Glycolic peel (20% glycolic acid)</li><li>Melanostop peel (6% phytic acid, 10% resorcinol, 20% azelaic acid)</li><li>Jessner peel (8% citric acid, 14% salicylic acid, 14% lactic acid)</li></ul>",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "Chemical Peel can target the following issues:",
+          "benefits": ["Acne", "Shallow scars", "Aging due to sun damage", "Melasma", "Pigmentation", "Dull complexion", "Unsatisfactory skin texture", "Large pores"],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "Redness of skin lasting a few hours after the treatment is normal. Patients do go back to work immediately. Mild peeling may also occur for up to three weeks after the treatment."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Results can be seen in one to two weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of treatments depends on the skin. Optimal results require multiple treatments."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "dual-yellow-laser",
+          "link": "dual-yellow-laser-6",
+          "name": "Dual Yellow Laser",
+          "shortDescription": "The Dual Yellow Laser is a gentle yet highly effective laser used for skin rejuvenation. It can improve the appearance of many dermatological issues. <br/><br/>",
+          "what": "The Dual Yellow Laser is a gentle yet highly effective laser used for skin rejuvenation. It can improve the appearance of many dermatological issues including large pores, acne, unwanted pigmentation (moles, age spots, brown/red spots, melasma), spider veins, and rosacea.<br/><br>This laser projects rapid, tiny pulses of two wavelengths instead of just one strong beams. The two wavelengths allows precise treatment of lesions, such as moles and age spots, with minimal risk of skin discolouration. The Dual Yellow Laser can also serve as a full-face photofacial for larger-scale problems like sun damage and acne.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["Acne", "Shallow scars", "Aging due to sun damage", "Melasma", "Pigmentation", "Dull complexion", "Unsatisfactory skin texture", "Large pores"],
+          "qa": [
+            {
+              "question": "Q: What is the recovery process like",
+              "answer": "There is no downtime other than temporary mild redness, lasting at the most two days."
+              },
+              {
+                "question": "Q: When will I see results",
+                "answer": "Patient will see gradual improvement after each session."
+              },
+              {
+                "question": "Q: How many treatments will I need",
+                "answer": "The number of sessions required depends on the severity of the condition. Usually, anywhere from 2-7 treatments are required for desired results."
+              }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "fractional-laser",
+          "link": "fractional-laser-6",
+          "name": "Fractional Laser Therapy",
+          "shortDescription": "Fractional laser therapy is used for skin resurfacing. It treats acne scarring, stretch marks, melasma, wrinkles, rough skin, and large pores.<br/><br/>",
+          "what": "Fractional laser therapy is used for skin resurfacing. It treats acne scarring, stretch marks, melasma, wrinkles, rough skin, and large pores. As the name suggests, this laser treats small fractions of skin (microthermal zones/MTZ) while leaving surrounding skin unaffected. This results in quicker recovery with minimal side effects.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/fractional-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/fractional-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/fractional-laser/Fractional-01 (1).jpg",
+            "after": "assets/img/treatment/fractional-laser/Fractional-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Acne scars", 
+            "Stretch marks", 
+            "Uneven pigmentation (such as melasma)",
+            "Lines, wrinkles, sagging skin",
+            "Rough or uneven skin",
+            "Large pores"
+          ],
+          "qa": [
+            {
+              "question": "Q: What is the recovery process like",
+              "answer": "The most common side effect is redness. Half of the redness is usually gone by the time the patient leaves the clinic. The remaining redness recedes after an hour. Complete healing time is 3-6 days. Most patients resume their normal activities the day after."
+              },
+              {
+                "question": "Q: When will I see results",
+                "answer": "Results are noticeable after a week while gradual improvements will continue over weeks."
+              },
+              {
+                "question": "Q: How many treatments will I need",
+                "answer": "The number of treatments depends on the skin condition. In most cases, We recommends 2-5 treatments, each separated by 4-8 weeks."
+              }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "intense-pulse-light",
+          "link": "intense-pulse-light-6",
+          "name": "Intense Pulse Light (IPL)",
+          "shortDescription": "IPL is a popular photo rejuvenation treatment for pigmentation, acne, acne scars and flushing. This laser is highly effective for removing unwanted pigmentation and for evening out skin tone. It is also great for treating fine lines by stimulating collagen production.<br/>",
+          "what": "IPL is a popular photo rejuvenation treatment for pigmentation, acne, acne scars and flushing. This laser is highly effective for removing unwanted pigmentation and for evening out skin tone. It is also great for treating fine lines and tightening skin texture by stimulating collagen production. It gives your skin a more refreshed and glowing appearance.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Pigmented lesion treatment", 
+            "Pore size reduction", 
+            "Acne scar removal",
+            "Acne control",
+            "Photo facials",
+            "Rosacea and flushing reduction",
+            "Vascular lesion treatment"
+          ],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "There is often slight scabbing or crusting which falls off in about 5-10 days."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "After scabbing falls off."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Results are usually noticeable after 1 treatment. Further treatment can be scheduled for residual problem as needed."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "laser-toning",
+          "name": "Laser Toning",
+          "shortDescription": "Laser Toning is a popular skin brightening treatment for those who want to get rid of unwanted pigmentation and even out their skin tone.<br/><br/><br/>",
+          "what": "Laser Toning is a popular skin brightening treatment for those who want to get rid of unwanted pigmentation and even out their skin tone. It has been proven to lighten and remove stubborn pigment lesions such as melasma without the risks associated with aggressive light and laser treatments. <br/><br/> Lasertoning is a combination of microdermabrasion, Q-Switched laser and ultrasound infusion. Firstly, microdermabrasion exfoliate and prepare the skin. Then the Q-switched laser is used to target the unwanted pigmented area. We concluded the treatment with an infusion to brighten up the skin.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/laser-toning/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/laser-toning/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/laser-toning/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/laser-toning/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/laser-toning/Lasertoning 3-01 (1).jpg",
+              "after": "assets/img/treatment/laser-toning/Lasertoning 3-02 (1).jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Lighten pigmentation", 
+            "Brightens and evens skin tone", 
+            "Minimal risks of hyperpigmentation",
+            "Pain-free"
+          ],
+          "qa": [
+            {
+            "question": "Q: What can I expect during the treatment",
+            "answer": "The first step of this treatment is microdermabrasion to prepare for the rest of the treatment. Following the exfoliation, a high-powered infrared laser suppresses pigment-producing cells called melanocytes. Lastly, an infusion of medical grade brightening cream is applied."
+            },
+            {
+              "question": "Q: What happens after the treatment",
+              "answer": "There is no downtime and regular activities can be resumed following the treatment. Side effects are minimal and may include temporary redness that lasts about an hour. "
+            },
+            {
+              "question": "Q: When will I see result",
+              "answer": "Improvement after each session."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "For best results, 6 to 8 sessions are usually needed. Having maintenance treatments and a skincare routine catered to personal needs will help to achieve optimal results."
+            }
+          ],
+          "category": 2
+        },
+        {
+          "canonical": "laser-genesis",
+          "link": "laser-genesis",
+          "name": "Laser Genesis",
+          "shortDescription": "Laser Genesis is a non-invasive laser technology that uses concentrated light and heat to stimulate collagen production at the upper dermis.",
+          "what": "Laser Genesis is a non-invasive laser technology that uses concentrated light and heat to stimulate collagen production at the upper dermis. The GentleYAG laser is capable of skin tightening, hair removal, scar reduction, and vascular lesions removal. It is capable treating fine facial vessels and dilated capillaries so it is effective for rosacea and flushing. ",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/lasergenesis/Lasergenesis Redness-01 (1).jpg",
+              "after": "assets/img/treatment/lasergenesis/Lasergenesis Redness-02 (1).jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Comfortable and requires no anesthetic ", 
+            "Appropriate for all skin types", 
+            "Little to no downtime",
+            "Quick treatment"
+          ],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of the treatment",
+            "answer": "At most, there is mild redness and swelling that only lasts a few hours. There is usually no downtime and makeup can be applied immediately following the treatment. "
+            },
+            {
+              "question": "Q: How long is a treatment",
+              "answer": "Each treatment lasts about 20-30 minutes except for hair removal which takes longer."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Treatment regimen usually consists one session every 2-3 weeks until desired results are attained."
+            }
+          ],
+          "category": 2
+        },
+        {
+          "link": "q-switch-laser",
+          "name": "Q-Switch Laser",
+          "shortDescription": " This laser targets the dermal pigments chromophore and melanin making it great for lightening or even erasing unwanted pigment in the skin.",
+          "what": "<h3>Q-Yag laser</h3>One of the Q-Switched lasers we use is called Q-Yag laser. The Q-Yag laser has a specific infrared wavelength of 1064 nm which safely and non-invasively penetrates the dermis for tissue stimulation. This laser targets pigments in the dermis (chromophore and melanin). It is effective for lightening or removing unwanted pigment in the skin including melasma and tattoos. <br/><br/> <h3>Q-Alexandrite laser</h3>Another Q-switched laser is the Q-Alexandrite laser. The Q-Alex laser produces light in the infrared spectrum at 755 nm. The high energy produced by the laser is converted to heat which triggers photothermolysis which selectively removes undesired pigments. This laser can treat age spots, colored tattoos, and other pigmented lesions. <h3>Helios II Laser</h3>Reviva Laser Skin Clinic relies on the Helios II Laser System to treat pigmented lesions, melasma, enlarged pores, acne scars, and also for tattoo removal.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/q-swtich-laser/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/q-swtich-laser/Untitled-1-02.jpg"
+            },{
+              "before": "assets/img/treatment/q-swtich-laser/Q-Switch-01 (1).jpg",
+              "after": "assets/img/treatment/q-swtich-laser/Q-Switch-02 (1).jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Low level of pain", 
+            "Few side effects", 
+            "Quick recovery time",
+            "Known for not damaging surrounding tissue"
+          ],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of the treatment",
+            "answer": "The treated area will appear red for about 3-5 days. Scabbing may occur as part of the healing process. Scab normally falls off after 7-10 days."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Full results are seen after 4-6 weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "For most types of pigmentations, 1-3 treatments are needed. However, the number of treatments will be decided by the doctor as it ultimately depends on the type of pigmentation. Tattoo removal treatment requires more treatments."
+            }
+          ],
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "lifting & tightening",
+      "cLink": "lifting-tightening",
+      "imgUrl": "assets/img/lifting_tightening.png",
+      "description": "",
+      "treatments": 
+      [
+        {
+          "canonical": "dermal-filler",
+          "link": "dermal-filler-7",
+          "name": "Dermal Filler",
+          "shortDescription": "Dermal-fillers are gel fillers injected deep into the skin to fill lines and enhance facial contouring.<br/><br/>",
+          "what": "Dermal-fillers are gel fillers injected deep into the skin to fill lines and enhance facial contouring. We use only natural, hyaluronic-based dermal fillers including Juvéderm and Restylane. Because hyaluronic acid already occurs in the body, results are very natural-looking. The fillers are not derived from animals which means that there is a minimal risk of allergic reaction and zero transfer of disease. <br/><br/>Active Ingredient: Hyaluronic Acid<br/>The appeal of youthful skin can be partially attributed to a sugar our bodies produce called hyaluronic acid (HA). Hyaluronic acid, also known as hyaluronan, binds and retains water molecules making it one of the main ingredients for moisturized, smooth and elastic skin.  As we age, our bodies gradually decrease the production of HA which inevitably leads to various visible signs of aging - increased dryness, thinning and emerging wrinkles. When injected, these signs of aging can be reversed!",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/dermal-filler/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-3-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-5-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-5-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-6-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-6-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-7-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-7-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-8-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-8-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["Acne", "Shallow scars", "Aging due to sun damage", "Melasma", "Pigmentation", "Dull complexion", "Unsatisfactory skin texture", "Large pores"],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "Commonly, there is redness of skin lasting a few hours after the treatment. In our experience, patients go back to work immediately. Mild peeling may also occur for up to three weeks after the treatment."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Results can be seen in one to two weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of treatments depends on the initial skin condition. Optimal results usually require multiple treatments."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "duet-radio-frequency",
+          "link": "duet-radio-frequency-2",
+          "name": "Duet Radio Frequency",
+          "shortDescription": "Duet RF is a non-invasive solution for skin rejuvenation. Duet RF is an advanced focused radio frequency technology which operates in 2 modes. <br/>",
+          "what": "Duet RF is a non-invasive solution for skin rejuvenation. Duet RF is an advanced focused radio frequency technology which operates in 2 modes. The Fractional RF mode is suitable for skin resurfacing while the Thermal RF mode is for deep dermal tissue tightening and remodeling. The two modes can be used either combined or individually to provide the patient with optimal results.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/Duet-RF/Duet RF 2-01.jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF 2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 1-01 (1).jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 1-02 (1).jpg"
+          },
+          {
+            "before": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 2-01 (1).jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 2-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": 
+          [
+            "Tightening & Lifting",
+            "Wrinkles & Fine Lines",
+            "Acne",
+            "Acne Scars",
+            "Pore Size",
+            "Skin Texture",
+            "Skin Tone",
+            "Face Contouring"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects",
+              "answer": "Generally, Temporary mild redness and swelling is accompanied by good result."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Patients will see gradual improvement after 6-12 weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "For lifting and tightening, one treatment is usually enough to boost collagen production for a year. Maintenance treatments can be repeated annually. For acne scar, at least 3 treatments are required."
+            }
+          ],
+          "category": 3
+        },{
+          "canonical": "micro-needling-radio-frequency",
+          "link": "micro-needling-radio-frequency-2",
+          "name": "Micro-needling Radio Frequency",
+          "shortDescription": "Micro-needling Radio Frequency is a micro-needling treatment designed to treat acne scars, large pores, sagging skin, and stretch marks.<br/><br/>",
+          "what": "<p>In Micro-needling Radio Frequency (MRF), each needle acts as an electrode to emit radiofrequency. This process generates heat prompting collagen production and skin tightening. It is designed to treat acne scars, large pores, sagging skin, and stretch marks.</p><h3>Scarlet RF</h3>Scarlet RF is different from other similar devices in that the needles are non-insulated.  The initial concern for non-insulated needles is the risk of superficial skin burn.  However, the design of Scarlet is so intelligent that not only superficial burn does not happen, the non-insulated needles are in fact advantageous to produce positive change to the entire skin layer.  The difference “inductance” of the different area of the skin allows the technology to be safely applied on skin. Our experience at Reviva has confirmed the tremendous safety of this particular device.</p><h3>So what is the result you can expect from Scarlet RF?</h3><p>At Reviva, where we have performed many hundred of Scarlet RF treatments, we have seen a diminishment in pore size, scar improvement, and skin brightening.  However,  the most pleasant effect we see is skin tightening  and sharpening of the lower half of the face so the face looks more oval in shape.  We have seen equal and at times even better result with Scarlet RF in skin tightening than focus ultrasound as well as no-needle RF devices. The needles ensure the energy is reliably deliver to the skin at the desired level.</p><h3>Scarlet RF and the new Scarlet-S</h3><p>Scarlet RF (and the new Scarlet-S) is a great tool we have at Reviva to combat the effect of skin aging, acne scar as well as general skin conditioning.   This is one of the devices we have full confidence to recommend to our patients because of the safety, efficacy and cost effectiveness.</p>",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/Intracel/Intracel 1-01 (1).jpg",
+              "after": "assets/img/treatment/Intracel/Intracel 1-02 (1).jpg"
+            },
+            {
+              "before": "assets/img/treatment/Intracel/Intracel 2-01 (1).jpg",
+              "after": "assets/img/treatment/Intracel/Intracel 2-02 (1).jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Reduces pore size", 
+            "Improves acne scars", 
+            "Tightens skin by lifting drooping and sagging skin",
+            "Improve stretch marks"
+          ],
+          "qa": [
+            {
+              "question": "Q: What can I expect after the treatment",
+              "answer": "This treatment is safe and has minimal downtime, making it popular amongst patients of all skin types. Some patients experience mild redness or temporary swelling."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Improvement to skin texture is visible within days, while tightening happens more gradually over 2 to 6 months."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "On average, 3 treatments are needed for the full effects of MRF. "
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "neuromodulator",
+          "link": "neuromodulator-7",
+          "name": "Neuromodulator",
+          "shortDescription": "A neuromodulator is a substance that alters nerve impulse transmission. It is commonly used in cosmetics, in the form of Botox® and Dysport®, to temporarily treat moderate to severe lines and wrinkles.",
+          "what": "A neuromodulator is a substance that alters nerve impulse transmission. In the form of Botox® and Dysport®, to temporarily treat moderate to severe lines and wrinkles. During the aging process, collagen breaks down causing lines and wrinkles to form. However, these lines can start appearing earlier as a result of muscle activity. To smooth out the skin, botulinum toxin is injected directly into selected muscles to block the transmission of nerve impulses causing temporary paralysis in the injection site. This reduces activity of selected facial muscles and subsequently improves wrinkles.<br/><br/>This non-surgical treatment must be performed by an approved healthcare professional.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/neuromodulator/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/neuromodulator/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/neuromodulator/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/neuromodulator/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/neuromodulator/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/neuromodulator/Untitled-3-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Quick treatment", 
+            "Quick, yet lasting results",
+            "Natural results - Untreated facial muscles work normally and naturally. This allows patients to freely show facial expressions, such as smiling", 
+            "Relax the muscle on the jawline and calf for slimming effects",
+            "Temporarily relaxes the muscle that cause fine lines and wrinkles in the following area: brows, forehead, eye region, mouth area, neck, jowls"
+          ],
+          "qa": [
+            {
+            "question": "Q: What happens after the treatment",
+            "answer": "No recovery time is needed, and within days you will see an improvement that may last up to 4 months. The most common side effects are headache and injection site pain though these do not happen to many patients."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Some patients see results in as little as 24 hours. However, in most anti-aging cases, results are seen in 3-5 days and for facial or calf contouring, results are seen in 2-4 weeks."
+            },
+            {
+              "question": "Q: How do I maintain results",
+              "answer": "Most patients need to repeat the treatment after 12 weeks. It is not recommended to receive injections more often than every 90 days. Since each individual is different and has different expectations, it is up to the doctor to determine the frequency of treatments. Smoking and exposing skin to the sun’s UV rays should be avoided as these habits reduce the amount of new collagen produced and damage existing collagen."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "sculptra",
+          "link": "sculptra-7",
+          "name": "Sculptra®",
+          "shortDescription": "Sculptra® is an advanced dermal filler used to restore youthfulness and fullness to the face. It is advanced because unlike some other fillers. ",
+          "what": "Sculptra® is an advanced dermal filler used to restore youthfulness and fullness to the face. It is advanced because unlike some other fillers, it is capable of stimulating collagen production in the skin to replace what was lost through aging. Sculptra® is best for filling out hollowing, lines, and wrinkles in these areas: </li><<li>Nasolabial folds (smile lines)</li><li>Marionette lines (lines framing the mouth)</li><li>Temples</li><li>Cheeks</li><li>Scars</li><li>Jawline</li><li>Chin</li></ul>",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/sculptra/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/sculptra/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/sculptra/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/sculptra/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [ 
+            "Stimulates collagen production", 
+            "Reduces lines and wrinkles",
+            "Is biocompatible as it is eventually and safely metabolized by the body",
+            "Natural appearance",
+            "Long-lasting results - up to 2 years after a full round of treatment"
+          ],
+          "qa": [
+            {
+            "question": "Q: How safe is this injection",
+            "answer": "Very safe. Because there are no human or animal components in Sculptra®. No allergy testing is required. It is a FDA-approved substance and has been used worldwide since 1999. For many years prior, the acid it is made of, poly-L-lactic, had been used for dissolving stitches."
+            },
+            {
+              "question": "Q: What are the side effects",
+              "answer": "Side effects are temporary and not debilitating. They include injection site pain, redness, bruising, tenderness, itching and lumps, bleeding or swelling. Some people appreciate the momentary swelling because it brings an immediate fullness to the face."
+            },
+            {
+              "question": "Q: What can I expect after the treatment",
+              "answer": "Sometimes, there is swelling that will disappear after a few days. As your skin pumps out collagen on its own, you will begin to see gradual improvement of natural plumping and firming."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "This injection works immediately and is designed to improve the appearance of skin very gradually. Because of this, wrinkles and lines diminish at a subtle rate and full effects of the treatment are more noticeable after a couple months."
+            },
+            {
+              "question": "Q: How many treatments do I need",
+              "answer": "A full round of treatment consists of 2-4 sessions with 4-6 week intervals between each."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "tripollar",
+          "link": "tripollar",
+          "name": "Tripollar®",
+          "shortDescription": "The TriPollar® RF is a toning device which tightens the skin and reduces cellulite. It is a painless treatment during which energy is delivered to the surface of the skin and to subcutaneous fat layers.",
+          "what": "The TriPollar® RF is a toning device which tightens the skin and reduces cellulite. It is a painless treatment during which energy is delivered to the surface of the skin and to subcutaneous fat layers. This process accelerates fat metabolism and shrinks fat cells for a sculpted look that lasts. This not only reduces excess skin after fat-loss, but is also effective against stretch marks.<br/><br/><h3>What is the advantage of tripollar RF (radiofrequency) device over unipolar or bipolar devices?</h3>Unipolar devices delivers high power through the body, requiring a ground pad to complete the circuit.  It is a painful procedure. <br/><br/>Bipolar devices only allow the RF energy passes through the superficial part of the skin (1/2 distance between the electrodes) and does not give adequate tissue tightening because of limited depth penetration.<br/><br/>Tripollar RF by Pollagen delivers the energy through multiple electrodes which alternate in polarity.  It allows deeper penetration of the energy to the deeper fat and superficial fat layer with gentler power.  Yet the power density remains high enough to heat up the tissue.<br/><br/><h3>How does Tripollar RF work?</h3>As fat and skin has different resistance to RF energy,  Tripollar selectively heats the fat cells in the deep and superficial adipose layers simultaneously.  Heating the fat cells increases the metabolism and forces them to release/secrete fatty acids ( liquid fat) into the extracellular space and into the blood and lymph systems.<br/><br/><h3>What are the results of Tripollar treatment?</h3>One should see results in at least 4 areas:  Fat cell shrinkage, circumferential reduction, cellulite improvement, collagen renewal and skin tightening.",
+          "before": "",
+          "slideimg": [
+            {
+              "before": "assets/img/treatment/tripollar/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/tripollar/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/tripollar/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/tripollar/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/tripollar/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/tripollar/Untitled-3-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/tripollar/Untitled-4-01.jpg",
+              "after": "assets/img/treatment/tripollar/Untitled-4-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Reduces fat bulges e.g. love handles and fat rolls", 
+            "Tightens skin", 
+            "Improves appearance of cellulite",
+            "Reduces stretch marks",
+            "Immediate results and optimal results with a series of treatments"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects of this treatment",
+              "answer": "Since no warmth is generated on the skin, there is no risk of burning and patients feel little to no discomfort. After the treatment, there may be some redness, but skin requires no cooling time."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "The majority of patients notice slight toning immediately after the first treatment. However, in order to achieve long-term results, several Tripollar® sessions are required. It is also important to practice a healthy lifestyle of clean eating and exercising to maintain optimal results."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Desired results can be attained usually with 5-8 treatments. The frequency of the treatments is described by the doctor."
+            }
+          ],
+          "category": 3
+        },
+        {
+          "link": "yag-lift-laser",
+          "name": "Yag Lift Laser",
+          "shortDescription": " The YAG Lift Laser transfers heat to the deepest layers of the dermis to safely tighten skin and diminish fine lines and wrinkles. ",
+          "what": "The YAG Lift Laser transfers heat to the deepest layers of the dermis to safely tighten skin and diminish fine lines and wrinkles. In this treatment, water is heated by absorbing light energy emitted by the laser. This causes a thermal injury below the epidermis which induces the fibroblasts to swell and collagen and elastin production to increase. The end result is tighter, smoother skin. ",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Improves saggy/droopy skin", 
+            "Diminishes fine lines and wrinkles", 
+            "Suitable for all skin types."
+          ],
+          "qa": [
+            {
+              "question": "Q: What can I expect during the treatment",
+              "answer": "Numbing cream will be applied prior and ice is used during the procedure to cool down the skin and alleviate any discomfort.  "
+            },
+            {
+              "question": "Q: What happens after the treatment",
+              "answer": "Redness and mild swelling that subsides in 1-3 days."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Some patients have reported results just a few days after treatment. Final results happen between 4-6 weeks after the treatment."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "In the beginning, 3 procedures are required once a month. Following this, maintenance treatments are needed about every 6 months."
+            }
+          ],
+          "category": 2
+        }
+      ]
+    },
+    {
+      "name": "slimming & contouring",
+      "cLink": "slimming-contouring",
+      "imgUrl": "assets/img/slimming_contouring.png",
+      "description": "",
+      "treatments": 
+      [
+        {
+          "canonical": "belkyra",
+          "link": "belkyra-8",
+          "name": "Belkyra™",
+          "shortDescription": "Belkyra™ is the one and only non-surgical treatment in Canada to slim and redefine a fatty/double chin. It is an injectable whose active ingredient is deoxycholic acid, a naturally occurring substance in the body that breaks down and absorbs fat.",
+          "what": "Belkyra™ is the one and only non-surgical treatment in Canada to slim and redefine a fatty/double chin. It is an injectable whose active ingredient is deoxycholic acid, a naturally occurring substance in the body that breaks down and absorbs fat. When injected under the chin, Belkyra™ targets and destroys the fat cell membranes, aiding in fat release and elimination fat. <br/><br/>Active Ingredient: Deoxycholic Acid<br/>In our bodies, deoxycholic acid is one of two bile acids. Its natural role is to emulsify and make fats in the intestine more soluble. When injected through the skin, it works in the same way by killing off the unwanted fat in the targeted area.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/belkyra/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/belkyra/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/belkyra/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/belkyra/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/belkyra/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/belkyra/Untitled-3-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Quick (Only a 15-20 minute procedure)", "Non-surgical", "No maintenance treatment required once goals are achieved", "A more contoured and defined chin profile"],
+          "qa": [{
+              "question": "Q: What are the side effects of this treatment",
+              "answer": "While patients are able to and encouraged to return to their normal activities, temporary soreness and mild bruising are common following treatment. We recommend soft food during this time period to avoid straining."
+            },
+            {
+              "question": "Q: How many treatments do I need to notice results",
+              "answer": "There is gradual improvement after each treatment. Most patients see a noticeable difference after two to four treatments. Up to 6 treatments may be administered depending on the situation."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "cryolipolysis",
+          "name": "Cryolipolysis™",
+          "shortDescription": "Cryolipolysis is one cure to reducing stubborn fat in areas such as the abdomen, thighs, upper arms, and the waist (love handles). <br/><br/><br/>",
+          "what": "Cryolipolysis is one cure to reducing stubborn fat in areas such as the abdomen, thighs, upper arms, and the waist (love handles). It is a non-invasive treatment where a vacuum applicator sucks tissue to the surface of the skin to cool. The exposure to a cooled temperature triggers the death of the fat cells in the desired area. While it is not a weight loss solution, fat cells are permanently destroyed leading to slimming and contouring.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/cryolipolysis/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/cryolipolysis/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/cryolipolysis/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/cryolipolysis/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/cryolipolysis/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/cryolipolysis/Untitled-3-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["Slimming and contouring of the treated area", "Safe and non-invasive", "Permanent result of fat cell reduction when paired with a healthy and balanced lifestyle"],
+          "qa": [{
+              "question": "Q: What are the side effects of the treatment",
+              "answer": "Immediately after the treatment, temporary redness may occur. Similar to the sensation of soreness after a good workout, some patients experience mild stiffness and tenderness for a few days following cryolipolysis."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Results will be seen in approximately 6 weeks."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Most patients require two to three treatments."
+            }
+          ],
+          "category": 4
+        },
+        {
+          "canonical": "neuromodulator",
+          "link": "neuromodulator-8",
+          "name": "Neuromodulator",
+          "shortDescription": "A neuromodulator is a substance that alters nerve impulse transmission. It is commonly used in cosmetics, in the form of Botox® and Dysport®, to temporarily treat moderate to severe lines and wrinkles.",
+          "what": "A neuromodulator is a substance that alters nerve impulse transmission. It is commonly used in cosmetics, in the form of Botox® and Dysport®, to temporarily treat moderate to severe lines and wrinkles. During the aging process, collagen breaks down causing lines and wrinkles to form. However, these lines can start appearing earlier as a result of muscle activity. To smooth out the skin, botulinum toxin is injected directly into selected muscles to block the transmission of nerve impulses causing temporary paralysis in the injection site. This reduces activity of selected facial muscles and subsequently improves wrinkles.<br/><br/>This non-surgical treatment must be performed by an approved healthcare professional.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/neuromodulator/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-3-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Quick treatment",
+            "Quick, yet lasting results",  
+            "Natural results - Untreated facial muscles work normally and naturally. This allows patients to freely show facial expressions, such as smiling", 
+            "Relax the muscle on the jawline and calf for slimming effects",
+            "Temporarily relaxes the muscle that cause fine lines and wrinkles in the following area: brows, forehead, eye region, mouth area, neck, jowls"
+          ],
+          "qa": [
+            {
+            "question": "Q: What happens after the treatment",
+            "answer": "No recovery time is needed, and within days you will see an improvement that may last up to 4 months. The most common side effects are headache and injection site pain though these do not happen to many patients."
+            },
+            {
+              "question": "Q: How soon will I see results",
+              "answer": "Some patients see results in as little as 24 hours. However, in most anti-aging cases, results are seen in 3-5 days and for facial or calf contouring, results are seen in 2-4 weeks."
+            },
+            {
+              "question": "Q: How do I maintain results",
+              "answer": "Most patients need to repeat the treatment after 12 weeks. It is not recommended to receive injections more often than every 90 days. Since each individual is different and has different expectations, it is up to the doctor to determine the frequency of treatments. Smoking and exposing skin to the sun’s UV rays should be avoided as these habits reduce the amount of new collagen produced and damage existing collagen."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "tripollar",
+          "link": "tripollar-8",
+          "name": "Tripollar®",
+          "shortDescription": "The TriPollar® RF is a toning device which tightens the skin and reduces cellulite. It is a painless treatment during which energy is delivered to the surface of the skin and to subcutaneous fat layers. <br/><br/>",
+          "what": "The TriPollar® RF is a toning device which tightens the skin and reduces cellulite. It is a painless treatment during which energy is delivered to the surface of the skin and to subcutaneous fat layers. This process accelerates fat metabolism and shrinks fat cells for a sculpted look that lasts. This not only reduces excess skin after fat-loss, but is also effective against stretch marks.<br/><br/><h3>What is the advantage of tripollar RF (radiofrequency) device over unipolar or bipolar devices?</h3>Unipolar devices delivers high power through the body, requiring a ground pad to complete the circuit.  It is a painful procedure. <br/><br/>Bipolar devices only allow the RF energy passes through the superficial part of the skin (1/2 distance between the electrodes) and does not give adequate tissue tightening because of limited depth penetration.<br/><br/>Tripollar RF by Pollagen delivers the energy through multiple electrodes which alternate in polarity.  It allows deeper penetration of the energy to the deeper fat and superficial fat layer with gentler power.  Yet the power density remains high enough to heat up the tissue.<br/><br/><h3>How does Tripollar RF work?</h3>As fat and skin has different resistance to RF energy,  Tripollar selectively heats the fat cells in the deep and superficial adipose layers simultaneously.  Heating the fat cells increases the metabolism and forces them to release/secrete fatty acids ( liquid fat) into the extracellular space and into the blood and lymph systems.<br/><br/><h3>What are the results of Tripollar treatment?</h3>One should see results in at least 4 areas:  Fat cell shrinkage, circumferential reduction, cellulite improvement, collagen renewal and skin tightening.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/tripollar/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/tripollar/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/tripollar/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/tripollar/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/tripollar/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/tripollar/Untitled-3-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/tripollar/Untitled-4-01.jpg",
+            "after": "assets/img/treatment/tripollar/Untitled-4-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Reduces fat bulges e.g. love handles and fat rolls", 
+            "Tightens skin", 
+            "Improves appearance of cellulite",
+            "Reduces stretch marks",
+            "Immediate results and optimal results with a series of treatments"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects of this treatment",
+              "answer": "Since no warmth is generated on the skin, there is no risk of burning and patients feel little to no discomfort. After the treatment, there may be some redness, but skin requires no cooling time."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "The majority of patients notice slight toning immediately after the first treatment. However, in order to achieve long-term results, several Tripollar® sessions are required. It is also important to practice a healthy lifestyle of clean eating and exercising to maintain optimal results."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Desired results can be attained usually with 5-8 treatments. The frequency of the treatments is described by the doctor."
+            }
+          ],
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "veins & rosacea",
+      "cLink": "veins-rosacea",
+      "imgUrl": "assets/img/veins_rosacea.png",
+      "description": "",
+      "treatments": 
+      [
+        {
+          "canonical": "dual-yellow-laser",
+          "link": "dual-yellow-laser-9",
+          "name": "Dual Yellow Laser",
+          "shortDescription": "The Dual Yellow Laser is a gentle yet highly effective laser used for skin rejuvenation. It can improve the appearance of many dermatological issues.",
+          "what": "The Dual Yellow Laser is a gentle yet highly effective laser used for skin rejuvenation. It can improve the appearance of many dermatological issues including large pores, acne, unwanted pigmentation (moles, age spots, brown/red spots, melasma), spider veins, and rosacea.<br/><br>This laser projects rapid, tiny pulses of two wavelengths instead of just one strong beams. The two wavelengths allows precise treatment of lesions, such as moles and age spots, with minimal risk of skin discolouration. The Dual Yellow Laser can also serve as a full-face photofacial for larger-scale problems like sun damage and acne.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["Acne", "Shallow scars", "Aging due to sun damage", "Melasma", "Pigmentation", "Dull complexion", "Unsatisfactory skin texture", "Large pores"],
+          "qa": [
+            {
+              "question": "Q: What is the recovery process like",
+              "answer": "There is no downtime other than temporary mild redness, lasting at the most two days."
+              },
+              {
+                "question": "Q: When will I see results",
+                "answer": "Patient will see gradual improvement after each session."
+              },
+              {
+                "question": "Q: How many treatments will I need",
+                "answer": "The number of sessions required depends on the severity of the condition. Usually, anywhere from 2-7 treatments are required for desired results."
+              }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "intense-pulse-light",
+          "link": "intense-pulse-light-9",
+          "name": "Intense Pulse Light (IPL)",
+          "shortDescription": "IPL is a popular photo rejuvenation treatment for pigmentation, acne, acne scars and flushing. This laser is highly effective for removing unwanted pigmentation and for evening out skin tone. It is also great for treating fine lines by stimulating collagen production.<br/>",
+          "what": "IPL is a popular photo rejuvenation treatment for pigmentation, acne, acne scars and flushing. This laser is highly effective for removing unwanted pigmentation and for evening out skin tone. It is also great for treating fine lines and tightening skin texture by stimulating collagen production. It gives your skin a more refreshed and glowing appearance.",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Pigmented lesion treatment", 
+            "Pore size reduction", 
+            "Acne scar removal",
+            "Acne control",
+            "Photo facials",
+            "Rosacea and flushing reduction",
+            "Vascular lesion treatment"
+          ],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of this treatment",
+            "answer": "There is often slight scabbing or crusting which falls off in about 5-10 days."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "After scabbing falls off."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Results are usually noticeable after 1 treatment. Further treatment can be scheduled for residual problem as needed."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "laser-genesis",
+          "link": "laser-genesis-9",
+          "name": "Laser Genesis",
+          "shortDescription": "Laser Genesis is a non-invasive laser technology that uses concentrated light and heat to stimulate collagen production at the upper dermis.",
+          "what": "Laser Genesis is a non-invasive laser technology that uses concentrated light and heat to stimulate collagen production at the upper dermis. The treatment uses the GentleYAG laser and is capable of skin tightening, hair removal, scar reduction, and vascular lesions, such as cherry angioma. It is also great for rosacea and flushing as it uses technology that treats fine facial vessels and dilated capillaries.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Comfortable and requires no anesthetic cream", 
+            "Appropriate for all skin types", 
+            "Little to no downtime",
+            "Quick treatment"
+          ],
+          "qa": [
+            {
+            "question": "Q: What are the side effects of the treatment",
+            "answer": "At most, there is mild redness and swelling that only lasts a few hours. There is usually no downtime and makeup can be applied immediately following the treatment.  As with any laser treatment, avoiding exposure to sunlight before and after treatment will aid in optimal results."
+            },
+            {
+              "question": "Q: How long is a treatment",
+              "answer": "Each treatment lasts about 20-30 minutes."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "The number of treatments depends on the skin’s needs. Treatment regimens usually consist one session every 2-3 weeks until desired results are attained."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "spider-varicose-veins",
+          "name": "Spider & Varicose Veins",
+          "shortDescription": "Spider veins, formally known as Telangiectasias, are dilated veins near the surface of the skin or mucous membranes.<br/><br/>",
+          "what": "What are Spider Veins?<br/><br/>Spider veins, formally known as Telangiectasia, are dilated veins near the surface of the skin or mucous membranes. The dilation makes them visible and they often appear on the legs, arms, and face. While some may consider them to be a cosmetic nuisance, spider veins are not painful nor are they a health risk.<br/><br/>What are Varicose Veins?<br/><br/>In varicose veins, the valves which prevent backflow of blood do not function properly, causing veins to bulge. Varicose veins are enlarged or twisted veins that are often found as projections on the legs. People who stand for prolonged periods of time or people who have leg injuries are more prone to varicose veins. Poor posture, obesity, pregnancy, menopause, and aging can also bring upon varicose veins. <br/><br/>How does sclerotherapy work?<br/><br/>Sclerotherapy is a medical procedure in which a sclerosant is injected into visible or raised veins. When injected, the agent will shrink and permanently obliterate the vein. We use Health-Canada-approved sclerosants called Sclerodex and Trombojects ® to treat veins. Sclerotherapy is more preferable than lasers for large veins as the latter can cause pain and pigmentation. However, lasers are useful for clearing up smaller veins left over from sclerotherapy treatment.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/spider-vein/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/spider-vein/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/spider-vein/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/spider-vein/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/spider-vein/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/spider-vein/Untitled-3-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/spider-vein/Untitled-4-01.jpg",
+              "after": "assets/img/treatment/spider-vein/Untitled-4-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Diminishes or erases various vein disorders including varicose veins, spider veins, and reticular veins", 
+            "Relieves aching, swelling, and cramps associated with varicose veins", 
+            "Less painful than laser treatment",
+            "Minimal chance of post-treatment hyperpigmentation"
+          ],
+          "qa": [
+            {
+              "question": "Q: What is recommended for best results",
+              "answer": "For 30 minutes following treatment: walking around. For 3 days following treatment: compression stockings must be worn. For 1-2 weeks following treatment: avoid high impact exercises, such as running and aerobics."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Patient will start seeing results after one month."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Patients typically need 3-5 sessions."
+            }
+          ],
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "others",
+      "cLink": "other-concerns",
+      "imgUrl": "assets/img/other_concerns.png",
+      "description": "",
+      "treatments": 
+      [
+        {
+          "link": "excessive-sweating",
+          "name": "Botox® for Excessive Sweating",
+          "shortDescription": "BOTOX® injection reduces sweat production, leading to drier, cleaner and more confident days. <br/><br/>",
+          "what": "While our bodies naturally produce sweat as a means of thermoregulation, it can be embarrassing and highly inconvenient to be walking around with huge underarm sweat stains.  Our solution to this is BOTOX® which is able to block signals from sweat gland stimulation nerves, BOTOX® injection reduces sweat production, leading to drier, cleaner and more confident days.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Decreases in underarm sweat production", 
+            "Helps control odour"
+          ],
+          "qa": [
+            {
+              "question": "Q: When will I see results",
+              "answer": "Gradual improvement begins immediately and noticeable difference starts at about five days."
+            },
+            {
+              "question": "Q: How long will the results last",
+              "answer": "Reduced arm sweating usually lasts seven to eight months, but in some patients, results last up to a year."
+            }
+          ],
+          "category": 4
+        },
+        {
+          "link": "excision",
+          "name": "Excision",
+          "shortDescription": "An excision is the full extraction of a superficial skin lesion. Common excisable skin lesions include nevi (moles, birthmarks and beauty marks) as well as subcutaneous lumps and bumps.",
+          "what": "An excision is the full extraction of a superficial skin lesion. Common excisable skin lesions include nevi (moles, birthmarks and beauty marks) as well as subcutaneous lumps and bumps. Excising is often a better option than simply paring off the lesion. In the case of getting rid of a mole, excision removes the whole mole as opposed to just the head. No pigmented cells are left behind and there is a low chance of the mole growing back. If it does, it does not happen for a long time. Often, sutures are used to help the skin heal.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/excision/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/excision/Untitled-1-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Removes full lesion", 
+            "Low chance of lesion growing back"
+          ],
+          "qa": [
+            {
+              "question": "Q: What happens after the treatment",
+              "answer": "Suture removal is required in 5-12 days after the treatment."
+            },
+            {
+              "question": "Q: What is the recovery process like",
+              "answer": "After the suture removal, the healing time can lasts up to a few months, depending on the size of the incision and the unique healing process of the individual’s skin. The scar from the incision is usually noticeable for a few months before it completely heals."
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "laser-hair-removal",
+          "name": "Laser Hair Removal",
+          "shortDescription": "We use the Cheveux Diode Laser for laser hair removal. It emits pulses at a higher power and repetition rate than most hair removal devices. This ensures a thorough treatment with less discomfort and more safety.",
+          "what": "We use the Cheveux Diode Laser for laser hair removal. It emits pulses at a higher power and repetition rate than most hair removal devices. This ensures a thorough treatment with less discomfort and more safety.<br/><br/>Cheveux Diode’s wavelength (810 nm) is ideal for permanent laser hair reduction and is safe for all skin tones. It's “Smooth Flow” technology allows the 810 nm wavelength to enter the hair follicles gradually and deeply where it is selectively absorbed by melanin. This process thermally destroys the hair follicle, leading to permanent hair reduction.<br/><br/>The HR mode on this laser is effective for treating the face and other small, delicate areas like the fingers and toes.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/laser-hair-removal/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/laser-hair-removal/Untitled-1-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Quick treatment because the laser is able to work in large area", 
+            "Smooth Flow technology provides repetition rates up to 10 repetitions/sec",
+            "Suitable for all skin tones"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects of this treatment",
+              "answer": "There may be some redness for a day. Patients can carry on with regular activities."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "After one treatment. Each treatment permanently removes 10-30% of hair."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Hair undergo various stages of growth and the laser can only target hair follicle during the active growth phase (10-30%). Therefore, 5-8 sessions with 4-6 weeks interval are usually needed to ensure a thorough job is done. After the first round of treatment, maintenance treatments are every 6 months."
+            }
+          ],
+          "category": 2
+        },
+        {
+          "link": "laser-mole-removal",
+          "name": "Laser Mole Removal",
+          "shortDescription": "One method for removing a mole is by using the Erbium Yag laser. Laser is aimed at the pigment of the moles. The pigmented tissue absorbs the laser and is destroyed while leaving the surrounded skin untouched.",
+          "what": "One method for removing a mole is by using the Erbium Yag laser. Laser is aimed at the pigment of the moles. The pigmented tissue absorbs the laser and is destroyed while leaving the surrounded skin untouched.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/laser-mole-removal/Laser Mole 1-01 (1).jpg",
+              "after": "assets/img/treatment/laser-mole-removal/Laser Mole 1-02 (1).jpg"
+            },
+            {
+              "before": "assets/img/treatment/laser-mole-removal/Laser Mole 2-01 (1).jpg",
+              "after": "assets/img/treatment/laser-mole-removal/Laser Mole 2-02 (1).jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Fast recovery time", 
+            "No open wound",
+            "Minimal chance of scarring"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects of this treatment",
+              "answer": "There is scabbing which falls off about 5-10 days."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "After the scabbing falls off."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Repeated treatments are sometimes required if mole grows back. "
+            }
+          ],
+          "category": 2
+        },
+        {
+          "link": "laser-tattoo-removal",
+          "name": "Laser Tattoo Removal",
+          "shortDescription": "Laser tattoo removal is a safe and effective way to selectively remove the pigment of tattoos with minimal disruption to surrounding skin.",
+          "what": "<p>Laser tattoo removal is a safe and effective way to selectively remove the pigment of tattoos with minimal disruption to surrounding skin. Different laser machines of different wavelengths are used to target tattoos of different colours.</p> <h3>Safety</h3> <p> Not all lasers are the same.  There are a few physical properties of a laser that make tattoo removal safer and effective.  The energy of the laser delivered, the proper parameters used,  the property of the light when interacting of the skin are crucial to achieve an optimal result for tattoo removal.  For example, too much energy will cause non-specific tissue damage and too little energy will lead to ineffective result.  A poor “beam profile’ causes an uneven energy distribution over the skin and can increase the chance of scarring.</p> <h3>Colored tattoos</h3> <p> You do need more than one laser with different light properties to remove different colours. For example, a green light laser will not be effective to remove a green colored tattoo.  You need a laser which emits a complementary colour, like red, to do that.  The new generation picosecond claims to overcome some of these limitation, but the result is not as good as it originally hope.</p> <h3>Pain</h3> <p> Pain is an issue in tattoo removal and is indeed a deterrent for people to come for treatment.  There are different ways to mitigate the pain.  If you do have a larger tattoo, the pain is significant.  It is better to remove it with better anesthesia which can be provided in a medical facility.</p>  <h3>Cost</h3>  The cost of treatment is always a factor.  People have the wrong impression the cost is prohibitive.  However, most people find the price is very reasonable after consultation at our clinic and they are surprised they pay even more in a non-medical facility.</p> <h3>Time</h3>  The process of tattoo removal is a very slow and arduous process.  Multiple treatments are needed.   It does take some time to remove a tattoo.</p> <h3>Laser choices</h3> <p>At Reviva, we do not have one, but 3 lasers, including a picosecond laser, dedicated for tattoo removal. We have performed thousands of tattoo removal and all procedures are performed by a physician who has more than 15 years of laser experience on different conditions.</p>",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/treatment/laser-tattoo-removal/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/laser-tattoo-removal/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/laser-tattoo-removal/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/laser-tattoo-removal/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/laser-tattoo-removal/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/laser-tattoo-removal/Untitled-3-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Removes tattoos without disrupting surrounding skin", 
+            "Works for removing multi-colour tattoos or black tattoos",
+            "Effective for all skin types",
+            "Minimal chance of scarring"
+          ],
+          "qa": [
+            {
+              "question": "Q: What are the side effects of the treatment",
+              "answer": "There will be temporary redness and possible scabbing in the treatment area."
+            },
+            {
+              "question": "Q: When will I see results",
+              "answer": "Conditions gradually improve for about a month after each session."
+            },
+            {
+              "question": "Q: How many treatments will I need",
+              "answer": "Skin colour, tattoo colour, and tattoo location factor into deciding the number of treatments. On average, our patients need around 8 - 10 sessions for satisfying results."
+            }
+          ],
+          "category": 2
+        },
+        {
+          "link": "chronic-migraine",
+          "name": "Chronic Migraine",
+          "shortDescription": "Chronic migraine is loosely defined by a headache that occurs at least 15 days a month for 4 or more hours a day. The symptoms must meet many criteria before a diagnosis can be confirmed.",
+          "what": "Chronic migraine is loosely defined by a headache that occurs at least 15 days a month for 4 or more hours a day. The symptoms must meet many criteria before a diagnosis can be confirmed. <br/><br/>HOW BOTOX® WORKS FOR CHRONIC MIGRAINES:<br/><br/>Botox®(onabotulinumtoxinA) is approved by the FDA and Health Canada as a treatment and prevention method for chronic migraines. It has been suggested that Botox® blocks certain century pathways responsible for triggering chronic migraine pain. The paralysis of this system brings relief. Botox® prevents headaches and migraines before they start.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Reduces the frequency and severity of chronic migraines"
+          ],
+          "qa": [
+            {
+              "question": "Q: When will I see results",
+              "answer": "Patient may start to experience fewer headaches 4 weeks after treatment. "
+            },
+            {
+              "question": "Q: How often do I need treatment",
+              "answer": "Patient continues with one treatment every 3 months or as recommended by your doctor."
+            }
+          ],
+          "category": 4
+        },
+        {
+          "link": "latisse-eyelash-treatment",
+          "name": "Latisse® Eyelash Treatment",
+          "shortDescription": "Latisse® bimatoprost ophthalmic solution (0.03%) is a prescription-only treatment for promoting eyelash growth. It has been clinically proven to make lashes longer, thicker, fuller, and darker.",
+          "what": "Latisse® bimatoprost ophthalmic solution (0.03%) is a prescription-only treatment for promoting eyelash growth. It has been clinically proven to make lashes longer, thicker, fuller, and darker.",
+          "before": "",
+          "slideimg": [
+            {
+              "before": "assets/img/treatment/latisse/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/latisse/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/latisse/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/latisse/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/latisse/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/latisse/Untitled-3-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": [
+            "Promotes growth of your natural lashes to become longer, fuller and darker", 
+            "More convenient than false lashes"
+          ],
+          "qa": [
+            {
+              "question": "Q: When will I see results",
+              "answer": "Results will be visible in as quickly as eight weeks, with full effects visible at 12 to 16 weeks. Once satisfied with the results, it may be used less frequently for maintenance. "
+            },
+            {
+              "question": "Q: What are the possible side effects",
+              "answer": "After application, patient may experience temporary eyelid redness, eye irritation and itching, red eyes and dry eyes symtms. In very rare cases, darkening of the eyelid skin may not be reversible."
+            },
+            {
+              "question": "Q: Is Latisse® suitable for everyone",
+              "answer": "Do not use Latisse® if you are pregnant or breastfeeding. Do not use Latisse® if you have a history of abnormal eye pressures or glaucoma. Do not use Latisse® if you are allergic or hypersensitive to it’s ingredient."
+            },
+            {
+              "question": "Q: How to use Latisse®",
+              "answer": "<p>1) Remove makeup and contact lenses, wash face.<br/>2) Apply once a day before bed, place one drop onto the sterile, single-use applicator. Dispose applicators after each use.<br/>3) Apply only to the base of the eyelid, blot excess solution beyond the eyelid margin to prevent darkening of eyelid skin and unwanted hair growth on face.<br/>4) Repeat on opposite eyelid with a new, sterile applicator.</p>"
+            }
+          ],
+          "category": 0
+        }
+      ]
+    }
+  ],
+  "single": {
+    "treat": "treatments",
+    "what": "What is",
+    "before": "Before",
+    "after": "After",
+    "ben": "Benefits",
+    "other": "Other Treatments",
+    "make": "Make an Appointment Today",
+    "contact": "Contact Us",
+    "both": "before & after",
+    "link": "learn more"
+  },
+  "menu": {
+    "list": "List of Treatments",
+    "h1": "Injectables",
+    "h2": "Laser",
+    "h3": "LIGHT & RF & ULTRASOUND",
+    "h4": "OTHERS"
+  },
+  "search": {
+    "s1": "Search",
+    "s2": "Treatments, Concerns etc"
+  }
+}

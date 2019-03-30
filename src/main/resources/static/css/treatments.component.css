@@ -1,0 +1,223 @@
+.white-box {
+    background-color: white;
+    padding: 10px 50px 130px 40px;
+}
+
+.white-box h1 {
+    text-indent: -45px;
+    font-size: 60px;
+}
+
+.slide .abs {
+    margin-top: 6vw;
+}
+
+.white-box p, .diff p {
+    font-size: 14px;
+    color: #555555;
+    line-height: 25px;
+    letter-spacing: 1px;
+    margin-top: 40px;
+}
+
+.white-box h5 {
+    text-indent: -45px;
+}
+
+.arrows {
+    margin-left: 165px;
+    margin-bottom: 120px;
+}
+
+@media(min-width:1400px) {
+    .arrows {
+        margin-bottom: 50px;
+    }
+}
+
+.concerns {
+    padding: 80px 0 60px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+.concerns h2.with-line hr {
+    width: calc(100% - 212px);
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 40px !important;
+    text-indent: 0 !important;
+}
+
+.list h3 {
+    text-transform: capitalize;
+    margin-bottom: 80px;
+    font-size: 28px;
+}
+
+.more {
+    padding: 65px 0 100px;
+}
+
+.more h2 {
+    line-height: 55px;
+    margin-bottom: 50px;
+}
+
+.more .big-link {
+    padding-bottom: 20px;
+}
+
+.counter {
+    right: auto;
+    left: 0;
+    margin-right: 0;
+    margin-left: -30px;
+}
+
+.slider {
+    min-height: 685px;
+}
+
+/** ipad **/
+@media screen and (min-width:992px) and (max-width:1199px) {
+
+    .slider {
+        min-height: 560px;
+    }
+    .slide h1 {
+        font-size: 50px;
+        text-indent: -45px;
+    }
+    .arrows {
+        margin-bottom: 30px;
+        margin-left: 114px;
+    }
+    .container {
+        padding-left: 60px;
+    }
+    .distance {
+        padding-top: 85px;
+    }
+    .white-box {
+        padding: 60px 20px 80px 35px;
+    }
+    .white-box p {
+        margin-top: 10px;
+    }
+    .facility {
+        margin-top: 0;
+    }
+    .paris {
+        margin-top: 70px;
+    }
+    /** the background boxes **/
+    .square {
+        height: 800px;
+    }
+}
+
+/** smaller ipads **/
+@media(max-width:991px) {
+
+    .slide h1 {
+        font-size: 50px;
+        text-indent: -45px;
+    }
+
+    .slide img {
+        float: none;
+        max-width: 100%;
+    }
+    .slide .abs {
+        position: relative;
+        margin: 0;
+    }
+    h5 {
+        font-size: 16px;
+    }
+    .white-box {
+        padding: 30px 15px;
+        padding-top: 80px;
+    }
+    .white-box h1 {
+        text-indent: -20px;
+    }
+    .arrows {
+        left: auto;
+        right: 0;
+        margin: 0;
+        margin-right: 35px;
+        bottom: auto;
+        top: 0;
+        margin-top: 237px;
+    }
+    .slider {
+        min-height: 940px;
+    }
+    .distance {
+        padding: 0;
+    }
+    .white-box h5 {
+        text-indent: -20px;
+    }
+    .white-box p {
+        margin-top: 20px;
+    }
+}
+
+@media(max-width:767px) {
+
+    .slide h1 {
+        font-size: 35px;
+    }
+
+    .white-box h5 {
+        font-size: 13px;
+    }
+    h1 {
+        font-size: 35px;
+    }
+    .white-box p {
+        font-size: 13px;
+    }
+    .slider {
+        min-height: 770px;
+    }
+    h2 {
+        font-size: 35px;
+    }
+    .concerns {
+        padding: 20px 0 60px;
+    }
+    .more h2 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .more {
+        padding: 35px 0 70px;
+    }
+    .list h3 {
+        font-size: 21px;
+        margin-top: 15px;
+        margin-bottom: 50px;
+    }
+}
+
+.circles {
+    text-align: center;
+    margin-top: 15px;
+}
+.circles div {
+    display: inline-block;
+}
+.circles svg {
+    fill: #e1e1e1;
+    margin: 0 5px;
+}
+.aktiv svg {
+    fill: #543f65;
+}

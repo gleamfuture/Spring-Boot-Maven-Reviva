@@ -1,0 +1,80 @@
+<html xmlns:th="http://www.thymeleaf.org">
+  
+<footer th:fragment="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-9">
+        <img src="assets/img/footer-flower.png" class="visible-xs" alt="">
+
+        <pre><h4 th:text="${footer.s1}"></h4></pre>
+        <div class="rel">
+          <input type="email" class="form-control" th:placeholder="${footer.enterEmail}">
+          <button class="sub-btn" (click)="message()"><img src="assets/img/footer-arrow.png" class="footer-arrow" alt=""></button>
+        </div>
+        <img src="assets/img/footer-flower.png" class="flower hidden-sm hidden-xs" alt="">
+        <p class="other-links hidden-sm hidden-xs">
+          <a href="" th:text="${footer.priv}"></a> | <a href="" th:text="${footer.term}"></a>
+        </p>
+      </div>
+      <div class="col-sm-3 visible-sm text-right">
+        <img src="assets/img/footer-flower.png" class="flower" alt="">
+      </div>
+      <div class="col-sm-6 hidden-sm hidden-xs text-right">
+        <div class="social">
+          <a href=""><img src="assets/img/fb.png" alt=""></a>
+          <a href=""><img src="assets/img/in.png" alt=""></a>
+          <a href=""><img src="assets/img/we.png" alt=""></a>
+        </div>
+        <div class="info">
+          <p class="title" th:text="${footer.q1}"></p>
+          <p th:text="${footer.q2}"></p>
+          <p th:text="${footer.q3}"></p>
+          <p th:text="${footer.email}"></p><br>
+          <p th:text="${footer.q4}"></p>
+          <p th:text="${footer.q5}"></p>
+          <p th:text="${footer.q6}"></p>
+        </div>
+      </div>
+    </div><br class="visible-sm visible-xs"><br class="visible-sm">
+    <div class="row visible-sm visible-xs">
+      <div class="col-sm-6 info">
+        <p class="title" th:text="${footer.q1}"></p>
+        <p th:text="${footer.q2}"></p>
+        <p th:text="${footer.q3}"></p>
+        <p th:text="${footer.email}"></p>
+      </div>
+      <div class="col-sm-6 info">
+        <p th:text="${footer.q4}"></p>
+        <p th:text="${footer.q5}"></p>
+        <p th:text="${footer.q6}"></p>
+      </div>
+    </div><br class="visible-sm">
+    <div class="row visible-sm visible-xs">
+      <div class="col-sm-6 hidden-xs">
+        <p class="other-links">
+          <a href="" th:text="${footer.priv}"></a> | <a href="" th:text="${footer.term}"></a>
+        </p>
+      </div><br class="visible-xs">
+      <div class="col-sm-6 text-right lef">
+        <div class="social">
+          <a href=""><img src="assets/img/fb.png" alt=""></a>
+          <a href=""><img src="assets/img/in.png" alt=""></a>
+          <a href=""><img src="assets/img/we.png" alt=""></a>
+        </div>
+      </div>
+      <div class="col-sm-6 visible-xs">
+        <p class="other-links">
+          <a href="" th:text="${footer.priv}"></a> | <a href="" th:text="${footer.term}"></a>
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <hr>
+        <p class="copy" th:text="${footer.copy}"></p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</html>

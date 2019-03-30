@@ -1,0 +1,189 @@
+.menu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 80px 70px;
+    background-color: #271734;
+    z-index: 99999;
+    width: 485px;
+    height: 100%;
+    overflow: scroll;
+}
+
+.child {
+    width: 485px;
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.menu h1 {
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+.menu-item {
+    position: relative;
+    padding: 0px 0px 0px 45px;
+    margin-top: 55px;
+}
+
+.menu-item h5 {
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+}
+
+.menu-item .flower {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: -5px;
+}
+
+.menu-item ul {
+    padding: 0;
+    list-style: none;
+}
+
+ul li {
+    margin-bottom: 20px;
+}
+
+ul li a {
+    color: #76707a;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.menu-body {
+    width: 20%;
+    position: fixed;
+    right: 0;
+    top: 0;
+    margin-right: -485px;
+    transition: margin ease 0s;
+    height: 100%;
+    z-index: 10;
+}
+
+.toggler {
+    background-color: #372546;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: rotate(90deg);
+    text-align: center;
+    margin-right: 360px;
+    width: 345px;
+    height: 95px;
+    margin-top: 383px;
+    padding: 22px 0;
+    cursor: pointer;
+    z-index: 999;
+}
+
+.toggler h5 {
+    font-family: 'Playfair Display', serif;
+    color: white;
+    font-size: 24px;
+}
+
+.activated {
+    margin-right: 0;
+    position: fixed;
+    z-index: 99999;
+    width: 100%;
+}
+
+.activated .white-over {
+    width: 150%;
+    height: 100vh;
+    position: absolute;
+    margin-left: -50%;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    background-color: white;
+    opacity: .8;
+}
+
+.gold {
+    transform: rotate(-90deg);
+    margin-right: 15px;
+}
+
+.activated .gold {
+    transform: rotate(90deg);
+}
+
+/** smaller ipad **/
+@media(max-width:991px) {
+    .toggler {
+        transform: none;
+        width: 100%;
+        left: 0;
+        right: auto;
+        margin: 0 0 0 0;
+        padding: 7px 0px 0px 0;
+        height: auto;
+    }
+    .menu-body {
+        left: 0;
+        right: auto;
+        width: 100%;
+        margin: 0;
+        margin-top: 70px;
+        position: absolute;
+        height: 0;
+    }
+    .menu {
+        width: 100%;
+        margin-top: 58px;
+        overflow: scroll;
+        padding: 0;
+        transition: all ease 1s;
+        height: 0;
+    }
+    .child {
+        width: calc(100% + 25px);
+        padding: 15px 40px;
+        padding-right: 65px;
+    }
+    .activated {
+        transition: all ease 1s;
+        position: absolute;
+    }
+    .activated .menu {
+        height: 20000px;
+        transition: all ease 1s;
+    }
+    .toggler h5 {
+        font-size: 18px;
+    }
+}
+
+/** mobile **/
+@media(max-width:767px) {
+    .menu-body {
+        margin-top: 69px;
+    }
+    .gold {
+        max-height: 28px;
+    }
+    .menu {
+        margin-top: 53px;
+    }
+    /* alters box height */
+    .child {
+        padding: 0px 30px;
+        padding-right: 30px;
+        padding-bottom: 40px;
+        height: 550px;/* alters height */
+        overflow: scroll;
+    }
+}

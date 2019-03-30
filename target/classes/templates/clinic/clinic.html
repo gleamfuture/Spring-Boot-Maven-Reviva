@@ -1,0 +1,276 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8">
+    <title th:text="${pageTitle} + ' | Reviva Laser Skin Clinic'"></title>
+    <meta name="author" content="Alan Ngai">
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+    <link th:href="@{'https://fonts.googleapis.com/css?family=Raleway:400,600,700'}" rel="stylesheet"/>
+    <link th:href="@{'https://fonts.googleapis.com/css?family=Playfair+Display'}" rel="stylesheet"/>
+    <link th:href="@{'https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i'}" rel="stylesheet"/>
+
+    <!--stylesheet-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" th:href="@{'css/styles.css'}"/>
+    <link rel="stylesheet" th:href="@{'css/our-clinic.component.css'}"/>
+    <link rel="stylesheet" th:href="@{'css/navbar.component.css'}"/>
+    <link rel="stylesheet" th:href="@{'css/footer.component.css'}"/>
+
+    <style>
+        .routes li.active a {
+            background-color: transparent;
+            border-bottom: 1px solid black;
+        }
+    </style>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async th:src="@{'https://www.googletagmanager.com/gtag/js?id=UA-1349687-1'}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-1349687-1');
+    </script>
+</head>
+<body>
+<!--<div th:replace="fragments/header :: header"/>-->
+<input type="hidden" id="language" th:value="${lang}">
+<div class="navbar navbar-default">
+    <div class="container wide-cont">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" onclick="navIn()" aria-expanded="false">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a th:href="@{'/' + ${lang}}"><img src="assets/img/reviva-logo.png" class="img-responsive"><span class="logo-text hidden-xs">Reviva <br>Laser <br class="hidden-sm">Skin <br>Clinic</span>
+            </a>
+        </div>
+        <ul class="nav nav-lang-drop navbar-nav navbar-right rig visible-sm visible-xs adjusted">
+            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" th:text="${langDisplay}"><span class="chev">&#9662;</span></a>
+                <ul class="dropdown-menu languages">
+                    <li><a th:href="@{'/' + ${lang}}">English</a></li>
+                    <li><a th:href="@{'/' + ${lang}}">中文</a></li>
+                </ul>
+            </li>
+            <!-- <li class="search" (click)="modalSearch()"><img src="assets/img/search.png" alt=""></li> -->
+        </ul>
+
+        <div class="navbar-collapse" id="myNavbar">
+            <ul class="nav nav-menu-pop navbar-nav navbar-left routes">
+                <li><a th:href="@{'/' + ${lang}}" th:text="${header.t1}" onclick="exitMenu()"></a></li>
+                <li class="active"><a th:href="@{'/' + ${lang} + '/our-clinic'}" th:text="${header.t2}" onclick="exitMenu()"></a></li>
+                <li><a th:href="@{'/' + ${lang} + '/treatments'}" th:text="${header.t3}" onclick="exitMenu()"></a></li>
+                <li><a href="https://blog.revivamd.com" th:text="${header.blog}" onclick="exitMenu()"></a></li>
+                <li><a th:href="@{'/' + ${lang} + '/contact'}" th:text="${header.t4}" onclick="exitMenu()"></a></li>
+            </ul>
+            <img src="assets/img/close.png" class="menu-exit" alt="" onclick="exitMenu()">
+
+            <ul class="nav nav-lang-drop navbar-nav navbar-right rig hidden-sm hidden-xs">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" th:text="${langDisplay}"><span class="chev">&#9662;</span></a>
+                    <ul class="dropdown-menu languages">
+                        <li><a th:href="@{'/en'}">English</a></li>
+                        <li><a th:href="@{'/ch'}">中文</a></li>
+                    </ul>
+                </li>
+                <!-- <li class="search" (click)="modalSearch()"><img src="assets/img/search.png" alt=""></li> -->
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="main-box">
+    <input type="hidden" id="counter" th:value="${counter}"/>
+    <input type="hidden" id="leng" th:value="${leng}"/>
+
+    <p class="ribbon">
+        <a onclick="scrollView('#facility')" th:text="${our} + ' ' + ${facility}"></a> <span>|</span> <a onclick="scrollView('#doctor')" th:text="${dr} + ' ' + ${henry}"></a>
+    </p>
+
+    <div class="hero">
+        <div class="slider" id="clinicSlider">
+            <div class="slide" th:each="slid: ${slides}">
+                <img th:src="@{${slid.img}}" class="hidden-sm hidden-xs" alt="">
+                <div class="abs">
+                    <div class="container wide-cont">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-5"></div>
+                            <div class="col-lg-6 col-md-7 col-sm-9">
+                                <div class="white-box">
+                                    <h5 th:text="${title}"></h5>
+                                    <pre><h1 th:text="${slid.title}"></h1></pre>
+                                    <p th:text="${slid.text}"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <img th:src="@{${slid.img}}" class="visible-sm visible-xs" alt="">
+                <div class="circles visible-xs">
+                    <div th:each="test, itrStat: ${slides}" th:class="${itrStat.first ? 'aktiv' : ''}">
+                        <svg height="14" width="14"><circle cx="7" cy="7" r="6" stroke="white" stroke-width="1" /></svg>
+                    </div>
+                </div>
+            </div>
+            <div class="arrows hidden-xs">
+                <div class="left-arrow" onclick="moveLeft()" style="margin-right: -2px">
+                    <img th:src="@{'assets/img/arrow-left.png'}" alt="">
+                </div>
+                <div class="right-arrow" onclick="moveRight()">
+                    <img th:src="@{'assets/img/arrow-right.png'}" alt="">
+                </div>
+                <div class="counter">
+                    <p><span id="cnt" th:text="${counter}"></span><br>/<br><span id="lng" th:text="${leng}"></span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="facility" id="facility">
+        <div class="container rel">
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="distance"></div>
+                    <div class="diff">
+                        <h2 class="with-line">
+                            <span th:text="${our}"></span>
+                            <hr><br>
+                            <span th:text="${facility}"></span>
+                        </h2>
+                        <br class="hidden-sm hidden-xs">
+                        <p class="content" th:utext="${text1}"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="square"></div>
+        </div>
+        <img th:src="@{'assets/img/our2.png'}" class="img-responsive specific" alt="">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4 visible-sm"></div>
+                <div class="col-md-6 col-sm-8 not">
+                    <img th:src="@{'assets/img/paris.png'}" class="img-responsive paris" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="doc" id="doctor">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2 class="with-line">
+                        <span th:text="${dr}"></span>
+                        <hr><br>
+                        <span th:text="${henry}"></span>
+                    </h2><br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <p th:text="${p1}"></p><br>
+                    <p th:text="${p2}"></p>
+                </div>
+                <div class="col-sm-6">
+                    <p class="semibold uppercase mvd" th:text="${listTitle}"></p>
+                    <ul>
+                        <li th:each="item: ${list}">
+                            <span th:text="${item}"></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="more">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-6">
+                    <h2 th:text="${find}">
+                    </h2>
+                    <a th:href="@{'/' + ${lang} + '/treatments'}" class="big-link" th:text="${link}"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div th:replace="fragments/footer :: footer"/>
+</body>
+
+<script th:src="@{'https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js'}"></script>
+<script th:src="@{'https://cdnjs.cloudflare.com/ajax/libs/core-js/2.4.1/shim.min.js'}"></script>
+<script th:src="@{'https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js'}"></script>
+
+<script>
+    counter = $('#counter').val();
+    leng = $('#leng').val();
+    setInterval(function() {
+        if (counter < leng) {
+            counter++;
+            $('.slide').fadeOut(1000);
+            $('.circles>div').removeClass('aktiv');
+            $('.slide:nth-child(' + this.counter + ')').fadeIn(1000);
+            $('.circles>div:nth-child('+this.counter+')').addClass('aktiv');
+        } else if (counter == leng) {
+            counter = 1;
+            $('.slide').fadeOut(1000);
+            $('.circles>div').removeClass('aktiv');
+            $('.slide:nth-child(' + 1 + ')').fadeIn(1000);
+            $('.circles>div:nth-child('+1+')').addClass('aktiv');
+        }
+        $('#cnt').text(counter);
+    }, 10000);
+
+    if ($('#language').val() == 'ch') {
+        $('.routes li a, .rig li a').css("font-size","15px");
+        $('.ribbon a').css("font-size","15px");
+    };
+
+    $('html, body').scrollTop(0);
+
+    scrollView = function (place) {
+        $('html, body').animate({
+            scrollTop: $(place).offset().top
+        }, 1000);
+    }
+
+    moveLeft = function () {
+        if (counter == 1) {
+            counter = leng;
+            $('.slide').fadeOut(1000);
+            $('.slide:nth-child(' + counter + ')').fadeIn(1000);
+
+        } else {
+            counter--;
+            $('.slide').fadeOut(1000);
+            $('.slide:nth-child(' + counter + ')').fadeIn(1000);
+        }
+        $('#cnt').text(counter);
+    };
+
+    moveRight = function () {
+        if (counter < leng) {
+            counter++;
+            $('.slide').fadeOut(1000);
+            $('.slide:nth-child(' + counter + ')').fadeIn(1000);
+        } else {
+            counter = 1;
+            $('.slide').fadeOut(1000);
+            $('.slide:nth-child(' + 1 + ')').fadeIn(1000);
+        }
+        $('#cnt').text(counter);
+    };
+
+</script>
+
+</html>

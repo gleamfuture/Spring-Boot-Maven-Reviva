@@ -1,0 +1,52 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<div th:fragment="header" class="navbar navbar-default">
+    <div class="container wide-cont">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" onclick="navIn()" aria-expanded="false">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a th:href="@{'/' + ${lang}}"><img src="assets/img/reviva-logo.png" class="img-responsive"><span class="logo-text hidden-xs">Reviva <br>Laser <br class="hidden-sm">Skin <br>Clinic</span>
+            </a>
+        </div>
+        <ul class="nav nav-lang-drop navbar-nav navbar-right rig visible-sm visible-xs adjusted">
+          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#" th:text="${langDisplay}"><span class="chev">&#9662;</span></a>
+            <ul class="dropdown-menu languages">
+              <li (click)="hereChange('en')">English</li>
+              <!-- <li (click)="hereChange('ch')">简体中文</li> -->
+              <li (click)="hereChange('ch')">中文</li>
+            </ul>
+          </li>
+            <div th:each="map : ${list}">
+                <span th:text="${map.t1}"></span>
+                <span th:text="${map.t2}"></span>
+            </div>
+          <!-- <li class="search" (click)="modalSearch()"><img src="assets/img/search.png" alt=""></li> -->
+        </ul>
+
+        <div class="navbar-collapse" id="myNavbar">
+            <ul class="nav nav-menu-pop navbar-nav navbar-left routes">
+                <li><a th:href="@{'/' + ${lang}}" th:text="${header.t1}"></a></li>
+                <li><a th:href="@{'/' + ${lang} + '/our-clinic'}" th:text="${header.t2}"></a></li>
+                <li><a th:href="@{'/' + ${lang} + '/treatments'}" th:text="${header.t3}"></a></li>
+                <li><a href="https://blog.revivamd.com" th:text="${header.blog}"></a></li>
+                <li><a th:href="@{'/' + ${lang} + '/contact'}" th:text="${header.t4}"></a></li>
+            </ul>
+            <img src="assets/img/close.png" class="menu-exit" alt="">
+
+            <ul class="nav nav-lang-drop navbar-nav navbar-right rig hidden-sm hidden-xs">
+                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" th:text="${langDisplay}"><span class="chev">&#9662;</span></a>
+                  <ul class="dropdown-menu languages">
+                    <li (click)="hereChange('en')">English</li>
+                    <!-- <li (click)="hereChange('ch')">简体中文</li> -->
+                    <li (click)="hereChange('ch')">中文</li>
+                  </ul>
+                </li>
+                <!-- <li class="search" (click)="modalSearch()"><img src="assets/img/search.png" alt=""></li> -->
+            </ul>
+        </div>
+    </div>
+</div>
+
+</html>

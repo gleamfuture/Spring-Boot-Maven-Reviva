@@ -1,0 +1,16 @@
+reviva\TreatmentsController.class
+reviva\data\entity\Concern.class
+reviva\data\entity\Treatment.class
+reviva\data\entity\QA.class
+reviva\ClinicController.class
+reviva\data\entity\Slideimg.class
+reviva\HomeController.class
+reviva\data\entity\Content.class
+reviva\data\DataService.class
+reviva\data\entity\Footer.class
+reviva\Application.class
+reviva\ContactController.class
+reviva\data\entity\Header.class
+reviva\ConcernController.class
+reviva\CustomErrorController.class
+reviva\data\entity\Slide.class

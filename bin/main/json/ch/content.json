@@ -1,0 +1,2398 @@
+{
+  "home": {
+    "slides": [
+      {"text": "最新醫美科學\n創造全新的您", "img": "assets/img/slider-img.png"},
+      {"text": "本月活動 \n新皮秒", "img": "assets/img/PICO-WEB1.png"},
+      {"text": "新皮秒 \n去紋身", "img": "assets/img/Tattoo-Removal.png"},
+      {"text": "電波微針", "img":"assets/img/scarlet-WEB.jpg"}
+    ],
+    "title1": "關於我們",
+    "text1": "在Reviva，我們的使命是通過使用最安全和最新的皮膚護理治療技術為我們的客戶提供最高水平的專業護理。 我們努力滿足您的需求，同時提供高效和明顯的結果。",
+    "linktext": "了解我們",
+    "for": "針對",
+    "rest1": "細紋&皺紋",
+    "link2": "了解更多",
+    "rest2": "色素斑",
+    "rest3": "緊緻提升",
+    "title2": "其他項目",
+    "big": "更多療程"
+  },
+  "clinic": {
+    "our": "診所簡介",
+    "facility": "",
+    "dr": "倪醫生簡介",
+    "henry": "",
+    "title": "診所簡介",
+    "slides": [
+      {"title": "自2001年以來一直\n為大溫哥華服務\n", "img": "assets/img/slide-3.png", "text": "在Reviva，我們的使命是通過使用最安全和最新的皮膚護理治療技術為我們的客戶提供最高水平的專業護理。 我們努力滿足您的需求，同時提供高效和明顯的結果。"},
+      {"title": "自2001年以來一直\n為大溫哥華服務\n", "img": "assets/img/slide-1.png", "text": "在Reviva，我們的使命是通過使用最安全和最新的皮膚護理治療技術為我們的客戶提供最高水平的專業護理。 我們努力滿足您的需求，同時提供高效和明顯的結果。"},
+      {"title": "自2001年以來一直\n為大溫哥華服務\n", "img": "assets/img/slide-2.png", "text": "在Reviva，我們的使命是通過使用最安全和最新的皮膚護理治療技術為我們的客戶提供最高水平的專業護理。 我們努力滿足您的需求，同時提供高效和明顯的結果。"},
+      {"title": "自2001年以來一直\n為大溫哥華服務\n", "img": "assets/img/slide-4.jpg", "text": "在Reviva，我們的使命是通過使用最安全和最新的皮膚護理治療技術為我們的客戶提供最高水平的專業護理。 我們努力滿足您的需求，同時提供高效和明顯的結果。"},
+      {"title": "自2001年以來一直\n為大溫哥華服務\n", "img": "assets/img/slide-5.png", "text": "在Reviva，我們的使命是通過使用最安全和最新的皮膚護理治療技術為我們的客戶提供最高水平的專業護理。 我們努力滿足您的需求，同時提供高效和明顯的結果。"},
+      {"title": "自2001年以來一直\n為大溫哥華服務\n", "img": "assets/img/slide-6.png", "text": "在Reviva，我們的使命是通過使用最安全和最新的皮膚護理治療技術為我們的客戶提供最高水平的專業護理。 我們努力滿足您的需求，同時提供高效和明顯的結果。"},
+      {"title": "自2001年以來一直\n為大溫哥華服務\n", "img": "assets/img/slide-8.png", "text": "在Reviva，我們的使命是通過使用最安全和最新的皮膚護理治療技術為我們的客戶提供最高水平的專業護理。 我們努力滿足您的需求，同時提供高效和明顯的結果。"},
+      {"title": "自2001年以來一直\n為大溫哥華服務\n", "img": "assets/img/slide-9.png", "text": "在Reviva，我們的使命是通過使用最安全和最新的皮膚護理治療技術為我們的客戶提供最高水平的專業護理。 我們努力滿足您的需求，同時提供高效和明顯的結果。"}
+    ],
+    "text1": "Reviva Laser Skin Clinic自2001年以來一直為大溫哥華服務。我們有2000平方英尺的診所位於卑詩省烈治文市中心。 擁有超過20台先進儀器，以及倪捷平医生的豐富經驗和知識，我們的診所為不同的皮膚問題類型提供個性化和有效的治療。 我們提供各種美容療程，包括祛除色素斑，玻尿酸填充，肉毒桿菌毒注射和痤瘡治療等。<br><br>在Reviva，我們只提供適合您皮膚類型，生活方式和美容需求的療程。 在這裡，您可以享受最佳的客戶服務和專業的臨床技術治療。",
+    "p1": "倪捷平醫生於1991年開始執業，是卑詩省大溫哥華市列治文醫院的醫務人員。 他在2001年成立了Reviva醫美診所，在醫學美容實踐中開創了使用脈衝光（IPL。",
+    "p2": "他被Allergan和Galderma合格認証執行面部注射。他專注於美容項目使用激光，玻尿酸填充和肉毒桿菌毒注射。憑藉他在皮膚科的多年豐富經驗，他能專業地精確識別和祛除各種色素斑。 此外，他還不斷探索在醫學美容中的新技術，並將其帶入Reviva。",
+    "listTitle": "專業資格 & 會員資格",
+    "list": ["加拿大英屬哥倫比亞大學醫學博士", "新加坡國立大學皮膚專科文憑", "加拿大家庭醫生學院文憑 ", "美國醫學雷射及外科協會會員", "美國醫學靜脈學會會員", "加拿大醫學協會會員", "卑詩省內科及外科學會會員"],
+    "find": "了解更多我們的療程",
+    "link": "了解更多療程"
+  },
+  "treat": {
+    "slides": [
+      {"title": "療程簡介", "top": "水光針", "text": "水光針是最新的凍齡技術，利用負壓針在皮膚真皮層注入以小分子非交聯的玻尿酸為基底的溶液。它通過用機器為皮膚注射透明質酸以達到皮膚維持水分飽滿的狀態。我們使用的是醫學美容級別的透明質酸，它的作用在於能夠解決真皮層缺少水分的問題，改善細小皺紋。水光針治療可維持數個月到一年。", "img": "assets/img/treatment1.png"},
+      {"title": "療程簡介", "top": "痤瘡疤痕療程", "text": "痤瘡疤痕療程包括 切割手術，皮下分離術，電波微針，分段式飛梳鐳射 (燒蝕性和非燒蝕性) 和高濃度血小板血漿療法。 這些療程會通過不同的組合來治療不同類型的疤痕。", "img": "assets/img/treatment1.png"},
+      {"title": "療程簡介", "top": "新皮秒雷射", "text": "治療次數縮減一半, 大幅降低反黑機會, 術後快速復原, 與淨膚雷射一樣價格!", "img": "assets/img/PICO-WEB1.png"}
+    ],
+    "conc": "項目",
+    "ques": "想了解更多",
+    "contact": "",
+    "link": "聯繫我們"
+  },
+  "contact": {
+    "title": "聯繫我們",
+    "book": "若想了解更多，請致電",
+    "phone": "604-233-0878",
+    "orEmail": "或電郵",
+    "book2": "或填寫以下表格電郵我們",
+    "form": "電郵我們",
+    "book3": "below. ",
+    "inquiry": "電郵我們",
+    "respond": "我們將在48小時內回复。",
+    "pla1": "名字",
+    "pla2": "姓",
+    "pla3": "電郵地址",
+    "pla4": "電話號碼",
+    "enter": "請在此輸入您的問題",
+    "submit": "submit",
+    "name": "Reviva Laser Skin Clinic",
+    "h1": "聯繫信息",
+    "h2": "150B - 8220 Lansdowne Road, Richmond, BC",
+    "h3": "獲取路線",
+    "h4": "604-233-0878",
+    "h5": "staff@revivamd.com",
+    "h6": "營業時間",
+    "h7": "星期一和三",
+    "h8": "星期二, 四和五",
+    "h9": "星期六和日:",
+    "t1": "9am – 5pm",
+    "t2": "9am – 6pm",
+    "t3": "休息"
+  },
+  "conc": {
+    "treat": "治療",
+    "link": "了解更多",
+    "quest": "想了解更多",
+    "contact": "",
+    "find": "查詢療程列表"
+  },
+  "concerns": [{
+      "name": "注射",
+      "cLink": "injectables",
+      "imgUrl": "assets/img/iStock-153058558.jpeg",
+      "description": "",
+      "treatments": [
+        {
+          "canonical": "aqua-lifting",
+          "link": "aqua-lifting",
+          "name": "水光針",
+          "shortDescription": "水光針是最新的凍齡技術，利用負壓針在皮膚真皮層注入以小分子非交聯的玻尿酸為基底的溶液。它通過用機器為皮膚注射透明質酸以達到皮膚維持水分飽滿的狀態。 </br/>",
+          "what": "水光針是最新的凍齡技術，利用負壓針在皮膚真皮層注入以小分子非交聯的玻尿酸為基底的溶液。它通過用機器為皮膚注射透明質酸以達到皮膚維持水分飽滿的狀態。我們使用的是醫學美容級別的透明質酸，它的作用在於能夠解決真皮層缺少水分的問題，改善細小皺紋。<br><br>水光針治療可維持數個月到一年。活性成分 : 透明質酸人體組織保持水分最重要的物質就是 「 透明質酸 」，這種黏多醣物質與蛋白質的水合作用讓人體結締組織保持大量水分。皮膚老化過程中人體會減少玻尿酸，使皮膚彈力下降而產生細紋。因此注入玻尿酸可以提升水分保持能力，使皮膚滋潤透亮麗去除皺紋。.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["美白提亮肌膚", "減淡細紋", "縮小毛孔", "重組肌膚彈性", "刺激骨膠原增生"],
+          "qa": [{
+            "question": "Q: 術後情況",
+            "answer": "大部分的客人會出現輕微泛紅，瘀清，和腫的情況。 一般2-5天會恢復。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "客人會在傷口康復之後見到術後效果。"
+            },
+            {
+              "question": "Q: 需要多少個療程以達到理想效果",
+              "answer": "客人會在第一個療程以後見到效果，效果大概可以維持 4-5 個月左右。一般客人會做三次以上的療程以達到更好更持久的效果。"
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "belkyra",
+          "link": "belkyra-1",
+          "name": "Belkyra™ 雙下巴溶脂針",
+          "shortDescription": "Belkyra™ 是用於消除多餘頦下脂肪（雙下巴）的療程。 這是加拿大第一個也是唯一一個認可的非手術療程去改善雙下巴。 它通過在下巴位置注射去氧膽酸以達到改善雙下巴的形態。",
+          "what": "Belkyra ™ 是用於消除多餘頦下脂肪（雙下巴）的療程。 這是加拿大第一個也是唯一一個認可的非手術療程去改善雙下巴。 它通過在下巴位置注射去氧膽酸以達到改善雙下巴的形態。 去氧膽酸是一種能夠分解以及吸收脂肪的物質，以達到減少脂肪的效果。",
+          "before": "在我們身體中，去氧膽酸是兩種膽汁酸之一。 它的作用是乳化脂肪使指肪在腸子容易溶解。 當去氧膽酸通過皮膚注射時，它會產生同樣作用來去除不需要的指肪。 ",
+          "slideimg": [
+            {
+              "before": "assets/img/treatment/belkyra/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/belkyra/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/belkyra/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/belkyra/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/belkyra/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/belkyra/Untitled-3-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["注射過程簡單快速 (15-20 分鐘)", "無需手術", "效果永久，一旦客人滿意效果，不需重複再做", "下巴的脂肪會明顯減少，改善下巴的輪廓"],
+          "qa": [{
+            "question": "Q: 術後情況",
+            "answer": "注射療程後有可能會出現疼痛和瘀青的情況。 術後一個禮拜客人應該進食較軟的食物。 療程過後一切活動能如常進行。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "客人在每一個療程之後會見到外觀會逐漸改善，通常在 2-4 個療程之後改善會比較明顯。 最多不可超過6個,療程。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "dermal-filler",
+          "link": "dermal-filler",
+          "name": "玻尿酸填充",
+          "shortDescription": "玻尿酸填充是一種通過對皮膚深層注射波尿酸以達到臉型飽滿，改善輪廓的療程。 在Reviva，我們只使用天然的透明質酸填充，包括喬雅登，瑞藍，艾瑪芙和玻麗朗。",
+          "what": "玻尿酸填充是一種通過對皮膚深層注射波尿酸以達到臉型飽滿，改善輪廓的療程。 在Reviva，我們只使用天然的透明質酸填充，包括喬雅登，瑞藍，艾瑪芙和玻麗朗。 由於玻尿酸是人體本身存在的物質，填滿效果非常自然。 填充是來自非動物的玻尿酸，所以這意味著存在非常小風險的過敏反應和零機率的疾病轉移情怳。<br><br>透明質酸是填充中的活性成分。 透明質酸 (HA) 也稱為玻尿酸，足夠玻尿酸的皮膚會更年輕。 玻尿酸能結合和儲存水分子，是令皮膚保濕，光滑和有彈性的主要成分之一。 隨著年齡增長，我們的身體逐漸減少HA的生產，導致了無可避免的老化現象，例如皮膚乾燥，變薄和出現皺紋。 注射玻尿酸時便能逆轉這些現象。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/dermal-filler/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-3-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-5-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-5-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-6-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-6-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-7-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-7-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-8-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-8-02.jpg"
+          }
+          ],
+          "benefitText": "玻尿酸填充能夠提供自然而持久的效果，可以改善以下部位的臉部輪廓",
+          "benefits": ["額頭", "太陽穴", "眉骨", "鼻子", "眼下", "臉頰", "笑紋", "嘴唇", "下巴", "輪廓線", "下頜"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後會出現泛紅，輕微腫脹，瘀青和疼痛的現象，通常以上現象會在 72 小時內消失。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "注射後客人會立刻見到效果。"
+            },
+            {
+              "question": "Q: 效果可以維持多久",
+              "answer": "波尿酸填充大概可以維持 6 - 9 個月，甚至更久。 填充能維持的時間取決于不同的皮膚類型，注射的位置和注射分量。"
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "mesotox",
+          "link": "mesotox",
+          "name": "Mesotox",
+          "shortDescription": "Mesotox 是通過稀釋的肉毒桿菌注射改善皮膚外觀告使其更健康。 能減少油量產生，改善痤瘡狀況。 Mesotox 還可減少細紋，收細毛孔，達到自然美麗的效果。 ",
+          "what": "Mesotox 是通過稀釋的肉毒桿菌注射改善皮膚外觀告使其更健康。 能減少油量產生，改善痤瘡狀況。 Mesotox 還可減少細紋，收細毛孔，達到自然美麗的效果。 ",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["收細毛孔", "減少臉部出油問題", "改善痤瘡狀況", "減少細紋", "改善皮膚質量，使皮膚看起來更精緻"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後幾小時皮膚會有輕微發紅。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "大約兩週內會看到效果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "平均來說，客人需要 3 次療程才能獲得最佳結果。 一般可能需要進一步的治療以便保持效果。"
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "neuromodulator",
+          "link": "neuromodulator",
+          "name": "肉毒桿菌",
+          "shortDescription": "肉毒桿菌可以直接注射到肌肉中，阻斷對肌肉的神經衝動，暫時減少由肌肉運動造成的細紋和皺紋。<br><br>",
+          "what": "肉毒桿菌是改變神經脈衝傳播的物質。 在醫學美容中會以保妥適®和麗舒妥的形式常用到，用於暫時去除中度至嚴重的細紋和皺紋。 隨著年齡增長膠原蛋白會分解，導致細紋和皺紋的形成。 紋和皺紋也有可能是由於肌肉活動而出現。 <br><br>肉毒桿菌可以直接注射到肌肉中，阻斷對肌肉的神經衝動，減少由肌肉運動造成的細紋和皺紋。 肉毒桿菌注射療必須由獲得批准注射的執照醫生或醫療專業人員執行。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/neuromodulator/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-3-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["療程時間快和持久，快見的效果", "自然的效果 - 未經治療的面部肌肉會活動正常和自然。 客人可自由顯現面部表情，如微笑", "肉毒桿菌可以幫助暫時放鬆咬肌和小腿肌肉，以塑造瘦身效果", "暫時性 預防在以下地方造成細紋和皺紋, 眉毛, 前額, 眼周圍, 嘴周圍, 頸部, 下頜"],
+          "qa": [
+            {
+              "question": "Q: 術後情況",
+              "answer": "不需要恢復時間，您將在幾天內看到效果，效果可以持續長達 4 個月。 麗舒妥 注射後，最常見的副作用是頭痛和注射部位疼痛，但並不常見。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "除皺效果會在3 - 5天后看到。 瘦面或瘦小腿效果將在2 - 4週內看到。"
+            },
+            {
+              "question": "Q: 如何保持效果",
+              "answer": "大多數客人需要在 12 週後重複療程。 不建議在90天內重複進行Dysport注射。 視乎個人需要和情況，療程的頻率由醫生決定。 客人應避免吸煙和暴露皮膚在太陽的紫外線中，預防減少新膠原蛋白的產生和破壞現有的膠原蛋白。"
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "platelet-rich-plasma-therapy",
+          "link": "platelet-rich-plasma-therapy",
+          "name": "高濃度血小板血漿療法",
+          "shortDescription": "高濃度血小板血漿療法 (PRP) 的做法是從客人自已的血液中的富血小板血漿來進行癒合和再生。 PRP 能為皮膚帶來活力和變得更光滑。 PRP 含有許多稱為生長因數的蛋白質，可以促使您的角質形成細胞和成纖維細胞重生組織，改善您的皮膚的健康和質地。",
+          "what": "高濃度血小板血漿療法 (PRP) 的做法是從客人自已的血液中的富血小板血漿來進行癒合和再生。 在Reviva，PRP 能為皮膚帶來活力和變得更光滑。 PRP 含有許多稱為生長因數的蛋白質，可以促使您的角質形成細胞和成纖維細胞重生組織，並創造新血管來提供氧氣和營養，改善您的皮膚的健康和質地。 <br/><br/>高濃度血小板血漿療法將會從您的手臂抽取少量血液。 放置於離心機中，用離心力從紅血球和白血球中分離血小板，然後產抽離含有人體生長因數的富血小板血漿。 該血漿含有平時6倍濃度的血小板。 高濃度血小板血漿療法能局部應用於您的皮膚，被醫生注射到痤瘡疤痕或其他需要的地方或與分段式飛梳鐳射光束一起導入皮膚軟組織。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/platelet-rich/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/platelet-rich/Untitled-1-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["膠原刺激", "滋潤皮膚", "減少細紋和皺紋", "縮細毛孔", "改善痤瘡疤痕", "刺激毛髮生長"],
+          "qa": [
+            {
+            "question": "Q: 治療後可以期待什麼",
+            "answer": "因為有 PRP 過程中皮膚是用自身生長因數，客人會發現皮膚會變得更光亮和更柔軟。 並在數月內您的皮膚會看起來會更光滑，更飽滿和更加滋潤的皮膚。"
+            },
+            {
+              "question": "Q: 術後情況",
+              "answer": "術後可能有輕微腫脹和瘀青。 客人也有可能沒有任何副作用。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "高濃度血小板血漿療法會令您自然增加膠原蛋白的產生。 完整效果將會在大約6 - 8週內看到。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "大多數客人需要 2 - 3 療程，間隔 1 個月。"
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "sculptra",
+          "link": "sculptra",
+          "name": "舒顏萃",
+          "shortDescription": "舒顏萃又名童顏針，是一種進階的皮膚填充物，能讓你的臉重新塑造回到年輕時的豐滿。 不像其他普通的玻尿酸填充，舒顏萃促使您皮膚增加膠原蛋白的生產，來取替隨著年齡漸大流失的膠原蛋白。",
+          "what": "舒顏萃又名童顏針，是一種進階的皮膚填充物，能讓你的臉重新塑造回到年輕時的豐滿。 不像其他普通的玻尿酸填充，舒顏萃促使您皮膚增加膠原蛋白的生產，來取替隨著年齡漸大流失的膠原蛋白。 舒顏萃能在以下部位填平凹陷，缺少豐滿的地方，改善皺紋和臉部線條: 法令紋,木偶線,太陽穴,臉頰,疤痕,輪廓線,下巴",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/sculptra/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/sculptra/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/sculptra/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/sculptra/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["舒顏萃是一種全天然聚左旋乳酸", "刺激膠原蛋白生成", "是生物相容的（不傷害身體），最終會被身體安全地被完全代謝", "自然外觀", "療程後有長達 2 年的持久效果"],
+          "qa": [
+            {
+            "question": "Q: 注射安全嗎",
+            "answer": "非常安全。 由於舒顏萃中沒有人體或動物成分，因此不需要做過敏測試。 它是美國食品藥物管理局批准的成份，自1999年以來一直在全球使用。 舒顏萃由聚左旋乳酸製成，在很多年前已被用於溶解縫合線跡。"
+            },
+            {
+              "question": "Q: 術後情況",
+              "answer": "注射部位會有暫時性的疼痛，發紅，瘀青，壓痛，腫脹感，瘙癢，出血和澄現塊狀。 有些客人喜歡這些暫時性的腫脹，因為能立即令臉部變得更豐滿。"
+            },
+            {
+              "question": "Q: 治療後可以期待什麼",
+              "answer": "幾天后腫脹感將會消失。 當皮膚開始生成膠原蛋白的時候，您會開始看到自然豐滿和再次緊緻的效果。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "注射舒顏萃後會逐漸地改善皮膚的外觀。 因此，皺紋和凹陷會慢慢的減少，幾個月月後出現最佳結果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "大多數客人需要 2 - 4 次療程，療程間隔通常為 4 - 6 週。"
+            },
+            {
+              "question": "Q: 效果能持續多久",
+              "answer": "舒顏萃的效果能持續長達兩年。"
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "skinboosters",
+          "link": "skinboosters",
+          "name": "瑞藍 Skinboosters™",
+          "shortDescription": "Restylane®Skinboosters™ 能輕鬆有效地從內向外滋潤皮膚和令皮膚保持水潤亮麗。 產地來自瑞典，使用非動物和高品質的原材料製造，是世界上最安全的醫學美容之一。 瑞藍SKINBOOSTERS™採用NASHA™技術，能穩定透明質酸的持久性和與皮膚組織的生物相容性。",
+          "what": "Restylane®Skinboosters™ 能輕鬆有效地從內向外滋潤皮膚和令皮膚保持水潤亮麗。 產地來自瑞典，使用非動物和高品質的原材料製造，是世界上最安全的醫學美容之一。 瑞藍SKINBOOSTERS™採用NASHA™技術，能穩定透明質酸的持久性和與皮膚組織的生物相容性。 術後皮膚會變得有光澤，水潤，光滑和有彈性，並能維持長久的效果。 瑞藍Skinbooster™也可用於水光針™治療，有極度保濕的效果。 透明質酸 (HA) 是瑞藍 Skinbooster™ 中的活性成分。 透明質酸也稱為玻尿酸，足夠玻尿酸的皮膚會更年輕。 玻尿酸能結合和儲存水分子，是令皮膚保濕，光滑和有彈性的主要成分之一。 隨著年齡增長，我們的身體逐漸減少HA的生產，導致了無可避免的老化現象，例如皮膚乾燥，變薄和出現皺紋。 注射Skinbooster™時便能逆轉這些現象。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/Skin-booster/Skinbooster 2 -01 (1).jpg",
+            "after": "assets/img/treatment/Skin-booster/Skinbooster 2 -02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["令皮膚變得有光澤和水潤亮麗", "能用於水光針 ™ 或玻尿酸填充", "直接注射能增加皮膚保濕度和彈性", "改善眼袋 , 臥蠶的外形", "治療頸部，手術，手部以及痤瘡疤痕的地方", "效果持久"],
+          "qa": [
+            {
+            "question": "Q: 治療期間會發生什麼",
+            "answer": "每次療程會用微針注射玻尿酸保濕成份。"
+            },
+            {
+              "question": "Q: 術後情況",
+              "answer": "大部分客人會有 3-5 天的輕微發紅，瘀傷和腫脹。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "康復後即可見效。"
+            },
+            {
+              "question": "Q: 療程效果能維持多久",
+              "answer": "效果維持能高達 6 個月。"
+            }
+          ],
+          "category": 1
+        }
+      ]
+    },
+    {
+      "name": "肌膚回春",
+      "cLink": "rejuvenation",
+      "imgUrl": "assets/img/rejuvenation.png",
+      "description": "",
+      "treatments": [
+        {
+          "canonical": "aqua-lifting",
+          "link": "aqua-lifting-2",
+          "name": "水光針",
+          "shortDescription": "水光針是最新的凍齡技術，利用負壓針在皮膚真皮層注入以小分子非交聯的玻尿酸為基底的溶液。它通過用機器為皮膚注射透明質酸以達到皮膚維持水分飽滿的狀態。",
+          "what": "水光針是最新的凍齡技術，利用負壓針在皮膚真皮層注入以小分子非交聯的玻尿酸為基底的溶液。它通過用機器為皮膚注射透明質酸以達到皮膚維持水分飽滿的狀態。我們使用的是醫學美容級別的透明質酸，它的作用在於能夠解決真皮層缺少水分的問題，改善細小皺紋。<br><br>水光針治療可維持數個月到一年。活性成分 : 透明質酸人體組織保持水分最重要的物質就是 「 透明質酸 」，這種黏多醣物質與蛋白質的水合作用讓人體結締組織保持大量水分。皮膚老化過程中人體會減少玻尿酸，使皮膚彈力下降而產生細紋。因此注入玻尿酸可以提升水分保持能力，使皮膚滋潤透亮麗去除皺紋。.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["美白提亮肌膚", "減淡細紋", "縮小毛孔", "重組肌膚彈性", "刺激骨膠原增生"],
+          "qa": [{
+            "question": "Q: 術後情況",
+            "answer": "大部分的客人會出現輕微泛紅，瘀清，和腫的情況。 一般2-5天會恢復。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "客人會在傷口康復之後見到術後效果。"
+            },
+            {
+              "question": "Q: 需要多少個療程以達到理想效果",
+              "answer": "客人會在第一個療程以後見到效果，效果大概可以維持 4-5 個月左右。一般客人會做三次以上的療程以達到更好更持久的效果。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "chemical-peel",
+          "link": "chemical-peel",
+          "name": "化學換膚",
+          "shortDescription": "化學換膚是利用酸性物質對皮膚進行去角質的一種方法來去除大量常見的問題，例如疤痕，黃褐斑和毛孔粗大。 它以去角質的方式來去除皮膚最外成的皮質，加快再生健康和恢復肌膚的過程。",
+          "what": "對於想要保持光滑無暇肌膚的人來說，面部換膚是一個不錯的選擇。 化學換膚是利用酸性物質對皮膚進行去角質的一種方法來去除大量常見的問題，例如疤痕，黃褐斑和毛孔粗大。 它以去角質的方式來去除皮膚最外成的皮質，加快再生健康和恢復肌膚的過程。 <br><br>化學換膚療程把酸應用在治療地方上。 酸的類型和強度是根據皮膚情形而決定。 療程適用于身體任何部位包含臉，頸部，胸口，肩膀，手臂，手部和腳部。如今我們只會進行表面和中等深度的化學換膚，深層的化學換膚已被雷射和其他更現代技術取代了。 在Reviva，我們提供許多不同酸性強度的化學換膚: <br><br><ul><li>三氯乙酸換膚 (100% 三氯乙酸)</li><li>乳酸換膚 ( 30% 乳酸)</li> <li>乙醇酸換膚 (20% 乙醇酸)</li> <li>Melanostop peel 色素抑制換膚 (6% 植酸，10%間苯二酚，20% 壬二酸)</li> <li>Jessner peel 混合型果酸 (8%檸檬酸，14%水楊酸，14% 乳酸)</li></ul>",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "它主要可以針對以下的問題皮膚：",
+          "benefits": ["暗瘡", "較淺的疤痕", "曬後皮膚老化", "黃褐斑", "色素斑", "膚色暗淡","不均勻的皮膚質地","毛孔粗大"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後會出現幾小時的發紅的情況，一般客人第二天就能夠正常工作。 術後3個星期內客人會有輕微的掉皮的狀況。 "
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "通常可以會在術後 1-2 個禮拜會開始見到皮膚的改善。 "
+            },
+            {
+              "question": "Q: 需要多少療程以達到理想效果",
+              "answer": "一次療程皮膚可以得到改善。 每個客人的皮膚狀況都不一樣，療程的次數視個人皮膚狀況而定。"
+            }
+          ],
+          "category": 4
+        },
+        {
+          "canonical": "dual-yellow-laser",
+          "link": "dual-yellow-laser",
+          "name": "黃光雷射",
+          "shortDescription": "黃光雷射是一種溫和而有效的皮膚保養技術。 可以改善一些皮膚問題包括毛孔粗大，暗瘡，頑固的色素斑，例如：痣，老年斑，雀斑，黃褐斑，蜘蛛狀血管病和玫瑰紅斑等。",
+          "what": "黃光雷射是一種溫和而有效的皮膚保養技術。 可以改善一些皮膚問題包括毛孔粗大，暗瘡，頑固的色素斑，例如：痣，老年斑，雀斑，黃褐斑，蜘蛛狀血管病和玫瑰紅斑等。 <br><br>不同于一般的鐳射，黃光雷射能釋放兩個不同波長的微小脈衝而非強光束。 利用兩種波長的比例不同進行對皮膚組織，如痣和老年斑，的精準的療程，並有著極少皮膚變色的風險。黃光雷射作為一個全面性的光療，能用於較大規模的皮膚問題，例如太陽損害和痤瘡。 它所釋放的光源能夠溫和地刺激骨膠原增生，讓皮膚再生。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "它可以改善以下皮膚狀況: ",
+          "benefits": ["毛孔粗大", "痤瘡 ™ 痣，老年斑或棕色 / 紅斑", "蜘蛛靜脈", "紅斑痤瘡和潮紅", "黃褐斑", "光療護膚"],
+          "qa": [
+            {
+              "question": "Q: 術後情況",
+              "answer": "術後除了有 2 天的輕微發熱和泛紅的狀況之外，黃光雷射是不需要恢復期的，客人可以立刻恢復工作和日常生活。"
+              },
+            {
+            "question": "Q: 什麼時候見效",
+            "answer": "每一次療程客人都會見到逐步的改善。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "治療的次數是根據治療的類型以及客人皮膚狀態而定，一般建議做 2-7 個療程。"
+            }
+          ],
+          "category": 2
+        },
+        {
+          "canonical": "mesotox",
+          "link": "mesotox-2",
+          "name": "Mesotox",
+          "shortDescription": "Mesotox 是通過稀釋的肉毒桿菌注射改善皮膚外觀告使其更健康。 能減少油量產生，改善痤瘡狀況。 Mesotox 還可減少細紋，收細毛孔，達到自然美麗的效果。 ",
+          "what": "Mesotox 是通過稀釋的肉毒桿菌注射改善皮膚外觀告使其更健康。 能減少油量產生，改善痤瘡狀況。 Mesotox 還可減少細紋，收細毛孔，達到自然美麗的效果。 ",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["收細毛孔", "減少臉部出油問題", "改善痤瘡狀況", "減少細紋", "改善皮膚質量，使皮膚看起來更精緻"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後幾小時皮膚會有輕微發紅。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "大約兩週內會看到效果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "平均來說，客人需要 3 次療程才能獲得最佳結果。 一般可能需要進一步的治療以便保持效果。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "microdermabrasion",
+          "name": "鑽石磨皮",
+          "shortDescription": "鑽石磨皮是一種臨床方法去除皮膚死皮，改善皮膚質地，疤痕，色素沉著，細紋和浮腫。 Reviva醫美診所有以下三種鑽石磨皮方法:：粒子微水晶磨皮，金剛石鑽石磨皮和Vibraderm 振動磨皮。",
+          "what": "鑽石磨皮是一種臨床方法去除皮膚死皮，改善皮膚質地，疤痕，色素沉著，細紋和浮腫。 Reviva醫美診所有以下三種鑽石磨皮方法:：粒子微水晶磨皮，金剛石鑽石磨皮和Vibraderm 振動磨皮。當表皮暗啞皮膚被除去，新的皮膚細胞會被暴露，令您的臉和身體立即變得有光澤。 <br/><br/>粒子微水晶磨皮是通過噴出受控的醫療級水晶顆粒來去除皮膚死皮的鐳射療程，具帶有真空吸力來處理死皮細胞和微水晶體。 過程的每一個步驟都是在通過增加血液流動和膠原蛋白生產來令皮膚外觀更健康。<br/><br/>金剛石鑽石磨皮是一種使用金剛石頭的無晶體和非鐳射儀器的選項。 金剛石頭不會留下任何微小顆粒，允許在微小的地方和縫隙中進行精確操作，如接近眼睛，鼻子和嘴巴的地方。 金剛石頭還利用真空壓力來增加真皮的血液循環，產生新的皮膚細胞，膠原蛋白和彈性蛋白纖維，從而收緊和調和皮膚。 增加血液循環的另一個好處是減輕眼部浮腫和排出多餘的水份和毒素。<br/><br/>Vibraderm 振動磨皮如其名是利用振動原理來磨皮，最有效的全身去角質磨皮方法。 它配有一個無晶體不銹鋼頭輕輕地以高速振動，並通過移動去除皮膚角質。",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["改善皮膚質地和光澤", "改善色素沉著情況", "改善小型痤瘡疤痕", "修復輕微的陽光損傷", "恢復皮膚活力", "是做其他鐳射療程的第一步", "沒有恢復期和副作用", "無痛"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "一般在 術後數小時內會有輕微發紅。 通常情況下沒有副作用。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "術後皮膚會立即感到更光滑和明亮。 術後1週後會看到最佳改善。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "療程次數視乎客人情況，也取決於客人平時的皮膚護理。 建議每月1-2次療程來清潔和康復皮膚。"
+            }
+          ],
+          "category": 4
+        },
+        {
+          "canonical": "natural-photodynamic-therapy",
+          "link": "natural-photodynamic-therapy",
+          "name": "天然光動力療法",
+          "shortDescription": "光動力療法能治療輕度至嚴重性痤瘡的最有效的療程之一。 天然光動力療法比起傳統的光動力療法更高效，同時不會產生任何副作用。<br><br> ",
+          "what": "光動力療法能治療輕度至嚴重性痤瘡的最有效的療程之一。 傳統的光動力療法使用5-氨基乙醯丙酸(ALA)作為光療劑， ALA會有某特定的波長的光下激發活性。 激發活性後，ALA會被痤瘡細胞吸收，使得痤瘡更容易接觸能殺死痤瘡細菌的光。ALA 會需要較長的滲透時間。 <br/><br/>在 Reviva ，我們提供了一種全天然的替代品，由維生素和氨基酸組成的溶液替代傳統的 ALA 溶液。 這種天然溶液比ALA滲透更快，並且非常高效，同時不會產生任何副作用。 由於ALA是親水性的，因此需要較長的滲透時間。 進行傳統光動力療程後，患者需要避免暴露在陽光下36小時。 然而通過使用天然光療劑，治療後避光的時間和等待啟動的時間都縮短了。 <br/><br/>光動力療法的歷史可以追溯到古埃及和印度。 當時光療劑是用植物和和陽光進行局部應用。 人們使用這種技術來治療多種皮膚病，如白癜風，牛皮癬和濕疹等。 直到20世紀初德國的一名讀醫的學生Oscar Raab注意到某些細胞在一定的光照放置化學吖啶後會受到破壞。 在1904年，Raab的老師Von Tappeiner為此反應明名了 「 光動力 」 一詞，因為它涉及光，光敏藥物和氧氣。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/photodynamic-therapy/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/photodynamic-therapy/Untitled-1-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["療程時間短", "非常 小甚至沒有副作用", "無痛或輕微不適感", "更安全，更自然的替代其他痤瘡治療", "收小毛孔和改善皮膚質量", "減少皮脂分秘", "改善痤瘡疤痕的外觀"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "我們的 光動力療法非常小甚至沒有副作用，有時客人可能會經歷不超過幾個小時的發紅。 治療後2 - 3天出現輕度脫皮是正常反應。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "視乎個人皮膚狀況，客人在看到改善之前可能要需要數次療程。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "客人可能需要 3-6 次療程，次數視乎個人皮膚的嚴重性而定。 建議客人要有一個良好的護膚步驟與做足防曬措施，以提高和加快療程效果。 "
+            }
+          ],
+          "category": 3
+        },
+        {
+          "canonical": "platelet-rich-plasma-therapy",
+          "link": "platelet-rich-plasma-therapy-2",
+          "name": "高濃度血小板血漿療法",
+          "shortDescription": "高濃度血小板血漿療法 (PRP) 的做法是從客人自已的血液中的富血小板血漿來進行癒合和再生。 PRP 能為皮膚帶來活力和變得更光滑。 PRP 含有許多稱為生長因數的蛋白質，可以促使您的角質形成細胞和成纖維細胞重生組織，改善您的皮膚的健康和質地。",
+          "what": "高濃度血小板血漿療法 (PRP) 的做法是從客人自已的血液中的富血小板血漿來進行癒合和再生。 在Reviva，PRP 能為皮膚帶來活力和變得更光滑。 PRP 含有許多稱為生長因數的蛋白質，可以促使您的角質形成細胞和成纖維細胞重生組織，並創造新血管來提供氧氣和營養，改善您的皮膚的健康和質地。 <br/><br/>高濃度血小板血漿療法將會從您的手臂抽取少量血液。 放置於離心機中，用離心力從紅血球和白血球中分離血小板，然後產抽離含有人體生長因數的富血小板血漿。 該血漿含有平時6倍濃度的血小板。 高濃度血小板血漿療法能局部應用於您的皮膚，被醫生注射到痤瘡疤痕或其他需要的地方或與分段式飛梳鐳射光束一起導入皮膚軟組織。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/platelet-rich/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/platelet-rich/Untitled-1-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["膠原刺激", "滋潤皮膚", "減少細紋和皺紋", "縮細毛孔", "改善痤瘡疤痕", "刺激毛髮生長"],
+          "qa": [
+            {
+            "question": "Q: 治療後可以期待什麼",
+            "answer": "因為有 PRP 過程中皮膚是用自身生長因數，客人會發現皮膚會變得更光亮和更柔軟。 並在數月內您的皮膚會看起來會更光滑，更飽滿和更加滋潤的皮膚。"
+            },
+            {
+              "question": "Q: 術後情況",
+              "answer": "術後可能有輕微腫脹和瘀青。 客人也有可能沒有任何副作用。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "高濃度血小板血漿療法會令您自然增加膠原蛋白的產生。 完整效果將會在大約6 - 8週內看到。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "大多數客人需要 2 - 3 療程，間隔 1 個月。"
+            }
+          ],
+          "category": 1
+        },
+        {
+          "canonical": "skinboosters",
+          "link": "skinboosters-2",
+          "name": "瑞藍 Skinboosters™",
+          "shortDescription": "Restylane®Skinboosters™ 能輕鬆有效地從內向外滋潤皮膚和令皮膚保持水潤亮麗。 產地來自瑞典，使用非動物和高品質的原材料製造，是世界上最安全的醫學美容之一。 瑞藍SKINBOOSTERS™採用NASHA™技術，能穩定透明質酸的持久性和與皮膚組織的生物相容性。",
+          "what": "Restylane®Skinboosters™ 能輕鬆有效地從內向外滋潤皮膚和令皮膚保持水潤亮麗。 產地來自瑞典，使用非動物和高品質的原材料製造，是世界上最安全的醫學美容之一。 瑞藍SKINBOOSTERS™採用NASHA™技術，能穩定透明質酸的持久性和與皮膚組織的生物相容性。 術後皮膚會變得有光澤，水潤，光滑和有彈性，並能維持長久的效果。 <br><br>瑞藍Skinbooster™也可用於水光針™治療，有極度保濕的效果。 透明質酸 (HA) 是瑞藍 Skinbooster™ 中的活性成分。 透明質酸也稱為玻尿酸，足夠玻尿酸的皮膚會更年輕。 玻尿酸能結合和儲存水分子，是令皮膚保濕，光滑和有彈性的主要成分之一。 隨著年齡增長，我們的身體逐漸減少HA的生產，導致了無可避免的老化現象，例如皮膚乾燥，變薄和出現皺紋。 注射Skinbooster™時便能逆轉這些現象。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/Skin-booster/Skinbooster 2 -01 (1).jpg",
+            "after": "assets/img/treatment/Skin-booster/Skinbooster 2 -02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["令皮膚變得有光澤和水潤亮麗", "能用於水光針 ™ 或玻尿酸填充", "直接注射能增加皮膚保濕度和彈性", "改善眼袋 , 臥蠶的外形", "治療頸部，手術，手部以及痤瘡疤痕的地方", "效果持久"],
+          "qa": [
+            {
+            "question": "Q: 治療期間會發生什麼",
+            "answer": "每次療程會用微針注射玻尿酸保濕成份。"
+            },
+            {
+              "question": "Q: 術後情況",
+              "answer": "大部分客人會有 3-5 天的輕微發紅，瘀傷和腫脹。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "康復後即可見效。"
+            },
+            {
+              "question": "Q: 療程效果能維持多久",
+              "answer": "效果維持能高達 6 個月。"
+            }
+          ],
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "細紋和皺紋",
+      "cLink": "finelines-wrinkles",
+      "imgUrl": "assets/img/finelines_wrinkles.png",
+      "description": "",
+      "treatments": [
+        {
+          "canonical": "aqua-lifting",
+          "link": "aqua-lifting-3",
+          "name": "水光針",
+          "shortDescription": "水光針是最新的凍齡技術，利用負壓針在皮膚真皮層注入以小分子非交聯的玻尿酸為基底的溶液。它通過用機器為皮膚注射透明質酸以達到皮膚維持水分飽滿的狀態。",
+          "what": "水光針是最新的凍齡技術，利用負壓針在皮膚真皮層注入以小分子非交聯的玻尿酸為基底的溶液。它通過用機器為皮膚注射透明質酸以達到皮膚維持水分飽滿的狀態。我們使用的是醫學美容級別的透明質酸，它的作用在於能夠解決真皮層缺少水分的問題，改善細小皺紋。<br><br>水光針治療可維持數個月到一年。活性成分 : 透明質酸人體組織保持水分最重要的物質就是 「 透明質酸 」，這種黏多醣物質與蛋白質的水合作用讓人體結締組織保持大量水分。皮膚老化過程中人體會減少玻尿酸，使皮膚彈力下降而產生細紋。因此注入玻尿酸可以提升水分保持能力，使皮膚滋潤透亮麗去除皺紋。.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["美白提亮肌膚", "減淡細紋", "縮小毛孔", "重組肌膚彈性", "刺激骨膠原增生"],
+          "qa": [{
+            "question": "Q: 術後情況",
+            "answer": "大部分的客人會出現輕微泛紅，瘀清，和腫的情況。 一般2-5天會恢復。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "客人會在傷口康復之後見到術後效果。"
+            },
+            {
+              "question": "Q: 需要多少個療程以達到理想效果",
+              "answer": "客人會在第一個療程以後見到效果，效果大概可以維持 4-5 個月左右。一般客人會做三次以上的療程以達到更好更持久的效果。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "dermal-filler",
+          "link": "dermal-filler-2",
+          "name": "玻尿酸填充",
+          "shortDescription": "玻尿酸填充是一種通過對皮膚深層注射波尿酸以達到臉型飽滿，改善輪廓的療程。 在Reviva，我們只使用天然的透明質酸填充，包括喬雅登，瑞藍，艾瑪芙和玻麗朗。",
+          "before": "",
+          "what": "透明質酸是填充中的活性成分。 透明質酸 (HA) 也稱為玻尿酸，足夠玻尿酸的皮膚會更年輕。 玻尿酸能結合和儲存水分子，是令皮膚保濕，光滑和有彈性的主要成分之一。 隨著年齡增長，我們的身體逐漸減少HA的生產，導致了無可避免的老化現象，例如皮膚乾燥，變薄和出現皺紋。 注射玻尿酸時便能逆轉這些現象。<br><br>玻尿酸填充是一種通過對皮膚深層注射波尿酸以達到臉型飽滿，改善輪廓的療程。 在Reviva，我們只使用天然的透明質酸填充，包括喬雅登，瑞藍，艾瑪芙和玻麗朗。 由於玻尿酸是人體本身存在的物質，填滿效果非常自然。 填充是來自非動物的玻尿酸，所以這意味著存在非常小風險的過敏反應和零機率的疾病轉移情怳。<br><br>",
+          "slideimg": [{
+            "before": "assets/img/treatment/dermal-filler/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-3-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-5-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-5-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-6-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-6-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-7-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-7-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-8-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-8-02.jpg"
+          }
+          ],
+          "benefitText": "玻尿酸填充能夠提供自然而持久的效果，可以改善以下部位的臉部輪廓",
+          "benefits": ["額頭", "太陽穴", "眉骨", "鼻子", "眼下", "臉頰", "笑紋", "嘴唇", "下巴", "輪廓線", "下頜"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後會出現泛紅，輕微腫脹，瘀青和疼痛的現象，通常以上現象會在 72 小時內消失。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "注射後客人會立刻見到效果。"
+            },
+            {
+              "question": "Q: 效果可以維持多久",
+              "answer": "波尿酸填充大概可以維持 6 - 9 個月，甚至更久。 填充能維持的時間取決于不同的皮膚類型，注射的位置和注射分量。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "fractional-laser",
+          "link": "fractional-laser-3",
+          "name": "分段式飛梳鐳射",
+          "shortDescription": "分段式飛梳鐳射用於皮膚表面換膚。 它有助治療痤瘡疤痕，妊娠紋，黃褐斑，皺紋，皮膚粗糙，毛孔粗大等問題。 能治療同時保護周圍皮膚不受影響，導致有更快的康復時間和最小的副作用。 ",
+          "what": "分段式飛梳鐳射用於皮膚表面換膚。 它有助減少皮膚問題，例如治療痤瘡疤痕，妊娠紋，黃褐斑，皺紋，皮膚粗糙，毛孔粗大等問題。 由如其名，其獨特的能力能治療部分肌膚（微熱區域/ MTZ）同時保護周圍皮膚不受影響，導致有更快的康復時間和最小的副作用。 效果。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/fractional-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/fractional-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/fractional-laser/Fractional-01 (1).jpg",
+            "after": "assets/img/treatment/fractional-laser/Fractional-02 (1).jpg"
+          }
+          ],
+          "benefitText": "分段式飛梳鐳射可以治療以下的皮膚問題",
+          "benefits": ["暗瘡疤痕", "妊娠紋", "色素沉殿，如黃褐斑", " 細紋，皺紋和下垂的皮膚", "粗糙和不光滑的皮膚", "毛孔粗大"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "客人臉部會有短暫的泛紅情況，在客人離開診所的時候臉紅的情況就會退去一大半。 其餘的泛紅並大概維持30-60分鐘左右。 3-6天左右臉部會完全康復，大部分客人會在第2天就能恢復正常生活。"
+            },
+            {
+              "question": "Q: 什麼時候能夠見到效果",
+              "answer": "療程的次數取決於客人的皮膚狀態。 在多數情況下，我們建議客人做2-5個療程，每個療程間隔4-8個禮拜。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "neuromodulator",
+          "link": "neuromodulator-2",
+          "name": "肉毒桿菌",
+          "shortDescription": "肉毒桿菌是改變神經脈衝傳播的物質。 在醫學美容中會以保妥適®和麗舒妥的形式常用到，用於暫時去除中度至嚴重的細紋和皺紋。 隨著年齡增長膠原蛋白會分解，導致細紋和皺紋的形成。",
+          "what": "肉毒桿菌是改變神經脈衝傳播的物質。 在醫學美容中會以保妥適®和麗舒妥的形式常用到，用於暫時去除中度至嚴重的細紋和皺紋。 隨著年齡增長膠原蛋白會分解，導致細紋和皺紋的形成。 紋和皺紋也有可能是由於肌肉活動而出現。 <br><br>肉毒桿菌可以直接注射到肌肉中，阻斷對肌肉的神經衝動，減少由肌肉運動造成的細紋和皺紋。 肉毒桿菌注射療必須由獲得批准注射的執照醫生或醫療專業人員執行。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/neuromodulator/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-3-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["療程時間快和持久，快見的效果", "自然的效果 - 未經治療的面部肌肉會活動正常和自然。 客人可自由顯現面部表情，如微笑", "肉毒桿菌可以幫助暫時放鬆咬肌和小腿肌肉，以塑造瘦身效果", "暫時性 預防在以下地方造成細紋和皺紋, 眉毛, 前額, 眼周圍, 嘴周圍, 頸部, 下頜"],
+          "qa": [
+            {
+              "question": "Q: 術後情況",
+              "answer": "不需要恢復時間，您將在幾天內看到效果，效果可以持續長達 4 個月。 麗舒妥 注射後，最常見的副作用是頭痛和注射部位疼痛，但並不常見。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "有些客人在短短 24 小時內就會看到結果。 除皺效果會在3 - 5天后看到。 瘦面或瘦小腿效果將在2 - 4週內看到。"
+            },
+            {
+              "question": "Q: 如何保持效果",
+              "answer": "大多數客人需要在 12 週後重複療程。 不建議在90天內重複進行Dysport注射。 視乎個人需要和情況，療程的頻率由醫生決定。 客人應避免吸煙和暴露皮膚在太陽的紫外線中，預防減少新膠原蛋白的產生和破壞現有的膠原蛋白。"
+            }
+          ],
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "痤瘡",
+      "cLink": "acne",
+      "imgUrl": "assets/img/acne.png",
+      "description": "",
+      "treatments": [
+        {
+          "canonical": "chemical-peel",
+          "link": "chemical-peel-2",
+          "name": "化學換膚",
+          "shortDescription": "化學換膚是利用酸性物質對皮膚進行去角質的一種方法來去除大量常見的問題，例如疤痕，黃褐斑和毛孔粗大。 <br><br>",
+          "what": "對於想要保持光滑無暇肌膚的人來說，面部換膚是一個不錯的選擇。 化學換膚是利用酸性物質對皮膚進行去角質的一種方法來去除大量常見的問題，例如疤痕，黃褐斑和毛孔粗大。 它以去角質的方式來去除皮膚最外成的皮質，加快再生健康和恢復肌膚的過程。 化學換膚療療程是應用酸在要治療的地方上。 酸的類型和強度是根據皮膚情形而決定。 療程適用于身體任何部位包含臉，頸部，胸口，肩膀，手臂，手部和腳部。",
+          "before": "如今只會進行表面和中等深度的化學換膚，深層的化學換膚已被雷射和其他更現代技術取代了。 在Reviva，我們提供許多不同酸性強度的化學換膚: <ul><li>三氯乙酸換膚 (100% 三氯乙酸)</li><li>乳酸換膚 ( 30% 乳酸)</li> <li>乙醇酸換膚 (20% 乙醇酸)</li> <li>Melanostop peel 色素抑制換膚 (6% 植酸，10%間苯二酚，20% 壬二酸)</li> <li>Jessner peel 混合型果酸 (8%檸檬酸，14%水楊酸，14% 乳酸)</li></ul>",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["令皮膚變得有光澤和水潤亮麗", "能用於水光針 ™ 或玻尿酸填充", "直接注射能增加皮膚保濕度和彈性", "改善眼袋 , 臥蠶的外形", "治療頸部，手術，手部以及痤瘡疤痕的地方", "效果持久"],
+          "qa": [
+            {
+            "question": "Q: 治療期間會發生什麼",
+            "answer": "每次療程會用微針注射玻尿酸保濕成份"
+            },
+            {
+              "question": "Q: 術後情況",
+              "answer": "大部分客人會有 3-5 天的輕微發紅，瘀傷和腫脹。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "康復後即可見效。"
+            },
+            {
+              "question": "Q: 療程效果能維持多久",
+              "answer": "效果維持能高達 6 個月。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "dual-yellow-laser",
+          "link": "dual-yellow-laser-2",
+          "name": "黃光雷射",
+          "shortDescription": "黃光雷射是一種溫和而有效的皮膚保養技術。 可以改善一些皮膚問題包括毛孔粗大，暗瘡，頑固的色素斑，例如：痣，老年斑，雀斑，黃褐斑，蜘蛛狀血管病和玫瑰紅斑等。",
+          "what": "黃光雷射是一種溫和而有效的皮膚保養技術。 可以改善一些皮膚問題包括毛孔粗大，暗瘡，頑固的色素斑，例如：痣，老年斑，雀斑，黃褐斑，蜘蛛狀血管病和玫瑰紅斑等。 不同于一般的鐳射，黃光雷射能釋放兩個不同波長的微小脈衝而非強光束。 利用兩種波長的比例不同進行對皮膚組織，如痣和老年斑，的精準的療程，並有著極少皮膚變色的風險。 黃光雷射作為一個全面性的光療，能用於較大規模的皮膚問題，例如太陽損害和痤瘡。 它所釋放的光源能夠刺激骨膠原增生，説明皮膚再生。 黃光雷射不單單可以溫和刺激骨膠原，",
+          "before": "它可以改善以下皮膚狀況",
+          "slideimg": [{
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "術後除了有 2 天的輕微發熱和泛紅的狀況之外，黃光雷射是不需要恢復期的，客人可以立刻恢復工作和日常生活。",
+          "benefits": ["毛孔粗大", "痤瘡 ™ 痣，老年斑或棕色 / 紅斑", "蜘蛛靜脈", "紅斑痤瘡和潮紅", "黃褐斑", "光療護膚"],
+          "qa": [
+            {
+            "question": "Q: 什麼時候見效",
+            "answer": "每一次療程客人都會見到逐步的改善"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "治療的次數是根據治療的類型以及客人皮膚狀態而定，一般建議做 2-7 個療程。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "erbium-yag-laser-extraction",
+          "name": "鉺雅克雷射",
+          "shortDescription": "鉺雅克雷射能用於提取粉刺和痘痘，幫助受痤瘡困擾的客人。 比起使用針頭祛除粉刺和痤瘡，鉺雅克雷射更有效率並且無甚痛楚。<br/><br/>  ",
+          "what": "鉺雅克雷射是一個安全並有效的換膚療程。 溫和地適用於敏感型皮膚﹐適合治療位置包括嘴唇周圍，眼周圍，頸部和手背。 其特性能有效減低不適感和恢復期。<br/><br/>鉺雅克雷射也能用於提取粉刺和痘痘，能幫助受痤瘡困擾的客人。 比起使用針頭祛除粉刺和痤瘡，鉺雅克雷射更有效率並且無甚痛楚。 祛痘過程中，鐳射會鑽出一個微小的開口用於衛生地提取粉刺。 與其他提取痘痘不同，由於開口的深度是經過專門測量的，因此幾乎沒有任何疤痕會留下。 是一個非常有效的「掃除」粉刺和膿皰痤瘡的療程。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/excision/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/excision/Untitled-1-02.jpg"
+          }
+          ],
+          "benefitText": "能改善以下皮膚問題",
+          "benefits": ["改善痤瘡和痤瘡疤痕", "撫平細紋，皺紋和粗糙不平的皮膚", "縮細粗大的毛孔", "不適感和恢復期甚少"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後幾個小時會有輕微發紅和刺痛。 客人可以用冷敷的方式緩解情況﹐將在5 - 7天看到完全康復。 可用Cicaplast加快康復過程。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "皮膚將在療程後 3 至 7 天內康復。 康復客人會馬上看到效果。 發紅也會在第二天散去。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "視乎客人需要，有時只需要一次療程便可。"
+            }
+          ],
+          "category": 2
+        },
+        {
+          "canonical": "intense-pulse-light",
+          "link": "intense-pulse-light",
+          "name": "彩光",
+          "shortDescription": "彩光是一種使用光子嫩膚的鐳射來改善皮膚老化和均勻膚色。 彩光能輸出含有從550nm至1200nm範圍內波長的光源並促進新細胞生長。 該光譜會被黑色素和血紅蛋白吸收，使該其有效地消除色素沉殿和均勻膚色。 ",
+          "what": "彩光是一種使用光子嫩膚的鐳射來改善皮膚老化和均勻膚色。 彩光能輸出含有從550nm至1200nm範圍內波長的光源並促進新細胞生長。 該光譜會被黑色素和血紅蛋白吸收，使該其有效地消除色素沉殿和均勻膚色。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "弧光源是非侵入性的，具有廣泛的臨床應用，包括",
+          "benefits": ["減少色素斑", "縮細毛孔", "痤瘡疤痕去除", "控制痤瘡生長", "減少玫瑰痤瘡和潮紅", "減少紅血絲"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "彩光通常會導致輕微 結痂。 通常會在5至10天內脫落。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "一般需要 1 - 6 次療程，次數取決於色素斑的類型。 老人斑會有較快速的效果。 通常在僅一次治療後就會見到明顯改善。"
+            }
+          ],
+          "category": 2
+        },
+        {
+          "canonical": "mesotox",
+          "link": "mesotox-4",
+          "name": "Mesotox",
+          "shortDescription": "Mesotox 是通過稀釋的肉毒桿菌注射改善皮膚外觀告使其更健康。 能減少油量產生，改善痤瘡狀況。 Mesotox 還可減少細紋，收細毛孔，達到自然美麗的效果。 ",
+          "what": "Mesotox 是通過稀釋的肉毒桿菌注射改善皮膚外觀告使其更健康。 能減少油量產生，改善痤瘡狀況。 Mesotox 還可減少細紋，收細毛孔，達到自然美麗的效果。 ",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["收細毛孔", "減少臉部出油問題", "改善痤瘡狀況", "減少細紋", "改善皮膚質量，使皮膚看起來更精緻"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後幾小時皮膚會有輕微發紅。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "大約兩週內會看到效果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "平均來說，客人需要 3 次療程才能獲得最佳結果。 一般可能需要進一步的治療以便保持效果。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "natural-photodynamic-therapy",
+          "link": "natural-photodynamic-therapy-1",
+          "name": "天然光動力療法",
+          "shortDescription": "光動力療法能治療輕度至嚴重性痤瘡的最有效的療程之一。天然光動力療法比起傳統的光動力療法滲透更快，並且非常高效，同時不會產生任何副作用。",
+          "what": "光動力療法能治療輕度至嚴重性痤瘡的最有效的療程之一。 傳統的光動力療法使用5-氨基乙醯丙酸(ALA)作為光療劑， ALA會有某特定的波長的光下激發活性。 激發活性後，ALA會被痤瘡細胞吸收，使得痤瘡更容易接觸能殺死痤瘡細菌的光。ALA 會需要較長的滲透時間。 <br/><br/>在 Reviva ，我們提供了一種全天然的替代品，由維生素和氨基酸組成的溶液替代傳統的 ALA 溶液。 這種天然溶液比ALA滲透更快，並且非常高效，同時不會產生任何副作用。 由於ALA是親水性的，因此需要較長的滲透時間。 進行傳統光動力療程後，患者需要避免暴露在陽光下36小時。 然而通過使用天然光療劑，治療後避光的時間和等待啟動的時間都縮短了。 <br/><br/>光動力療法的歷史可以追溯到古埃及和印度。 當時光療劑是用植物和和陽光進行局部應用。 人們使用這種技術來治療多種皮膚病，如白癜風，牛皮癬和濕疹等。 直到20世紀初德國的一名讀醫的學生Oscar Raab注意到某些細胞在一定的光照放置化學吖啶後會受到破壞。 在1904年，Raab的老師Von Tappeiner為此反應明名了 「 光動力 」 一詞，因為它涉及光，光敏藥物和氧氣。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/photodynamic-therapy/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/photodynamic-therapy/Untitled-1-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["療程時間短", "非常 小甚至沒有副作用", "無痛或輕微不適感", "更安全，更自然的替代其他痤瘡治療", "收小毛孔和改善皮膚質量", "減少皮脂分秘", "改善痤瘡疤痕的外觀"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "我們的 光動力療法非常小甚至沒有副作用，有時客人可能會經歷不超過幾個小時的發紅。 治療後2 - 3天出現輕度脫皮是正常反應。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "視乎個人皮膚狀況，客人在看到改善之前可能要需要數次療程。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "客人可能需要 3-6 次療程，次數視乎個人皮膚的嚴重性而定。 建議客人要有一個良好的護膚步驟與做足防曬措施，以提高和加快療程效果。 "
+            }
+          ],
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "痤瘡疤痕",
+      "cLink": "acne-scars",
+      "imgUrl": "assets/img/acne_scars.png",
+      "description": "",
+      "treatments": [
+        {
+          "canonical": "duet-radio-frequency",
+          "link": "duet-radio-frequency-1",
+          "name": "水滴電波",
+          "shortDescription": "水滴電波是利用非侵入性的鐳射改善來皮膚問題。用於皮膚表面換膚和收緊和重塑深層真皮組織。",
+          "before": "水滴電波是利用非侵入性的鐳射改善來皮膚問題。 水滴電波系統提供2種聚焦先進的射頻技術 - 分段式和熱能量的電波射頻。 分段式電波用於皮膚表面換膚，熱能量電波用於收緊和重塑深層真皮組織。 這兩種模式可以組合使用，為客人提供最佳效果。 ",
+          "slideimg": [{
+            "before": "assets/img/treatment/Duet-RF/Duet RF 2-01.jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF 2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 1-01 (1).jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 1-02 (1).jpg"
+          },
+          {
+            "before": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 2-01 (1).jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 2-02 (1).jpg"
+          }
+          ],
+          "benefitText": "能以下皮膚問題",
+          "benefits": ["緊緻提升", " 改善細紋和皺紋", "疤痕", "痤瘡 ", "毛孔", "皮膚質地", "均衡膚色", "提升輪廓線"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後會有輕微發紅和和腫脹。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "皮膚將在治療後 6 至 8 天內逐漸 看到改善。"
+            },
+            {
+              "question": "Q: 效果可以維持多久",
+              "answer": "一般客人只需要一次療程。 在一年時間內，皮膚會不停生產新鮮膠原蛋白。 客人可以每年做一次療程去維持效果。"
+            }
+          ],
+          "category": 2
+        },
+        {
+          "canonical": "fractional-laser",
+          "link": "fractional-laser",
+          "name": "分段式飛梳鐳射",
+          "shortDescription": "分段式飛梳鐳射用於皮膚表面換膚。 它有助治療痤瘡疤痕，妊娠紋，黃褐斑，皺紋，皮膚粗糙，毛孔粗大等問題。 能治療同時保護周圍皮膚不受影響，導致有更快的康復時間和最小的副作用。",
+          "what": "分段式飛梳鐳射用於皮膚表面換膚。 它有助減少皮膚問題，例如治療痤瘡疤痕，妊娠紋，黃褐斑，皺紋，皮膚粗糙，毛孔粗大等問題。 由如其名，其獨特的能力能治療部分肌膚（微熱區域/ MTZ）同時保護周圍皮膚不受影響，導致有更快的康復時間和最小的副作用。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/fractional-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/fractional-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/fractional-laser/Fractional-01 (1).jpg",
+            "after": "assets/img/treatment/fractional-laser/Fractional-02 (1).jpg"
+          }
+          ],
+          "benefitText": "分段式飛梳鐳射可以治療以下的皮膚問題:",
+          "benefits": ["暗瘡疤痕", "妊娠紋", "色素沉殿，如黃褐斑", " 細紋，皺紋和下垂的皮膚", "粗糙和不光滑的皮膚", "毛孔粗大"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "客人臉部會有短暫的泛紅情況，在客人離開診所的時候臉紅的情況就會退去一大半。 其餘的泛紅並大概維持30-60分鐘左右。 3-6天左右臉部會完全康復，大部分客人會在第2天就能恢復正常生活。"
+            },
+            {
+              "question": "Q: 什麼時候能夠見到效果",
+              "answer": "療程的次數取決於客人的皮膚狀態。 在多數情況下，我們建議客人做2-5個療程，每個療程間隔4-8個禮拜。"
+            }
+          ],
+          "category": 2
+        },
+        {
+          "canonical": "intense-pulse-light",
+          "link": "intense-pulse-light-1",
+          "name": "彩光",
+          "shortDescription": "彩光是一種使用光子嫩膚的鐳射來改善皮膚老化和均勻膚色。 彩光能輸出含有從550nm至1200nm範圍內波長的光源並促進新細胞生長。 該光譜會被黑色素和血紅蛋白吸收，使該其有效地消除色素沉殿和均勻膚色。 ",
+          "what": "彩光是一種使用光子嫩膚的鐳射來改善皮膚老化和均勻膚色。 彩光能輸出含有從550nm至1200nm範圍內波長的光源並促進新細胞生長。 該光譜會被黑色素和血紅蛋白吸收，使該其有效地消除色素沉殿和均勻膚色。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "弧光源是非侵入性的，具有廣泛的臨床應用，包括",
+          "benefits": ["減少色素斑", "縮細毛孔", "痤瘡疤痕去除", "控制痤瘡生長", "減少玫瑰痤瘡和潮紅", "減少紅血絲"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "彩光通常會導致輕微 結痂。 通常會在5至10天內脫落。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "一般需要 1 - 6 次療程，次數取決於色素斑的類型。 老人斑會有較快速的效果。 通常在僅一次治療後就會見到明顯改善。"
+            }
+          ],
+          "category": 3
+        },
+        {
+          "link": "intracel",
+          "name": "電波微針",
+          "shortDescription": "電波微針利用分段式電波微針用於治療痤瘡疤痕，毛孔粗大 , 下垂皮膚和妊娠紋。 療程中每一個微針像電極般在整個真皮中發出射頻能量。 過程中產生的熱能量刺激膠原蛋白生成，以致收緊皮膚。 <br><br/>",
+          "what": "電波微針利用分段式電波微針用於治療痤瘡疤痕，毛孔粗大 , 下垂皮膚和妊娠紋。 療程中每一個微針像電極般在整個真皮中發出射頻能量。 過程中產生的熱能量刺激膠原蛋白生成，以致收緊皮膚。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/Intracel/Intracel 1-01 (1).jpg",
+            "after": "assets/img/treatment/Intracel/Intracel 1-02 (1).jpg"
+          },
+          {
+            "before": "assets/img/treatment/Intracel/Intracel 2-01 (1).jpg",
+            "after": "assets/img/treatment/Intracel/Intracel 2-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["收細毛孔", "改善痤瘡疤痕", "收緊下垂皮膚", "控制痤瘡生長", "改善妊娠紋"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "電波微針是安全，並且只需要極少的恢復期，使其受到不同皮膚類型的客人歡迎。 皮膚可能會暫時發紅或輕度腫脹。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "恢復期後幾天內能見到皮膚質地改善，並在 2 - 6 個月後會看到皮膚收緊效果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "一般來說﹐平均需要 3 次治療。 根據您的情況而定, 可能需要進一步治療來維持效果。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "platelet-rich-plasma-therapy",
+          "link": "platelet-rich-plasma-therapy-5",
+          "name": "高濃度血小板血漿療法",
+          "shortDescription": "高濃度血小板血漿療法 (PRP) 的做法是從客人自已的血液中的富血小板血漿來進行癒合和再生。 PRP 能為皮膚帶來活力和變得更光滑。 PRP 含有許多稱為生長因數的蛋白質，可以促使您的角質形成細胞和成纖維細胞重生組織，改善您的皮膚的健康和質地。",
+          "what": "高濃度血小板血漿療法 (PRP) 的做法是從客人自已的血液中的富血小板血漿來進行癒合和再生。 在Reviva，PRP 能為皮膚帶來活力和變得更光滑。 PRP 含有許多稱為生長因數的蛋白質，可以促使您的角質形成細胞和成纖維細胞重生組織，並創造新血管來提供氧氣和營養，改善您的皮膚的健康和質地。 <br/><br/>高濃度血小板血漿療法將會從您的手臂抽取少量血液。 放置於離心機中，用離心力從紅血球和白血球中分離血小板，然後產抽離含有人體生長因數的富血小板血漿。 該血漿含有平時6倍濃度的血小板。 高濃度血小板血漿療法能局部應用於您的皮膚，被醫生注射到痤瘡疤痕或其他需要的地方或與分段式飛梳鐳射光束一起導入皮膚軟組織。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/platelet-rich/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/platelet-rich/Untitled-1-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["膠原刺激", "滋潤皮膚", "減少細紋和皺紋", "縮細毛孔", "改善痤瘡疤痕", "刺激毛髮生長"],
+          "qa": [
+            {
+            "question": "Q: 治療後可以期待什麼",
+            "answer": "因為有 PRP 過程中皮膚是用自身生長因數，客人會發現皮膚會變得更光亮和更柔軟。 並在數月內您的皮膚會看起來會更光滑，更飽滿和更加滋潤的皮膚。"
+            },
+            {
+              "question": "Q: 術後情況",
+              "answer": "術後可能有輕微腫脹和瘀青。 客人也有可能沒有任何副作用。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "高濃度血小板血漿療法會令您自然增加膠原蛋白的產生。 完整效果將會在大約6 - 8週內看到"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "大多數客人需要 2 - 3 療程，間隔 1 個月"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "subcision",
+          "name": "皮下分離術",
+          "shortDescription": "皮下分離術是治療萎縮性痤瘡瘢痕 (包括冰鑿型疤痕，車箱型疤痕等和滾動型疤痕) 的輕微外科手術。 手術過程會用皮下注射針或外科剪刀分離真皮和皮下組織。<br/><br/>",
+          "what": "皮下分離術是治療萎縮性痤瘡瘢痕 (包括冰鑿型疤痕，車箱型疤痕等和滾動型疤痕) 的輕微外科手術。 手術過程會用皮下注射針或外科剪刀分離真皮和皮下組織。 能破壞束縛疤痕的纖維束狀組織，釋放深層皮膚。 皮膚組織會開始康復，疤痕會被填滿，導致更小和更淺的瘢痕。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/subcision/Subcision-01 (1).jpg",
+            "after": "assets/img/treatment/subcision/Subcision-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["改善萎縮性痤瘡痘疤和嚴重瘢痕的外貌", "針對性局部治療 , 康復期快"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後可能會出現瘀傷，並應在 7 - 10 天內恢復。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "術後大約一個月後會見效。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "療程次數取決於痤瘡疤痕的嚴重程度。 在大多數情況下，客人將需要2次以上的治療如果療程後有看到明顯的改善。"
+            }
+          ],
+          "category": 4
+        },
+        {
+          "link": "tca-peel",
+          "name": "三氯乙酸換膚術",
+          "shortDescription": "三氯乙酸換膚術是一種中等強度的果酸換膚，利用蛋白質變質過程來讓皮膚去角質。 該治療有助於均衡膚色，細紋和痤瘡疤痕。<br/><br/> ",
+          "what": "三氯乙酸換膚術是一種中等強度的果酸換膚，利用蛋白質變質過程來讓皮膚去角質。 該治療有助於均衡膚色，細紋和痤瘡疤痕。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/TCA/TCA-01 (1).jpg",
+            "after": "assets/img/treatment/TCA/TCA-02 (1).jpg"
+          }
+          ],
+          "benefitText": "弧光源是非侵入性的，具有廣泛的臨床應用，包括",
+          "benefits": ["增亮和平衡膚色", "清潔毛孔", "改善細紋", "減少發炎後色素沉著", "減少玫瑰痤瘡和潮紅", "療程時間快"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "彩光通常會導致輕微 結痂。 通常會在5至10天內脫落。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "一般需要 1 - 6 次療程，次數取決於色素斑的類型。 老人斑會有較快速的效果。 通常在僅一次治療後就會見到明顯改善。"
+            }
+          ],
+          "category": 4
+        },
+        {
+          "link": "tca-cross",
+          "name": "三氯乙酸交叉術",
+          "shortDescription": "三氯乙酸交叉術是一種安全並有效治療萎縮性痤瘡瘢痕外貌觀的方法 (冰鑿型疤痕，車箱型疤痕等和滾動型疤痕)。",
+          "what": "三氯乙酸交叉術是一種安全並有效治療萎縮性痤瘡瘢痕外貌觀的方法 (冰鑿型疤痕，車箱型疤痕等和滾動型疤痕) 。 做法是把小量高濃度的三氯乙酸放於瘢痕的凹陷處上進行局部的果酸換膚。 換膚會造成發炎反應，促使膠原蛋白生成並改善或去除疤痕。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/TCA/TCA-01 (1).jpg",
+            "after": "assets/img/treatment/TCA/TCA-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["改善萎縮性痤瘡瘢痕的外貌，包括冰鑿型疤痕，車箱型疤痕等和滾動型疤痕"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "局部發紅，脫皮和結痂。"
+            },
+            {
+              "question": "Q: 術後注意情況",
+              "answer": "術後一星期特別需要使用溫和洗臉液，溫和保濕霜和防曬霜。 術後第二天可以正常化妝。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "第 4 周可以開始看到效果，第 12 周會看到最終效果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "取決於痤瘡瘢痕的嚴重性。 客人通常需要至少3次療程。"
+            }
+          ],
+          "category": 4
+        }
+      ]
+    },
+    {
+      "name": "色素斑",
+      "cLink": "pigmentation",
+      "imgUrl": "assets/img/pigmentation.png",
+      "description": "",
+      "treatments": [
+        {
+          "canonical": "aqua-lifting",
+          "link": "aqua-lifting-6",
+          "name": "水光針",
+          "shortDescription": "水光針是最新的凍齡技術，利用負壓針在皮膚真皮層注入以小分子非交聯的玻尿酸為基底的溶液。它通過用機器為皮膚注射透明質酸以達到皮膚維持水分飽滿的狀態。",
+          "what": "水光針是最新的凍齡技術，利用負壓針在皮膚真皮層注入以小分子非交聯的玻尿酸為基底的溶液。它通過用機器為皮膚注射透明質酸以達到皮膚維持水分飽滿的狀態。我們使用的是醫學美容級別的透明質酸，它的作用在於能夠解決真皮層缺少水分的問題，改善細小皺紋。<br><br>水光針治療可維持數個月到一年。活性成分 : 透明質酸人體組織保持水分最重要的物質就是 「 透明質酸 」，這種黏多醣物質與蛋白質的水合作用讓人體結締組織保持大量水分。皮膚老化過程中人體會減少玻尿酸，使皮膚彈力下降而產生細紋。因此注入玻尿酸可以提升水分保持能力，使皮膚滋潤透亮麗去除皺紋。.",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["美白提亮肌膚", "減淡細紋", "縮小毛孔", "重組肌膚彈性", "刺激骨膠原增生"],
+          "qa": [{
+            "question": "Q: 術後情況",
+            "answer": "大部分的客人會出現輕微泛紅，瘀清，和腫的情況。 一般2-5天會恢復。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "客人會在傷口康復之後見到術後效果。"
+            },
+            {
+              "question": "Q: 需要多少個療程以達到理想效果",
+              "answer": "客人會在第一個療程以後見到效果，效果大概可以維持 4-5 個月左右。一般客人會做三次以上的療程以達到更好更持久的效果。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "chemical-peel",
+          "link": "chemical-peel-6",
+          "name": "化學換膚",
+          "shortDescription": "化學換膚是利用酸性物質對皮膚進行去角質的一種方法來去除大量常見的問題，例如疤痕，黃褐斑和毛孔粗大。 它以去角質的方式來去除皮膚最外成的皮質，加快再生健康和恢復肌膚的過程。 ",
+          "what": "對於想要保持光滑無暇肌膚的人來說，面部換膚是一個不錯的選擇。 化學換膚是利用酸性物質對皮膚進行去角質的一種方法來去除大量常見的問題，例如疤痕，黃褐斑和毛孔粗大。 它以去角質的方式來去除皮膚最外成的皮質，加快再生健康和恢復肌膚的過程。 化學換膚療療程是應用酸在要治療的地方上。 酸的類型和強度是根據皮膚情形而決定。 療程適用于身體任何部位包含臉，頸部，胸口，肩膀，手臂，手部和腳部。",
+          "before": "如今只會進行表面和中等深度的化學換膚，深層的化學換膚已被雷射和其他更現代技術取代了。 在Reviva，我們提供許多不同酸性強度的化學換膚: <ul><li>三氯乙酸換膚 (100% 三氯乙酸)</li><li>乳酸換膚 ( 30% 乳酸)</li> <li>乙醇酸換膚 (20% 乙醇酸)</li> <li>Melanostop peel 色素抑制換膚 (6% 植酸，10%間苯二酚，20% 壬二酸)</li> <li>Jessner peel 混合型果酸 (8%檸檬酸，14%水楊酸，14% 乳酸)</li></ul>",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["令皮膚變得有光澤和水潤亮麗", "能用於水光針 ™ 或玻尿酸填充", "直接注射能增加皮膚保濕度和彈性", "改善眼袋 , 臥蠶的外形", "治療頸部，手術，手部以及痤瘡疤痕的地方", "效果持久"],
+          "qa": [
+            {
+            "question": "Q: 治療期間會發生什麼",
+            "answer": "每次療程會用微針注射玻尿酸保濕成份"
+            },
+            {
+              "question": "Q: 術後情況",
+              "answer": "大部分客人會有 3-5 天的輕微發紅，瘀傷和腫脹。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "康復後即可見效。"
+            },
+            {
+              "question": "Q: 療程效果能維持多久",
+              "answer": "效果維持能高達 6 個月。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "dual-yellow-laser",
+          "link": "dual-yellow-laser-6",
+          "name": "黃光雷射",
+          "shortDescription": "黃光雷射是一種溫和而有效的皮膚保養技術。 可以改善一些皮膚問題包括毛孔粗大，暗瘡，頑固的色素斑，例如：痣，老年斑，雀斑，黃褐斑，蜘蛛狀血管病和玫瑰紅斑等。",
+          "what": "黃光雷射是一種溫和而有效的皮膚保養技術。 可以改善一些皮膚問題包括毛孔粗大，暗瘡，頑固的色素斑，例如：痣，老年斑，雀斑，黃褐斑，蜘蛛狀血管病和玫瑰紅斑等。 不同于一般的鐳射，黃光雷射能釋放兩個不同波長的微小脈衝而非強光束。 利用兩種波長的比例不同進行對皮膚組織，如痣和老年斑，的精準的療程，並有著極少皮膚變色的風險。 黃光雷射作為一個全面性的光療，能用於較大規模的皮膚問題，例如太陽損害和痤瘡。 它所釋放的光源能夠刺激骨膠原增生，説明皮膚再生。 黃光雷射不單單可以溫和刺激骨膠原，",
+          "before": "它可以改善以下皮膚狀況",
+          "slideimg": [{
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "術後除了有 2 天的輕微發熱和泛紅的狀況之外，黃光雷射是不需要恢復期的，客人可以立刻恢復工作和日常生活。",
+          "benefits": ["毛孔粗大", "痤瘡 ™ 痣，老年斑或棕色 / 紅斑", "蜘蛛靜脈", "紅斑痤瘡和潮紅", "黃褐斑", "光療護膚"],
+          "qa": [
+            {
+            "question": "Q: 什麼時候見效",
+            "answer": "每一次療程客人都會見到逐步的改善"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "治療的次數是根據治療的類型以及客人皮膚狀態而定，一般建議做 2-7 個療程。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "fractional-laser",
+          "link": "fractional-laser-2",
+          "name": "分段式飛梳鐳射",
+          "shortDescription": "分段式飛梳鐳射用於皮膚表面換膚。 它有助治療痤瘡疤痕，妊娠紋，黃褐斑，皺紋，皮膚粗糙，毛孔粗大等問題。 能治療同時保護周圍皮膚不受影響，導致有更快的康復時間和最小的副作用。 ",
+          "what": "分段式飛梳鐳射用於皮膚表面換膚。 它有助減少皮膚問題，例如治療痤瘡疤痕，妊娠紋，黃褐斑，皺紋，皮膚粗糙，毛孔粗大等問題。 由如其名，其獨特的能力能治療部分肌膚（微熱區域/ MTZ）同時保護周圍皮膚不受影響，導致有更快的康復時間和最小的副作用。 效果。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/fractional-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/fractional-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/fractional-laser/Fractional-01 (1).jpg",
+            "after": "assets/img/treatment/fractional-laser/Fractional-02 (1).jpg"
+          }
+          ],
+          "benefitText": "分段式飛梳鐳射可以治療以下的皮膚問題",
+          "benefits": ["暗瘡疤痕", "妊娠紋", "色素沉殿，如黃褐斑", " 細紋，皺紋和下垂的皮膚", "粗糙和不光滑的皮膚", "毛孔粗大"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "客人臉部會有短暫的泛紅情況，在客人離開診所的時候臉紅的情況就會退去一大半。 其餘的泛紅並大概維持30-60分鐘左右。 3-6天左右臉部會完全康復，大部分客人會在第2天就能恢復正常生活。"
+            },
+            {
+              "question": "Q: 什麼時候能夠見到效果",
+              "answer": "療程的次數取決於客人的皮膚狀態。 在多數情況下，我們建議客人做2-5個療程，每個療程間隔4-8個禮拜。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "intense-pulse-light",
+          "link": "intense-pulse-light-6",
+          "name": "彩光",
+          "shortDescription": "彩光是一種使用光子嫩膚的鐳射來改善皮膚老化和均勻膚色。 彩光能輸出含有從550nm至1200nm範圍內波長的光源並促進新細胞生長。 該光譜會被黑色素和血紅蛋白吸收，使該其有效地消除色素沉殿和均勻膚色。 ",
+          "what": "彩光是一種使用光子嫩膚的鐳射來改善皮膚老化和均勻膚色。 彩光能輸出含有從550nm至1200nm範圍內波長的光源並促進新細胞生長。 該光譜會被黑色素和血紅蛋白吸收，使該其有效地消除色素沉殿和均勻膚色。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "弧光源是非侵入性的，具有廣泛的臨床應用，包括",
+          "benefits": ["減少色素斑", "縮細毛孔", "痤瘡疤痕去除", "控制痤瘡生長", "減少玫瑰痤瘡和潮紅", "減少紅血絲"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "彩光通常會導致輕微 結痂。 通常會在5至10天內脫落。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "一般需要 1 - 6 次療程，次數取決於色素斑的類型。 老人斑會有較快速的效果。 通常在僅一次治療後就會見到明顯改善。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "laser-toning",
+          "name": "淨膚雷射",
+          "shortDescription": "淨膚雷射是一個常用的療程來去除色素沉澱和均衡膚色。 淨膚雷射已經證明可以減輕和祛除頑固的色素斑，如黃褐斑，同時沒有其他侵略性鐳射和光治療的相關風險。",
+          "what": "淨膚雷射是一個常用的療程來去除色素沉澱和均衡膚色。 淨膚雷射已經證明可以減輕和祛除頑固的色素斑，如黃褐斑，同時沒有其他侵略性鐳射和光治療的相關風險。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/laser-toning/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/laser-toning/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/laser-toning/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/laser-toning/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/laser-toning/Lasertoning 3-01 (1).jpg",
+            "after": "assets/img/treatment/laser-toning/Lasertoning 3-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["祛除色素沉著，如黃褐斑和曬斑", "沒有其他侵略性的光和鐳射治療的風險", "增強皮膚光澤和均衡膚色", "控制痤瘡生長", "無痛"],
+          "qa": [
+            {
+            "question": "Q: 什麼時候見效",
+            "answer": "每次術後結束後便能見到效果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "為了獲得最佳效果，一般通常需要 6 - 8 次療程。 需要維護治療和使用正確的護膚產品以便保持效果。"
+            }
+          ],
+          "category": 2
+        },
+        {
+          "canonical": "laser-genesis",
+          "link": "laser-genesis",
+          "name": "回春鐳射",
+          "shortDescription": "回春鐳射是利用集中的光和熱來刺激上皮真皮層膠原蛋白生成的一種無創的鐳射療程。 回春鐳射能做到收緊皮膚，鐳射脫毛，減少疤痕和血管病變，如櫻桃血管瘤。<br/><br/>",
+          "what": "回春鐳射是利用集中的光和熱來刺激上皮真皮層膠原蛋白生成的一種無創的鐳射療程。 回春鐳射能做到收緊皮膚，鐳射脫毛，減少疤痕和血管病變，如櫻桃血管瘤。 回春鐳射亦能治療微細的臉部血管和紅血絲﹐改善臉部瀰漫性發紅的情況，能有效治療紅斑痤瘡和臉部潮紅。 回春鐳射適用於治療所有皮膚類型 - 甚至曬成褐色的皮膚 。 回春鐳射是一種非燒蝕，安全和舒適的鐳射治療。 <br/><br/>回春鐳射還可用於以下療程:<ul><li>適合所有皮膚類型的鐳射脫毛</li><li>收緊皮膚（見柔絲光提升雷射)</li><li>治療血管病變，如櫻桃血管瘤</li><li>減少疤痕</li></ul>",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/lasergenesis/Lasergenesis Redness-01 (1).jpg",
+            "after": "assets/img/treatment/lasergenesis/Lasergenesis Redness-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["不需要用麻醉藥，治療舒適", "適合所有皮膚類型", "不需要恢復期", "療程時間快"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後幾個小時後皮膚可能有稍微腫脹和微粉紅色。 通常沒有恢復期，可以立即化妝。 和其他鐳射一樣，治療前後請避免暴露於陽光下。"
+            },
+            {
+              "question": "Q: 療程需要多長時間",
+              "answer": "次數將在醫生仔細評估您的皮膚後確定。 一般通常每2-3星期進行一次療程，直到您擭得滿意的效果。"
+            }
+          ],
+          "category": 2
+        },
+        {
+          "link": "q-switch-laser",
+          "name": "釹雅克雷射",
+          "shortDescription": "釹雅克雷射包括HELIOS II 淨膚鐳射和亞歷山大雷射，HELIOS II淨膚鐳射能瞄準真皮色素發色團和黑色素，有效令色素變淡甚至祛除皮膚中不需要的色素。亞歷山大雷射可以治療老年斑，彩色紋身，胎記和其他色素沉著問題。",
+          "what": "在 Reviva, 其中一個釹雅克雷射是 HELIOS II 淨膚鐳射，能瞄準真皮色素發色團和黑色素，有效令色素變淡甚至祛除皮膚中不需要的色素。 HELIOS II具有1064nm的特定紅外波長，其安全且非侵入性地滲透和刺激真皮組織。 從而重組膠原蛋白，是保持美麗皮膚重要關鍵<br/><br/>另一個釹雅克雷射是亞歷山大雷射，此雷射產生紅外線 755nm 光的波長。 鐳射的高能量被轉換成熱量。 熱量會在目標皮層區進行光熱分解。 亞歷山大雷射可以治療老年斑，彩色紋身，胎記和其他色素沉著問題。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/q-swtich-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/q-swtich-laser/Untitled-1-02.jpg"
+          },{
+            "before": "assets/img/treatment/q-swtich-laser/Q-Switch-01 (1).jpg",
+            "after": "assets/img/treatment/q-swtich-laser/Q-Switch-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": [" 較少疼痛感", "較少副作用", "恢復時間短", "皮膚暴露於雷射光束的時間較短，能減少對正常細胞的損害"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後將會發紅。 這將會在約3 - 5天內消退。 可能會結痂，通常在7 - 10天內脫落。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "完全的效果會在 4 -6 週後觀察到。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "通常需要平均 1 - 3 次治療。 療程次數取決於色素沉著的類型，由醫生決定。"
+            }
+          ],
+          "category": 2
+        }
+      ]
+    },
+    {
+      "name": "緊緻提升",
+      "cLink": "lifting-tightening",
+      "imgUrl": "assets/img/lifting_tightening.png",
+      "description": "",
+      "treatments": [
+        {
+          "canonical": "dermal-filler",
+          "link": "dermal-filler-7",
+          "name": "玻尿酸填充",
+          "shortDescription": "玻尿酸填充是一種通過對皮膚深層注射波尿酸以達到臉型飽滿，改善輪廓的療程。 在Reviva，我們只使用天然的透明質酸填充，包括喬雅登，瑞藍，艾瑪芙和玻麗朗。",
+          "what": "玻尿酸填充是一種通過對皮膚深層注射波尿酸以達到臉型飽滿，改善輪廓的療程。 在Reviva，我們只使用天然的透明質酸填充，包括喬雅登，瑞藍，艾瑪芙和玻麗朗。 由於玻尿酸是人體本身存在的物質，填滿效果非常自然。 填充是來自非動物的玻尿酸，所以這意味著存在非常小風險的過敏反應和零機率的疾病轉移情怳。<br><br>透明質酸是填充中的活性成分。 透明質酸 (HA) 也稱為玻尿酸，足夠玻尿酸的皮膚會更年輕。 玻尿酸能結合和儲存水分子，是令皮膚保濕，光滑和有彈性的主要成分之一。 隨著年齡增長，我們的身體逐漸減少HA的生產，導致了無可避免的老化現象，例如皮膚乾燥，變薄和出現皺紋。 注射玻尿酸時便能逆轉這些現象。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/dermal-filler/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-3-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-5-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-5-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-6-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-6-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-7-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-7-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dermal-filler/Untitled-8-01.jpg",
+            "after": "assets/img/treatment/dermal-filler/Untitled-8-02.jpg"
+          }
+          ],
+          "benefitText": "玻尿酸填充能夠提供自然而持久的效果，可以改善以下部位的臉部輪廓",
+          "benefits": ["額頭", "太陽穴", "眉骨", "鼻子", "眼下", "臉頰", "笑紋", "嘴唇", "下巴", "輪廓線", "下頜"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後會出現泛紅，輕微腫脹，瘀青和疼痛的現象，通常以上現象會在 72 小時內消失。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "注射後客人會立刻見到效果"
+            },
+            {
+              "question": "Q: 效果可以維持多久",
+              "answer": "波尿酸填充大概可以維持 6 - 9 個月，甚至更久。 填充能維持的時間取決于不同的皮膚類型，注射的位置和注射分量。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "duet-radio-frequency",
+          "link": "duet-radio-frequency",
+          "name": "水滴電波",
+          "shortDescription": "水滴電波是利用非侵入性的鐳射改善來皮膚問題。用於皮膚表面換膚和收緊和重塑深層真皮組織。<br/><br/>",
+          "before": "水滴電波是利用非侵入性的鐳射改善來皮膚問題。 水滴電波系統提供2種聚焦先進的射頻技術 - 分段式和熱能量的電波射頻。 分段式電波用於皮膚表面換膚，熱能量電波用於收緊和重塑深層真皮組織。 這兩種模式可以組合使用，為客人提供最佳效果。 ",
+          "slideimg": [{
+            "before": "assets/img/treatment/Duet-RF/Duet RF 2-01.jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF 2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 1-01 (1).jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 1-02 (1).jpg"
+          },
+          {
+            "before": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 2-01 (1).jpg",
+            "after": "assets/img/treatment/Duet-RF/Duet RF Acne Scar 2-02 (1).jpg"
+          }
+          ],
+          "benefitText": "能以下皮膚問題",
+          "benefits": ["緊緻提升", " 改善細紋和皺紋", "疤痕", "痤瘡 ", "毛孔", "皮膚質地", "均衡膚色", "提升輪廓線"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後會有輕微發紅和和腫脹。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "皮膚將在治療後 6 至 8 天內逐漸 看到改善。"
+            },
+            {
+              "question": "Q: 效果可以維持多久",
+              "answer": "一般客人只需要一次療程。 在一年時間內，皮膚會不停生產新鮮膠原蛋白。 客人可以每年做一次療程去維持效果。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "micro-needling-radio-frequency",
+          "link": "micro-needling-radio-frequency",
+          "name": "電波微針",
+          "shortDescription": "電波微針利用分段式電波微針用於治療痤瘡疤痕，毛孔粗大 , 下垂皮膚和妊娠紋。 療程中每一個微針像電極般在整個真皮中發出射頻能量。 過程中產生的熱能量刺激膠原蛋白生成，以致收緊皮膚。",
+          "what": "電波微針利用分段式電波微針用於治療痤瘡疤痕，毛孔粗大 , 下垂皮膚和妊娠紋。 療程中每一個微針像電極般在整個真皮中發出射頻能量。 過程中產生的熱能量刺激膠原蛋白生成，以致收緊皮膚。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/Intracel/Intracel 1-01 (1).jpg",
+            "after": "assets/img/treatment/Intracel/Intracel 1-02 (1).jpg"
+          },
+          {
+            "before": "assets/img/treatment/Intracel/Intracel 2-01 (1).jpg",
+            "after": "assets/img/treatment/Intracel/Intracel 2-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["收細毛孔", "改善痤瘡疤痕", "收緊下垂皮膚", "減少細紋", "改善妊娠紋"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "電波微針是安全，並且只需要極少的恢復期，使其受到不同皮膚類型的客人歡迎。 皮膚可能會暫時發紅或輕度腫脹。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "恢復期後幾天內能見到皮膚質地改善，並在 2 - 6 個月後會看到皮膚收緊效果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "一般來說﹐平均需要 3 次治療。 根據您的情況而定, 可能需要進一步治療來維持效果。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "neuromodulator",
+          "link": "neuromodulator-7",
+          "name": "肉毒桿菌",
+          "shortDescription": "肉毒桿菌是注射到肌肉中，阻斷對肌肉的神經衝動，減少由肌肉運動造成的細紋和皺紋。<br><br>",
+          "what": "肉毒桿菌是改變神經脈衝傳播的物質。 在醫學美容中會以保妥適®和麗舒妥的形式常用到，用於暫時去除中度至嚴重的細紋和皺紋。 隨著年齡增長膠原蛋白會分解，導致細紋和皺紋的形成。 紋和皺紋也有可能是由於肌肉活動而出現。 <br><br>肉毒桿菌可以直接注射到肌肉中，阻斷對肌肉的神經衝動，減少由肌肉運動造成的細紋和皺紋。 肉毒桿菌注射療必須由獲得批准注射的執照醫生或醫療專業人員執行。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/neuromodulator/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-3-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["療程時間快和持久，快見的效果", "自然的效果 - 未經治療的面部肌肉會活動正常和自然。 客人可自由顯現面部表情，如微笑", "肉毒桿菌可以幫助暫時放鬆咬肌和小腿肌肉，以塑造瘦身效果", "暫時性 預防在以下地方造成細紋和皺紋, 眉毛, 前額, 眼周圍, 嘴周圍, 頸部, 下頜"],
+          "qa": [
+            {
+              "question": "Q: 術後情況",
+              "answer": "不需要恢復時間，您將在幾天內看到效果，效果可以持續長達 4 個月。 麗舒妥 注射後，最常見的副作用是頭痛和注射部位疼痛，但並不常見。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "有些客人在短短 24 小時內就會看到結果。 除皺效果會在3 - 5天后看到。 瘦面或瘦小腿效果將在2 - 4週內看到。"
+            },
+            {
+              "question": "Q: 如何保持效果",
+              "answer": "大多數客人需要在 12 週後重複療程。 不建議在90天內重複進行Dysport注射。 視乎個人需要和情況，療程的頻率由醫生決定。 客人應避免吸煙和暴露皮膚在太陽的紫外線中，預防減少新膠原蛋白的產生和破壞現有的膠原蛋白。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "sculptra",
+          "link": "sculptra-7",
+          "name": "舒顏萃",
+          "shortDescription": "舒顏萃又名童顏針，是一種進階的皮膚填充物，能竹讓你的臉重新塑造回到年輕時的豐滿。 不像其他普通的玻尿酸填充，舒顏萃促使您皮膚增加膠原蛋白的生產，來取替隨著年齡漸大流失的膠原蛋白。",
+          "what": "舒顏萃又名童顏針，是一種進階的皮膚填充物，能竹讓你的臉重新塑造回到年輕時的豐滿。 不像其他普通的玻尿酸填充，舒顏萃促使您皮膚增加膠原蛋白的生產，來取替隨著年齡漸大流失的膠原蛋白。 舒顏萃能在以下部位填平凹陷，缺少豐滿的地方，改善皺紋和臉部線條: 法令紋,木偶線,太陽穴,臉頰,疤痕,輪廓線,下巴",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["舒顏萃是一種全天然聚左旋乳酸", "刺激膠原蛋白生成", "是生物相容的（不傷害身體），最終會被身體安全地被完全代謝", "自然外觀", "療程後有長達 2 年的持久效果"],
+          "qa": [
+            {
+            "question": "Q: 注射安全嗎",
+            "answer": "非常安全。 由於舒顏萃中沒有人體或動物成分，因此不需要做過敏測試。 它是美國食品藥物管理局批准的成份，自1999年以來一直在全球使用。 舒顏萃由聚左旋乳酸製成，在很多年前已被用於溶解縫合線跡。"
+            },
+            {
+              "question": "Q: 術後情況",
+              "answer": "注射部位會有暫時性的疼痛，發紅，瘀青，壓痛，腫脹感，瘙癢，出血和澄現塊狀。 有些客人喜歡這些暫時性的腫脹，因為能立即令臉部變得更豐滿。"
+            },
+            {
+              "question": "Q: 治療後可以期待什麼",
+              "answer": "幾天后腫脹感將會消失。 當皮膚開始生成膠原蛋白的時候，您會開始看到自然豐滿和再次緊緻的效果。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "注射舒顏萃後會逐漸地改善皮膚的外觀。 因此，皺紋和凹陷會慢慢的減少，幾個月月後出現最佳結果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "大多數客人需要 2 - 4 次療程，療程間隔通常為 4 - 6 週。"
+            },
+            {
+              "question": "Q: 效果能持續多久",
+              "answer": "舒顏萃的效果能持續長達兩年。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "tripollar",
+          "link": "tripollar",
+          "name": "TriPollar®",
+          "shortDescription": "TriPollar® 能提供皮膚收緊，塑造身體形態，減少脂肪團和妊娠紋的效果。<br><br><br/>",
+          "what": "TriPollar® 能提供皮膚收緊，塑造身體形態和減少脂肪團的效果。 TriPollar®是一個無痛的療程。 熱能量被傳遞到皮膚表面和皮下脂肪層。 通過加熱脂肪細胞，Tripollar®收縮脂肪細胞和加速脂肪代謝。 迫使脂肪酸被推出脂肪細胞，減少身體脂肪。 另一方面，Tripollar®發出的熱能量收縮皮膚中的膠原蛋白纖維，能達到提升和收緊的結果。 TriPollar®也被證明可有效減少妊娠紋。 若想要有效和達到長期效果，客人需要按照建議的時間段內做療程。 ",
+          "before": "",
+          "slideimg": [
+            {
+              "before": "assets/img/treatment/tripollar/Untitled-1-01.jpg",
+              "after": "assets/img/treatment/tripollar/Untitled-1-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/tripollar/Untitled-2-01.jpg",
+              "after": "assets/img/treatment/tripollar/Untitled-2-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/tripollar/Untitled-3-01.jpg",
+              "after": "assets/img/treatment/tripollar/Untitled-3-02.jpg"
+            },
+            {
+              "before": "assets/img/treatment/tripollar/Untitled-4-01.jpg",
+              "after": "assets/img/treatment/tripollar/Untitled-4-02.jpg"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["減少面部皺紋", "改善皮膚鬆弛", "減少腰間贅肉", "自然外觀", "改善妊娠紋的外觀", "減少脂肪團", "效果馬上見效，最佳效果 需要數次療程"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "客人很少感覺到不適。由於沒有熱能量產生在皮膚上，所以沒有灼燒的風險，患者亦感覺不到甚至完全沒有不舒服。 治療後，皮膚可能會發紅，但無需冷卻時間。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "大多數客人在第一次療程後便能馬上看到輕微的改善。 但是為了獲得長期的效果，您需要接受幾次療程。 同時要保持健康飲食和運動以便保持結果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "客人通常需要 5-8 次治療。 按照客人需要，治療的頻率由醫生決定。"
+            }
+          ],
+          "category": 3
+        },
+        {
+          "link": "yag-lift-laser",
+          "name": "柔絲光提升雷射",
+          "shortDescription": "柔絲光提升雷射是通過將熱能量傳遞到真皮的最深層來收緊皮膚，改善皮膚的細紋和皺紋。",
+          "what": "柔絲光提升雷射是通過將熱能量傳遞到真皮的最深層來收緊皮膚，改善皮膚的細紋和皺紋。 在療程中, 皮膚中的水份通過吸收鐳射發射的光來提升溫度。 導致表皮下產生熱損傷，引起成纖維細胞的腫脹並增加膠原蛋白和彈性蛋白在上層真皮的生產。 導致更緊密，更平滑的皮膚。",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["改善下垂或鬆弛皮膚", "減少細紋和皺紋", "適合所有皮膚類型"],
+          "qa": [
+            {
+            "question": "Q: 治療期間會發生什麼",
+            "answer": "術前可以使用表層麻藥，治療期間會用冰敷減輕皮膚不適。"
+            },
+            {
+              "question": "Q: 術後情況",
+              "answer": "術後 1-3 天會有輕度發紅和腫脹。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "術後幾天內會看見效果。 最佳的結果會在治療後4 - 6週看到。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "最初建議每 4 週做一次療程，共做 3 次療程。 隨後需要每6個月治療一次來維持效果。"
+            }
+          ],
+          "category": 2
+        }
+      ]
+    },
+    {
+      "name": "纖體瘦身",
+      "cLink": "slimming-contouring",
+      "imgUrl": "assets/img/slimming_contouring.png",
+      "description": "",
+      "treatments": [
+        {
+          "canonical": "belkyra",
+          "link": "belkyra",
+          "name": "Belkyra™ 雙下巴溶脂針",
+          "shortDescription": "Belkyra™ 是用於消除多餘頦下脂肪（雙下巴）的療程。 這是加拿大第一個也是唯一一個認可的非手術療程去改善雙下巴。 它通過在下巴位置注射去氧膽酸以達到改善雙下巴的形態。",
+          "what": "Belkyra ™ 是用於消除多餘頦下脂肪（雙下巴）的療程。 這是加拿大第一個也是唯一一個認可的非手術療程去改善雙下巴。 它通過在下巴位置注射去氧膽酸以達到改善雙下巴的形態。 去氧膽酸是一種能夠分解以及吸收脂肪的物質，以達到減少脂肪的效果。",
+          "before": "在我們身體中，去氧膽酸是兩種膽汁酸之一。 它的作用是乳化脂肪使指肪在腸子容易溶解。 當去氧膽酸通過皮膚注射時，它會產生同樣作用來去除不需要的指肪。 ",
+          "slideimg": [{
+            "before": "assets/img/treatment/belkyra/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/belkyra/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/belkyra/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/belkyra/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/belkyra/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/belkyra/Untitled-3-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["注射過程簡單快速 (15-20 分鐘)", "無需手術", "效果永久，一旦客人滿意效果，不需重複再做", "下巴的脂肪會明顯減少，改善下巴的輪廓"],
+          "qa": [{
+            "question": "Q: 術後情況",
+            "answer": "注射療程後有可能會出現疼痛和瘀青的情況。 術後一個禮拜客人應該進食較軟的食物。 療程過後一切活動能如常進行。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "客人在每一個療程之後會見到外觀會逐漸改善，通常在 2-4 個療程之後改善會比較明顯。 最多不可超過6個,療程。"
+            }
+          ],
+          "category": 1
+        },
+        {
+          "link": "cryolipolysis",
+          "name": "冷凍溶脂",
+          "shortDescription": "冷凍溶脂能有效減少腹部，大腿，側腰和上臂等部位的倔固脂肪。 冷凍溶脂機是一部非侵入性的機器，利用吸力把皮膚組織吸進溶脂儀內，通過傳遞冷溫度到皮膚，以達到溶脂的效果。",
+          "what": "冷凍溶脂能有效減少腹部，大腿，側腰和上臂等部位的倔固脂肪。 冷凍溶脂機是一部非侵入性的機器，利用吸力把皮膚組織吸進溶脂儀內，通過傳遞冷溫度到皮膚，以達到溶脂的效果。 冷凍溶脂的原理是使皮下組織冷卻，促進脂肪細胞提前死亡，並通過新陳代謝排泄出體外。 有別于其他的減重方法，它是一個局部令脂肪永久減少，而達到瘦身效果的療程。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/cryolipolysis/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/cryolipolysis/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/cryolipolysis/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/cryolipolysis/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/cryolipolysis/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/cryolipolysis/Untitled-3-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["局部的減肥和塑修身形", "安全非侵入性", "永久性的局部脂肪減少，需配合健康均衡的飲食和生活方式"],
+          "qa": [{
+            "question": "Q: 術後情況",
+            "answer": "沒有 恢復期。 療程後您可以立即回復您的正常活動。 術後會有暫時性發紅，類似做完運動後的酸痛感覺。 有些客人會在療程後數天經歷輕微疼痛和僵硬的狀況。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "大概術後 6 星期會見到效果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "一般需要 2-3 療程。"
+            }
+          ],
+          "category": 4
+        },
+        {
+          "canonical": "neuromodulator",
+          "link": "neuromodulator-8",
+          "name": "肉毒桿菌",
+          "shortDescription": "肉毒桿菌可以直接注射到肌肉中，阻斷對肌肉的神經衝動，暫時減少由肌肉運動造成的細紋和皺紋。",
+          "what": "肉毒桿菌是改變神經脈衝傳播的物質。 在醫學美容中會以保妥適®和麗舒妥的形式常用到，用於暫時去除中度至嚴重的細紋和皺紋。 隨著年齡增長膠原蛋白會分解，導致細紋和皺紋的形成。 紋和皺紋也有可能是由於肌肉活動而出現。 <br><br>肉毒桿菌可以直接注射到肌肉中，阻斷對肌肉的神經衝動，減少由肌肉運動造成的細紋和皺紋。 肉毒桿菌注射療必須由獲得批准注射的執照醫生或醫療專業人員執行。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/neuromodulator/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/neuromodulator/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/neuromodulator/Untitled-3-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["療程時間快和持久，快見的效果", "自然的效果 - 未經治療的面部肌肉會活動正常和自然。 客人可自由顯現面部表情，如微笑", "肉毒桿菌可以幫助暫時放鬆咬肌和小腿肌肉，以塑造瘦身效果", "暫時性 預防在以下地方造成細紋和皺紋, 眉毛, 前額, 眼周圍, 嘴周圍, 頸部, 下頜"],
+          "qa": [
+            {
+              "question": "Q: 術後情況",
+              "answer": "不需要恢復時間，您將在幾天內看到效果，效果可以持續長達 4 個月。 麗舒妥 注射後，最常見的副作用是頭痛和注射部位疼痛，但並不常見。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "有些客人在短短 24 小時內就會看到結果。 除皺效果會在3 - 5天后看到。 瘦面或瘦小腿效果將在2 - 4週內看到。"
+            },
+            {
+              "question": "Q: 如何保持效果",
+              "answer": "大多數客人需要在 12 週後重複療程。 不建議在90天內重複進行Dysport注射。 視乎個人需要和情況，療程的頻率由醫生決定。 客人應避免吸煙和暴露皮膚在太陽的紫外線中，預防減少新膠原蛋白的產生和破壞現有的膠原蛋白。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "tripollar",
+          "link": "tripolla-8",
+          "name": "TriPollar®",
+          "shortDescription": "TriPollar® 能提供皮膚收緊，塑造身體形態，減少脂肪團和妊娠紋的效果。<br/>",
+          "what": "TriPollar® 能提供皮膚收緊，塑造身體形態和減少脂肪團的效果。 TriPollar®是一個無痛的療程。 熱能量被傳遞到皮膚表面和皮下脂肪層。 通過加熱脂肪細胞，Tripollar®收縮脂肪細胞和加速脂肪代謝。 迫使脂肪酸被推出脂肪細胞，減少身體脂肪。 另一方面，Tripollar®發出的熱能量收縮皮膚中的膠原蛋白纖維，能達到提升和收緊的結果。 TriPollar®也被證明可有效減少妊娠紋。 若想要有效和達到長期效果，客人需要按照建議的時間段內做療程。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/tripollar/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/tripollar/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/tripollar/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/tripollar/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/tripollar/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/tripollar/Untitled-3-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/tripollar/Untitled-4-01.jpg",
+            "after": "assets/img/treatment/tripollar/Untitled-4-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["減少面部皺紋", "改善皮膚鬆弛", "減少腰間贅肉", "自然外觀", "改善妊娠紋的外觀", "減少脂肪團", "效果馬上見效，最佳效果 需要數次療程"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "客人很少感覺到不適。由於沒有熱能量產生在皮膚上，所以沒有灼燒的風險，患者亦感覺不到甚至完全沒有不舒服。 治療後，皮膚可能會發紅，但無需冷卻時間。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "大多數客人在第一次療程後便能馬上看到輕微的改善。 但是為了獲得長期的效果，您需要接受幾次療程。 同時要保持健康飲食和運動以便保持結果。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "客人通常需要 5-8 次治療。 按照客人需要，治療的頻率由醫生決定。"
+            }
+          ],
+          "category": 0
+        }         
+      ]
+    },
+    {
+      "name": "靜脈和紅斑痤瘡",
+      "cLink": "veins-rosacea",
+      "imgUrl": "assets/img/veins_rosacea.png",
+      "description": "",
+      "treatments": [
+        {
+          "canonical": "dual-yellow-laser",
+          "link": "dual-yellow-laser-9",
+          "name": "黃光雷射",
+          "shortDescription": "黃光雷射是一種溫和而有效的皮膚保養技術。 可以改善一些皮膚問題包括毛孔粗大，暗瘡，頑固的色素斑，例如：痣，老年斑，雀斑，黃褐斑，蜘蛛狀血管病和玫瑰紅斑等。",
+          "what": "黃光雷射是一種溫和而有效的皮膚保養技術。 可以改善一些皮膚問題包括毛孔粗大，暗瘡，頑固的色素斑，例如：痣，老年斑，雀斑，黃褐斑，蜘蛛狀血管病和玫瑰紅斑等。 不同于一般的鐳射，黃光雷射能釋放兩個不同波長的微小脈衝而非強光束。 利用兩種波長的比例不同進行對皮膚組織，如痣和老年斑，的精準的療程，並有著極少皮膚變色的風險。 黃光雷射作為一個全面性的光療，能用於較大規模的皮膚問題，例如太陽損害和痤瘡。 它所釋放的光源能夠刺激骨膠原增生，説明皮膚再生。 黃光雷射不單單可以溫和刺激骨膠原，",
+          "before": "它可以改善以下皮膚狀況",
+          "slideimg": [{
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/dual-yellow-laser/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/dual-yellow-laser/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "術後除了有 2 天的輕微發熱和泛紅的狀況之外，黃光雷射是不需要恢復期的，客人可以立刻恢復工作和日常生活。",
+          "benefits": ["毛孔粗大", "痤瘡 ™ 痣，老年斑或棕色 / 紅斑", "蜘蛛靜脈", "紅斑痤瘡和潮紅", "黃褐斑", "光療護膚"],
+          "qa": [
+            {
+            "question": "Q: 什麼時候見效",
+            "answer": "每一次療程客人都會見到逐步的改善"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "治療的次數是根據治療的類型以及客人皮膚狀態而定，一般建議做 2-7 個療程。"
+            }
+          ],
+          "category": 4
+        },
+        {
+          "canonical": "intense-pulse-light",
+          "link": "intense-pulse-light-9",
+          "name": "彩光",
+          "shortDescription": "彩光是一種使用光子嫩膚的鐳射來改善皮膚老化和均勻膚色。 彩光能輸出含有從550nm至1200nm範圍內波長的光源並促進新細胞生長。 該光譜會被黑色素和血紅蛋白吸收，使該其有效地消除色素沉殿和均勻膚色。 ",
+          "what": "彩光是一種使用光子嫩膚的鐳射來改善皮膚老化和均勻膚色。 彩光能輸出含有從550nm至1200nm範圍內波長的光源並促進新細胞生長。 該光譜會被黑色素和血紅蛋白吸收，使該其有效地消除色素沉殿和均勻膚色。 ",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/intense-pulse-Light/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/intense-pulse-Light/Untitled-2-02.jpg"
+          }
+          ],
+          "benefitText": "弧光源是非侵入性的，具有廣泛的臨床應用，包括",
+          "benefits": ["減少色素斑", "縮細毛孔", "痤瘡疤痕去除", "控制痤瘡生長", "減少玫瑰痤瘡和潮紅", "減少紅血絲"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "彩光通常會導致輕微 結痂。 通常會在5至10天內脫落。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "一般需要 1 - 6 次療程，次數取決於色素斑的類型。 老人斑會有較快速的效果。 通常在僅一次治療後就會見到明顯改善。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "canonical": "laser-genesis",
+          "link": "laser-genesis-9",
+          "name": "回春鐳射",
+          "shortDescription": "回春鐳射是利用集中的光和熱來刺激上皮真皮層膠原蛋白生成的一種無創的鐳射療程。 回春鐳射能做到收緊皮膚，鐳射脫毛，減少疤痕和血管病變，如櫻桃血管瘤。",
+          "what": "回春鐳射是利用集中的光和熱來刺激上皮真皮層膠原蛋白生成的一種無創的鐳射療程。 回春鐳射能做到收緊皮膚，鐳射脫毛，減少疤痕和血管病變，如櫻桃血管瘤。 回春鐳射亦能治療微細的臉部血管和紅血絲﹐改善臉部瀰漫性發紅的情況，能有效治療紅斑痤瘡和臉部潮紅。 回春鐳射適用於治療所有皮膚類型 - 甚至曬成褐色的皮膚 。 回春鐳射是一種非燒蝕，安全和舒適的鐳射治療。 <br/><br/>回春鐳射還可用於以下療程:<ul><li>適合所有皮膚類型的鐳射脫毛</li><li>收緊皮膚（見柔絲光提升雷射)</li><li>治療血管病變，如櫻桃血管瘤</li><li>減少疤痕</li></ul>",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["不需要用麻醉藥，治療舒適", "適合所有皮膚類型", "不需要恢復期", "療程時間快"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後幾個小時後皮膚可能有稍微腫脹和微粉紅色。 通常沒有恢復期，可以立即化妝。 和其他鐳射一樣，治療前後請避免暴露於陽光下。"
+            },
+            {
+              "question": "Q: 療程需要多長時間",
+              "answer": "次數將在醫生仔細評估您的皮膚後確定。 一般通常每2-3星期進行一次療程，直到您擭得滿意的效果。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "spider-varicose-veins",
+          "name": "靜脈曲張",
+          "shortDescription": "靜脈曲張療法是將硬化劑注射到明顯或突起的靜脈中來消除它們。過程中，血管的內壁受到破壞接著形成血塊。 當身體的循環系統再次吸收血管中形成的血塊，舒緩了血管或靜脈中的張力，而導致靜脈曲張的消失。",
+          "what": "蛛狀靜脈是位於皮膚表面的擴張靜脈，蛛狀靜脈可能出現在腿部，手臂和臉上。 一般來說， 蛛狀靜脈不會影響日常生活也不會有疼痛感。 但大多數會帶來對客人外貌上的滋擾。<br/><br/> 靜脈曲張是擴大的扭曲了的靜脈。 靜脈曲張通常出現在腿部。 它們的出現可能會影響患者的日常活動，長時間的行走或站立可能會更容易導致靜脈曲張。 不正確的站姿，肥胖，懷孕，更年期和隨著年紀漸長也可能導致靜脈曲張形成。<br/><br/> 靜脈曲張療法是將硬化劑注射到明顯或突起的靜脈中來消除它們。 我們是使用獲得加拿大衛生部批准用於靜脈治療藥物: Sclerodex和十四烷基硫酸鈉作為硬化劑來治療靜脈。 在注射過程中，血管的內壁受到破壞接著形成血塊。 當身體的循環系統再次吸收血管中形成的血塊，舒緩了血管或靜脈中的張力，而導致靜脈曲張的消失。 硬化劑治療比鐳射治療更適合大靜脈，因為鐳射治療靜脈有機會導致更多色素沉著和疼痛感。 但鐳射可用於對硬化劑治療沒反應的靜脈或小血管。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/spider-vein/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/spider-vein/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/spider-vein/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/spider-vein/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/spider-vein/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/spider-vein/Untitled-3-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/spider-vein/Untitled-4-01.jpg",
+            "after": "assets/img/treatment/spider-vein/Untitled-4-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["改善各種類型的靜脈疾病，如靜脈曲張， 蛛狀靜脈和網狀靜脈", "緩解疼痛，腫脹和痙攣。", "痛苦感較少相比起 鐳射治療", "色素沉著過度的機率較少相比起鐳射治療"],
+          "qa": [
+            {
+            "question": "Q: 什麼時候見效",
+            "answer": "效果可在一個月後看見。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": " 一般需要 3 - 5 次療程。"
+            }
+          ],
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "其他項目",
+      "cLink": "other-concerns",
+      "imgUrl": "assets/img/other_concerns.png",
+      "description": "",
+      "treatments": [
+        {
+          "link": "excessive-sweating",
+          "name": "腋下過度出汗",
+          "shortDescription": "治療多汗症其中的一個辦法是注射肉毒桿菌保妥適®, 通過阻斷刺激汗腺的神經信號來導致減少出汗量，達到更乾燥，更乾淨和更自信的目的。<br><br>",
+          "what": "保妥適 ® 如何改善出汗問題。 人體產生汗水以調節身體溫度。 當身體產生的汗水比自身所需要的更多﹐便為多汗症。 但大量的腋下汗漬會造成很多令人尷尬和非常不方便時候。 腋窩多汗症可令患者日常生活失去自信，從而破壞客人的整體生活質量。 治療多汗症其中的一個辦法是注射肉毒桿菌保妥適®, 通過阻斷刺激汗腺的神經信號來導致減少出汗量，達到更乾燥，更乾淨和更自信的目的。 ",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["減少腋下排汗量", "有助控制汗味"],
+          "qa": [
+            {
+            "question": "Q: 什麼時候見效",
+            "answer": "可以在大約 5 天內開始看到改善，並且可以在治療後持續看到效果。"
+            },
+            {
+              "question": "Q: 效果能維持多久",
+              "answer": "肉毒桿菌素 能減少腋下排汗量，效果維持平均 7 至 8 個月左右。 在某些情況下，效果可持續長達1年。"
+            }
+          ],
+          "category": 4
+        },
+        {
+          "link": "excision",
+          "name": "切割手術",
+          "shortDescription": "切割手術是對表面皮膚組織進行切除。 表面皮膚組織包括痣，胎記，美容痕跡以及皮下腫塊和腫塊。 比起直接切掉皮膚組織，切割手術通常是更好的選擇。",
+          "what": "切割手術是對表面皮膚組織進行切除。 表面皮膚組織包括痣，胎記，美容痕跡以及皮下腫塊和腫塊。 比起直接切掉皮膚組織，切割手術通常是更好的選擇。 例如﹐比起單單切斷痣的表層，切割手術能祛除整顆痣。 這不會留下任何色素細胞，導致痣再次生長的機會很低，就算會也需要用很長的時間。<br/><br/>切除是表面皮膚病變的完全提取。 我們消費的皮膚病變類型包括痣（痣，胎記，美容痕跡）以及皮下腫塊和腫塊。 消除通常是一個更好的選擇相比，簡單地切斷病變。 例如，在擺脫痣的情況下，除去整個痣，而不僅僅是頭部。 沒有色素細胞留下痣發育的機會很小，如果這樣，它不會發生很長時間。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/excision/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/excision/Untitled-1-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["祛除整顆痣或其他皮膚組織", "痣或其他皮膚組織重長的機率非常低"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "需要用到縫合線來幫助切口癒合。 一旦皮膚癒合就可以去除縫合線。"
+            },
+            {
+              "question": "Q: 康復過程如何",
+              "answer": "康復時間可持續長達幾個月，具體取決於切口的大小和個人皮膚的康復的速度和過程。 切口的疤痕會通常會在幾個月內從可見的情況變成完全癒合。"
+            }
+          ],
+          "category": 4
+        },
+        {
+          "link": "laser-hair-removal",
+          "name": "鐳射脫毛",
+          "shortDescription": "我們使用 Cheveux 二極管鐳射儀用來進行鐳射脫毛，它比普通器件有更高的功率和重複的脈衝來處理毛髮。 這能碓保不會有錯過的點，並確保了過程中的舒適，安全和有效性。",
+          "what": "在Reviva ，我們使用 Cheveux 二極管鐳射儀用來進行鐳射脫毛，它比普通器件有更高的功率和重複的脈衝來處理毛髮。 這能碓保不會有錯過的點，並確保了過程中的舒適，安全和有效性。 <br/><br/>Cheveux二極管的波長（ 810 nm ）能有效的永久性祛除毛髮。 其獨特的「平滑流」技術允許光能量能被逐漸地和直接地吸收進毛囊的黑色素裡，過程中熱能量破壞了毛囊，達到永久脫毛的效果。 <br/><br/>Cheveux 還具有標準處理模式 (HR) ，能有效地治療面部和其他細小的區域，如手指和腳趾。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/laser-hair-removal/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/laser-hair-removal/Untitled-1-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["鐳射面積大﹐療程過程快", "\" 平滑流 \"技術提供高達 10 / 秒的重複率，能快速處理大面積範圍", "適合擁有色素沉殿和較深皮膚顏色的客人"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "治療範圍可能會有暫時發紅。 您可以立即返回到正常活動。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "一般需要 3 - 5 次療程。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "一般需要 5 - 8 個療程來確保所有面積都治療到。 療程全逝完成後也需要每6個月進行1次療程來維持效果。"
+            }
+          ],
+          "category": 2
+        },
+        {
+          "link": "laser-mole-removal",
+          "name": "鐳射除痣",
+          "shortDescription": "除痣的其中一種方法是使用鉺雅克鐳射。 療程中，鐳射會被引導到痣的色素中並吸收皮膚的水含量。 通過蒸發痣的色素細胞來破壞他們，同時不會對附近的皮膚造成損害。",
+          "what": "除痣的其中一種方法是使用鉺雅克鐳射。 療程中，鐳射會被引導到痣的色素中並吸收皮膚的水含量。 通過蒸發痣的色素細胞來破壞他們，同時不會對附近的皮膚造成損害。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/laser-mole-removal/Laser Mole 1-01 (1).jpg",
+            "after": "assets/img/treatment/laser-mole-removal/Laser Mole 1-02 (1).jpg"
+          },
+          {
+            "before": "assets/img/treatment/laser-mole-removal/Laser Mole 2-01 (1).jpg",
+            "after": "assets/img/treatment/laser-mole-removal/Laser Mole 2-02 (1).jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["有效地去除痣，極小的恢復期和疼痛感。"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "取決於傷口的大小和傷口護理情況。 大概7-14天的傷口癒合期。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "術後癒合期結束後能見到改善。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "在大多數情況下，鐳射除痣所需的平均次數約為 3 次。 所需次數取決於痣的大小和深度。"
+            }
+          ],
+          "category": 0
+        },
+        {
+          "link": "laser-tattoo-removal",
+          "name": "鐳射除紋身",
+          "shortDescription": "鐳射除紋身是以最安全，並有效的選擇性地移除紋身，並對周圍皮膚的破壞減到最小。 不同顏色的紋身會用不同波長的鐳射機器來去除。",
+          "what": "鐳射 除紋身是以最安全，並有效的選擇性地移除紋身，並對周圍皮膚的破壞減到最小。 不同顏色的紋身會用不同波長的鐳射機器來去除。",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/laser-tattoo-removal/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/laser-tattoo-removal/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/laser-tattoo-removal/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/laser-tattoo-removal/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/laser-tattoo-removal/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/laser-tattoo-removal/Untitled-3-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["不破壞周圍的皮膚", "緩解疼痛，腫脹和痙攣。", "能去 除彩色紋身或黑色紋身", "有效針對所有皮膚類型", "最大限度地減少留有疤痕的機會"],
+          "qa": [
+            {
+            "question": "Q: 術後情況",
+            "answer": "術後皮膚可能會發紅和結痂。"
+            },
+            {
+              "question": "Q: 什麼時候見效",
+              "answer": "術後癒合期結束後能見到效果，並在下來的一個月中會逐見明顯。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": "影響所需療程次數視乎各種因素。 例如，皮膚顏色，紋身顏色，紋身的位置等都是影響去除紋身的所需療程次數。 平均來說，客人需要大約8-10次的療程來達到滿意的效果。"
+            }
+          ],
+          "category": 2
+        },
+        {
+          "link": "chronic-migraine",
+          "name": "偏頭痛",
+          "shortDescription": "肉毒桿菌(保妥適®)注射能通過某些途徑，在三叉神經血管系統中的神經細胞中，抑制導致頭痛的因素， 緩解了偏頭痛的情況。 ",
+          "what": "慢性偏頭痛患者是被診斷為每月有 15 天或以上和頭痛持續 4 小時或更多的人。 保妥適 ® 如何改善偏頭痛問題 保妥適 ® 如何能緩解慢性偏頭痛的原因尚未完全瞭解。 肉毒桿菌(保妥適®)注射能通過某些途徑，在三叉神經血管系統中的神經細胞中，抑制導致頭痛的因素， 緩解了偏頭痛的情況。 保妥適®是被美國食品藥品監督管理局和加拿大衛生部認可為治療和預防慢性偏頭痛的療程。",
+          "before": "",
+          "slideimg": [{
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            },
+            {
+              "before": "assets/img/before.png",
+              "after": "assets/img/after.png"
+            }
+          ],
+          "benefitText": "",
+          "benefits": ["改善各種類型的靜脈疾病，如靜脈曲張， 蛛狀靜脈和網狀靜脈", "緩解疼痛，腫脹和痙攣。", "痛苦感較少相比起 鐳射治療", "色素沉著過度的機率較少相比起鐳射治療"],
+          "qa": [
+            {
+            "question": "Q: 什麼時候見效",
+            "answer": "效果可在一個月後看見。"
+            },
+            {
+              "question": "Q: 需要多少療程",
+              "answer": " 一般需要 3 - 5 次療程。"
+            }
+          ],
+          "category": 4
+        },
+        {
+          "link": "latisse-eyelash-treatment",
+          "name": "Latisse® 睫毛增長液",
+          "shortDescription": "Latisse® (bimatoprost ophthalmic solution 0.03%) 是一種用於促進睫毛生長的處方藥，臨床證明 Latisse® 能使睫毛更長，更黑和更濃密。",
+          "what": "Latisse® (bimatoprost ophthalmic solution 0.03%) 是一種用於促進睫毛生長的處方藥，臨床證明 Latisse® 能使睫毛更長，更黑和更濃密。 <br/><br/> 使用方法<ul><li>確保臉部清潔，應先洗掉化妝和除掉隱形眼鏡。</li><li>每晚睡前使用一次。 把一滴Latisse®放在一次性的無菌塗抹刷上。</li><li>塗在上睫毛的根部，把眼部多餘的溶液擦拭乾淨，以防眼部皮膚變黑。</li><li>打開另一支新的一次性的無菌塗抹刷，在另一邊重複以上步驟。</li><li>注意只有睫毛的根部接觸到Latisse®溶液，如不小心與任何其他皮膚接觸，可能會促進可能會促進不必要的頭髮生長。</li><li>Latisse®使用15分鐘後可以使用隱形眼鏡。</li></ul>",
+          "before": "",
+          "slideimg": [{
+            "before": "assets/img/treatment/latisse/Untitled-1-01.jpg",
+            "after": "assets/img/treatment/latisse/Untitled-1-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/latisse/Untitled-2-01.jpg",
+            "after": "assets/img/treatment/latisse/Untitled-2-02.jpg"
+          },
+          {
+            "before": "assets/img/treatment/latisse/Untitled-3-01.jpg",
+            "after": "assets/img/treatment/latisse/Untitled-3-02.jpg"
+          }
+          ],
+          "benefitText": "",
+          "benefits": ["改善各種類型的靜脈疾病，如靜脈曲張， 蛛狀靜脈和網狀靜脈", "緩解疼痛，腫脹和痙攣。", "痛苦感較少相比起 鐳射治療", "色素沉著過度的機率較少相比起鐳射治療"],
+          "qa": [
+            {
+            "question": "Q: 什麼時候見效",
+            "answer": "效果將在 8 週內顯現，並在12 到 16 週內全面展現。 一旦您對結果滿意，您可以選擇繼續日常使用或減少使用頻率。"
+            },
+            {
+              "question": "Q: 用後情況",
+              "answer": "在第 2 - 8 週內，您的眼睛可能會出現乾燥，瘙癢或發紅。在臨床試驗中，虹膜有機會變黑，但這情況非常罕見，我們當中並沒有遇到過這樣的情況。若是因Latisse®引起的色素改變是可以逆轉的。"
+            }
+          ],
+          "category": 4
+        }
+      ]
+    }
+  ],
+  "single": {
+    "treat": "治療",
+    "what": "什麼是",
+    "before": "之前",
+    "after": "之後",
+    "ben": "優點",
+    "other": "其他治療",
+    "make": "",
+    "contact": "回到首頁",
+    "both": "之前和之後",
+    "link": "了解更多"
+  },
+  "menu": {
+    "list": "治療列表",
+    "h1": "雷射",
+    "h2": "緊緻提升",
+    "h3": "光 + 電波 + 超聲波",
+    "h4": "其他"
+  },
+  "search": {
+    "s1": "Search",
+    "s2": "Treatments, Concerns etc"
+  }
+}

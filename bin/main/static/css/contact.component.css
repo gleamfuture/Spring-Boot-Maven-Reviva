@@ -1,0 +1,273 @@
+.hero {
+    position: relative;
+    background-color: #f1f1f1;
+    min-height: 500px;
+    padding: 230px 0 50px;
+}
+
+p {
+    color: #555555;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+
+p.bread {
+    color: black;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 40px;
+    text-transform: none;
+    line-height: 55px;
+}
+
+span.under {
+    border-bottom: 2px solid black;
+}
+
+.form-content {
+    padding: 60px 0;
+    background-color: white;
+}
+
+.form-narrow {
+    padding: 0 50px;
+    margin-top: 40px;
+}
+
+.form-narrow p {
+    font-size: 14px;
+}
+
+input.myInput, .mySelect {
+    color: black;
+    text-transform: uppercase;
+    font-size: 16px;
+    border: none;
+    border-radius: 0px;
+    box-shadow: none;
+    letter-spacing: 3px;
+    margin-top: 50px;
+    height: auto;
+    padding: 6px 6px 26px 6px;
+    border-bottom: 2px solid black;
+}
+
+input.myInput::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: #cccccc;
+}
+
+input.myInput::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #cccccc;
+}
+
+input.myInput:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #cccccc;
+}
+
+input.myInput:-moz-placeholder {
+    /* Firefox 18- */
+    color: #cccccc;
+}
+
+label {
+    color: black;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 3px;
+    margin-top: 45px;
+    padding-left: 6px;
+    font-weight: 400;
+}
+
+.myArea {
+    color: black;
+    text-transform: uppercase;
+    font-size: 16px;
+    border-radius: 0px;
+    box-shadow: none;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    height: auto;
+    padding: 6px 12px;
+    width: 100%;
+    border: 2px solid black;
+}
+
+.mySelect {
+    -webkit-appearance: none;
+    text-overflow: '';
+    background-image: url(../../../assets/img/down.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    cursor: pointer;
+    -moz-appearance: none;
+}
+
+.btn-submit {
+    color: white;
+    background-color: black;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 27px 120px;
+    margin-top: 50px;
+    margin-bottom: 65px;
+}
+
+agm-map {
+    height: 715px;
+}
+
+.info-box {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: white;
+    padding: 60px 0px 90px 100px;
+    margin-top: 60px;
+    width: 50%;
+}
+
+.info-box h3 {
+    font-size: 36px;
+}
+
+.special-box {
+    width: 130%;
+    margin-left: -30%;
+}
+
+.info-box p {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.info-box p a {
+    color: black;
+    text-decoration: underline;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.up {
+    text-transform: uppercase;
+}
+
+.semi {
+    font-weight: 600;
+}
+
+.hours {
+    margin-top: 45px;
+}
+
+.info-box .table tr td:first-child {
+    text-transform: uppercase;
+    width: 145px;
+}
+
+.info-box .table tr td {
+    border: none !important;
+    padding: 7px 0px;
+}
+
+.nn {
+    cursor: pointer;
+}
+
+@media screen and (min-width:992px) and (max-width:1199px) {
+    .info-box {
+        margin-top: 30px;
+    }
+}
+
+@media(max-width:991px) {
+    p.bread {
+        font-size: 16px;
+    }
+    .hero {
+        padding-top: 150px;
+    }
+    .form-narrow {
+        margin-top: 0;
+        padding: 0;
+    }
+    .go-in {
+        padding-left: 30px;
+    }
+    .special-box {
+        width: 100%;
+        margin: 0;
+    }
+    .info-box {
+        position: relative;
+        width: 100%;
+        padding: 20px 30px;
+        margin-top: 0;
+        padding-bottom: 60px;
+    }
+    agm-map {
+        height: 500px;
+    }
+}
+
+@media(max-width:767px) {
+    p.bread {
+        font-size: 13px;
+    }
+    .hero {
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .form-content {
+        padding: 30px 0 60px;
+    }
+    h1 {
+        font-size: 32px;
+    }
+    .form-narrow p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    input.myInput, .mySelect {
+        font-size: 12px;
+    }
+    label {
+        font-size: 12px;
+    }
+    .btn-submit {
+        padding: 27px 40px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .info-box h3 {
+        font-size: 28px;
+        margin-bottom: 0;
+    }
+}
+
+.overmap {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 9;
+    cursor: pointer;
+}

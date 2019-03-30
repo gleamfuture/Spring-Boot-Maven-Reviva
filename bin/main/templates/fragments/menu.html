@@ -1,0 +1,59 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+<div class="menu-body" th:fragment="menu">
+    <div class="menu">
+        <div class="child">
+            <div class="row">
+                <div class="col-sm-12 hidden-sm hidden-xs">
+                    <h1 th:text="${menu_list}"></h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-sm-6">
+                    <div class="menu-item">
+                        <h5 th:text="${menu_h1}"></h5>
+                        <ul>
+                            <li th:each="item: ${array1}">
+                                <a th:href="@{'/' + ${lang} + '/treatments/' + ${item.link}}" th:text="${item.name}"></a>
+                            </li>
+                        </ul>
+                        <img src="assets/img/flower.png" class="flower" alt="">
+                    </div>
+                    <div class="menu-item">
+                        <h5 th:text="${menu_h2}"></h5>
+                        <ul>
+                            <li th:each="item: ${array2}">
+                                <a th:href="@{'/' + ${lang} + '/treatments/' + ${item.link}}" th:text="${item.name}"></a>
+                            </li>
+                        </ul>
+                        <img src="assets/img/flower.png" class="flower" alt="">
+                    </div>
+                </div>
+                <div class="col-md-12 col-sm-6">
+                    <div class="menu-item">
+                        <h5 th:text="${menu_h3}"></h5>
+                        <ul>
+                            <li th:each="item:${array3}">
+                                <a th:href="@{'/' + ${lang} + '/treatments/' + ${item.link}}" th:text="${item.name}"></a>
+                            </li>
+                        </ul>
+                        <img src="assets/img/flower.png" class="flower" alt="">
+                    </div>
+                    <div class="menu-item">
+                        <h5 th:text="${menu_h4}"></h5>
+                        <ul>
+                            <li th:each="item:${array4}">
+                                <a th:href="@{'/' + ${lang} + '/treatments/' + ${item.link}}" th:text="${item.name}"></a>
+                            </li>
+                        </ul>
+                        <img src="assets/img/flower.png" class="flower" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="toggler" onclick="crazy()">
+        <h5><img src="assets/img/gold.png" class="gold" alt=""><span th:text="${menu_list}"></span></h5>
+    </div>
+    <div class="white-over"></div>
+</div>
